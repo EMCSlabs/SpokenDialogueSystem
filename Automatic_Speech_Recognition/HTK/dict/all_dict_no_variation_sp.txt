@@ -1,0 +1,2258 @@
+!ENTER	[] sil
+!EXIT	[] sil
+sil		sil 
+aaLL	aa ll sp
+aaLLaa	aa ll aa sp
+aaLLaap0ooLL	aa ll aa p0 oo ll sp
+aaLLk0ee	aa ll k0 ee sp
+aaLLllyvc0yv	aa ll ll yv c0 yv sp
+aaLLmmaaC0xxNN	aa ll mm aa c0 xx nn sp
+aaNN	aa nn sp
+aaNNC0aa	aa nn c0 aa sp
+aaNNC0aas0vv	aa nn c0 aa s0 vv sp
+aaNNHHaaSSnnxxnnyaee	aa nn aa nn nn xx nn ya ee sp
+aaNNHHaaSSt0aa	aa nn aa t0 tt aa sp
+aaNNHHk0ee	aa nn kh ee sp
+aaNNHHk0oo	aa nn kh oo sp
+aaNNHHnnxxNN	aa nn nn xx nn sp
+aaNNHHnnxxNNt0aa	aa nn nn xx nn t0 aa sp
+aaNNHHnnxxNNt0ee	aa nn nn xx nn t0 ee sp
+aaNNHHnnxxnnya	aa nn nn xx nn ya sp
+aaNNHHt0aa	aa nn th aa sp
+aaNNHHt0vvNN	aa nn th vv nn sp
+aaNNHHxxNN	aa nn xx nn sp
+aaNNHHxxNNk0aa	aa nn xx nn k0 aa sp
+aaNNHHxxmmyvNN	aa nn xx mm yv nn sp
+aaNNHHxxmmyvNNs0vvt0oo	aa nn xx mm yv nn s0 vv t0 oo sp
+aaNNee	aa nn ee sp
+aaNNees0vv	aa nn ee s0 vv sp
+aaNNk0eek0aa	aa nn k0 ee k0 aa sp
+aaNNk0iik0iimmaaNN	aa nn k0 ii k0 ii mm aa nn sp
+aaNNk0oo	aa nn k0 oo sp
+aaP0chuuK0t0wek0oo	aa p0 ch uu k0 tt we k0 oo sp
+aaP0chuuK0t0wevv	aa p0 ch uu k0 tt we vv sp
+aaPH	aa ph sp
+aaPHees0vv	aa ph ee s0 vv sp
+aaPHs0eeuuk0oo	aa p0 ss ee uu k0 oo sp
+aac0iiK0	aa c0 ii k0 sp
+aac0iiK0t0oo	aa c0 ii k0 tt oo sp
+aac0iillaangiinnxxNN	aa c0 ii ll aa ng ii nn xx nn sp
+aac0uu	aa c0 uu sp
+aacciiLLhheeSSt0aa	aa cc ii ll hh ee t0 tt aa sp
+aahhooP0	aa hh oo p0 sp
+aaiit0xxLLeek0ee	aa ii t0 xx ll ee k0 ee sp
+aaiit0xxLLii	aa ii t0 xx ll ii sp
+aaiit0xxLLk0wa	aa ii t0 xx ll k0 wa sp
+aaiit0xxLLxi	aa ii t0 xx ll xi sp
+aaiit0xxLLxxNN	aa ii t0 xx ll xx nn sp
+aakhaas0iiaakkooCHii	aa kh aa s0 ii aa kk oo ch ii sp
+aakkaap0uuthvv	aa kk aa p0 uu th vv sp
+aakkaawvs0vvyvSSt0aa	aa kk aa wv s0 vv yv t0 tt aa sp
+aallaangk0ooS0hhaac0ii	aa ll aa ng k0 oo s0 hh aa c0 ii sp
+aallee	aa ll ee sp
+aalleephyvNNxxlloo	aa ll ee ph yv nn xx ll oo sp
+aallxxMMt0aaP0k0ee	aa ll xx mm t0 aa p0 kk ee sp
+aallxxMMt0aaP0k0oo	aa ll xx mm t0 aa p0 kk oo sp
+aallxxMMt0aaP0k0vvnnaa	aa ll xx mm t0 aa p0 kk vv nn aa sp
+aallxxMMt0aaP0t0aannxxNN	aa ll xx mm t0 aa p0 tt aa nn xx nn sp
+aallxxMMt0aauuMMii	aa ll xx mm t0 aa uu mm ii sp
+aallxxMMt0aauuMMiillaaNN	aa ll xx mm t0 aa uu mm ii ll aa nn sp
+aallxxMMt0aauuMMmmaaNNxxLL	aa ll xx mm t0 aa uu mm mm aa nn xx ll sp
+aallxxMMt0aauuMMxxNN	aa ll xx mm t0 aa uu mm xx nn sp
+aallxxMMt0aauuMMxxlloo	aa ll xx mm t0 aa uu mm xx ll oo sp
+aallxxMMt0aauuNN	aa ll xx mm t0 aa uu nn sp
+aammuullii	aa mm uu ll ii sp
+aammuuthxxNN	aa mm uu th xx nn sp
+aanneennxxNN	aa nn ee nn xx nn sp
+aanneexi	aa nn ee xi sp
+aanniiLL	aa nn ii ll sp
+aanniiNN	aa nn ii nn sp
+aanniihheet0oo	aa nn ii hh ee t0 oo sp
+aanniik0oo	aa nn ii k0 oo sp
+aanniik0vvt0xxNN	aa nn ii k0 vv t0 xx nn sp
+aanniillaa	aa nn ii ll aa sp
+aanniillaaNN	aa nn ii ll aa nn sp
+aanniillaak0oo	aa nn ii ll aa k0 oo sp
+aanniimmyvNN	aa nn ii mm yv nn sp
+aanniinnii	aa nn ii nn ii sp
+aanniit0aa	aa nn ii t0 aa sp
+aanniiya	aa nn ii ya sp
+aannxxNNc0ii	aa nn xx nn c0 ii sp
+c0aaK0k0aat0xxLLee	c0 aa k0 kk aa t0 xx ll ee sp
+c0aaK0k0aat0xxLLxi	c0 aa k0 kk aa t0 xx ll xi sp
+c0aaK0k0aat0xxLLxxNN	c0 aa k0 kk aa t0 xx ll xx nn sp
+c0aaK0k0aaxi	c0 aa k0 kk aa xi sp
+c0aaK0phuuMMiit0aa	c0 aa k0 ph uu mm ii t0 aa sp
+c0aaK0yongiit0aa	c0 aa k0 yo ng ii t0 aa sp
+c0aaLL	c0 aa ll sp
+c0aaMMc0aakhoo	c0 aa mm c0 aa kh oo sp
+c0aaMMk0xxk0oo	c0 aa mm k0 xx k0 oo sp
+c0aaNNt0ii	c0 aa nn t0 ii sp
+c0aaNNt0iiee	c0 aa nn t0 ii ee sp
+c0aaNNt0iik0aa	c0 aa nn t0 ii k0 aa sp
+c0aaNNt0iillxxLL	c0 aa nn t0 ii ll xx ll sp
+c0aaNNt0iip0aaTHee	c0 aa nn t0 ii p0 aa th ee sp
+c0aaP0aat0aak0aa	c0 aa p0 aa t0 aa k0 aa sp
+c0aaP0c0aannxxNN	c0 aa p0 cc aa nn xx nn sp
+c0aaP0choowa	c0 aa p0 ch oo wa sp
+c0aaP0hhiiLL	c0 aa ph ii ll sp
+c0aaP0k0oo	c0 aa p0 kk oo sp
+c0aaP0mmooK0k0wa	c0 aa mm mm oo k0 kk wa sp
+c0aak0ii	c0 aa k0 ii sp
+c0aak0iit0oo	c0 aa k0 ii t0 oo sp
+c0aak0iixi	c0 aa k0 ii xi sp
+c0aak0oo	c0 aa k0 oo sp
+c0aakkuu	c0 aa kk uu sp
+c0aakkuummaaNN	c0 aa kk uu mm aa nn sp
+c0aallaas0vvnnxxNN	c0 aa ll aa s0 vv nn xx nn sp
+c0aalliic0aaP0nnxxNN	c0 aa ll ii c0 aa mm nn xx nn sp
+c0aalliieennxxNN	c0 aa ll ii ee nn xx nn sp
+c0aalliillxxLL	c0 aa ll ii ll xx ll sp
+c0aangchiillxxLL	c0 aa ng ch ii ll xx ll sp
+c0aangk0iiphaaNNt0oo	c0 aa ng k0 ii ph aa nn t0 oo sp
+c0aangllxx	c0 aa ng nn xx sp
+c0aangs0aak0aa	c0 aa ng s0 aa k0 aa sp
+c0aangs0aallxxLL	c0 aa ng s0 aa ll xx ll sp
+c0aas0eehhii	c0 aa s0 ee hh ii sp
+c0aas0iiNNiiLL	c0 aa s0 ii nn ii ll sp
+c0aayus0xxllvvNN	c0 aa yu s0 xx ll vv nn sp
+c0aayvNNk0wa	c0 aa yv nn k0 wa sp
+c0aayvNNs0xxllvvP0k0ee	c0 aa yv nn s0 xx ll vv p0 kk ee sp
+c0ee	c0 ee sp
+c0eechaangc0oot0weNN	c0 ee ch aa ng c0 oo t0 we nn sp
+c0eechooK0hhaaNNt0aak0oo	c0 ee ch oo kh aa nn t0 aa k0 oo sp
+c0eechooK0xxLL	c0 ee ch oo k0 xx ll sp
+c0eek0aaK0k0ii	c0 ee k0 aa k0 kk ii sp
+c0eek0uus0vvngt0weNN	c0 ee k0 uu s0 vv ng t0 we nn sp
+c0eek0wac0vvMMeellxxLL	c0 ee k0 wa c0 vv mm ee ll xx ll sp
+c0eemmiiiiSSnnxxNN	c0 ee mm ii ii nn nn xx nn sp
+c0eemmvvS0t0eelloo	c0 ee mm vv t0 tt ee ll oo sp
+c0ees0iihhaak0ooc0aa	c0 ee s0 ii hh aa k0 oo c0 aa sp
+c0eet0eelloo	c0 ee t0 ee ll oo sp
+c0ii	c0 ii sp
+c0iiK0c0vvP0	c0 ii k0 cc vv p0 sp
+c0iiK0hhuuee	c0 ii kh uu ee sp
+c0iiLL	c0 ii ll sp
+c0iiLLllvv	c0 ii ll ll vv sp
+c0iiLLs0eeK0iivvSSt0aa	c0 ii ll s0 ee k0 ii vv t0 tt aa sp
+c0iiMMs0xxngii	c0 ii mm s0 xx ng ii sp
+c0iiMMs0xxngt0oo	c0 ii mm s0 xx ng t0 oo sp
+c0iiNN	c0 ii nn sp
+c0iiNNt0aaLLlleek0aa	c0 ii nn t0 aa ll ll ee k0 aa sp
+c0iiP0c0uungxxLL	c0 ii p0 cc uu ng xx ll sp
+c0iiP0ee	c0 ii p0 ee sp
+c0iiP0ees0vv	c0 ii p0 ee s0 vv sp
+c0iiP0vv	c0 ii p0 vv sp
+c0iiS0ii	c0 ii s0 ii sp
+c0iiS0k0oo	c0 ii t0 kk oo sp
+c0iiTHk0oo	c0 ii t0 kk oo sp
+c0iic0vvk0wik0oo	c0 ii c0 vv k0 wi k0 oo sp
+c0iichiiNN	c0 ii ch ii nn sp
+c0iichiik0oo	c0 ii ch ii k0 oo sp
+c0iichvvNNxxlloo	c0 ii ch vv nn xx ll oo sp
+c0iichyv	c0 ii ch yv sp
+c0iihhyangc0vvMMxxLL	c0 ii hh ya ng c0 vv mm xx ll sp
+c0iihhyet0aa	c0 ii hh ye t0 aa sp
+c0iihhyet0oo	c0 ii hh ye t0 oo sp
+c0iik0oo	c0 ii k0 oo sp
+c0iik0xxMMkkaac0ii	c0 ii k0 xx mm kk aa c0 ii sp
+c0iik0xxMMxxNN	c0 ii k0 xx mm xx nn sp
+c0iik0yvP0t0oollooK0	c0 ii k0 yv p0 tt oo ll oo k0 sp
+c0iik0yvngiit0aa	c0 ii k0 yv ng ii t0 aa sp
+c0iilluuhhaak0oo	c0 ii ll uu hh aa k0 oo sp
+c0iingk0vvMMt0aallii	c0 ii ng k0 vv mm t0 aa ll ii sp
+c0iingk0vvMMt0aalliillxxLL	c0 ii ng k0 vv mm t0 aa ll ii ll xx ll sp
+c0iinnaaSSt0aak0oo	c0 ii nn aa t0 tt aa k0 oo sp
+c0iinnaac0ii	c0 ii nn aa c0 ii sp
+c0iinnaak0aannxxNN	c0 ii nn aa k0 aa nn xx nn sp
+c0iinniiNN	c0 ii nn ii nn sp
+c0iip0uung	c0 ii p0 uu ng sp
+c0iiphyvSSt0aa	c0 ii ph yv t0 tt aa sp
+c0iis0iiK0	c0 ii s0 ii k0 sp
+c0iis0iiK0iit0aa	c0 ii s0 ii k0 ii t0 aa sp
+c0iis0iiK0xxLL	c0 ii s0 ii k0 xx ll sp
+c0iis0iiK0xxNN	c0 ii s0 ii k0 xx nn sp
+c0iiwvc0iik0oo	c0 ii wv c0 ii k0 oo sp
+c0iixxNN	c0 ii xx nn sp
+c0ooHHaahheeSSk0oo	c0 oo aa hh ee t0 kk oo sp
+c0ooHHaahheeSSt0aa	c0 oo aa hh ee t0 tt aa sp
+c0ooHHk0eeSSt0aa	c0 oo kh ee t0 tt aa sp
+c0ooHHt0aannxxNN	c0 oo th aa nn xx nn sp
+c0ooHHt0aannxxNNt0ee	c0 oo th aa nn xx nn t0 ee sp
+c0ooHHxxNN	c0 oo xx nn sp
+c0ooHHxxnnii	c0 oo xx nn ii sp
+c0ooLLllyvLLhhaaNN	c0 oo ll ll yv ll hh aa nn sp
+c0ooLLmmyvNNs0vv	c0 oo ll mm yv nn s0 vv sp
+c0ooMM	c0 oo mm sp
+c0ooMMchvvllvvMM	c0 oo mm ch vv ll vv mm sp
+c0ooMMt0vv	c0 oo mm t0 vv sp
+c0ooNNc0eek0aa	c0 oo nn c0 ee k0 aa sp
+c0ooNNc0eennxxNN	c0 oo nn c0 ee nn xx nn sp
+c0oohhaaP0	c0 oo hh aa p0 sp
+c0ook0eec0ii	c0 oo k0 ee c0 ii sp
+c0ook0xxMMxxNN	c0 oo k0 xx mm xx nn sp
+c0oommuulleek0iit0xxLLeek0ee	c0 oo mm uu ll ee k0 ii t0 xx ll ee k0 ee sp
+c0oongllooee	c0 oo ng nn oo ee sp
+c0oongllyuwa	c0 oo ng nn yu wa sp
+c0oos0iiMMs0xxllvvP0k0ee	c0 oo s0 ii mm s0 xx ll vv p0 kk ee sp
+c0ooyaK0t0ooLLii	c0 oo ya k0 tt oo ll ii sp
+c0ooyaK0t0ooLLiivvSSt0aa	c0 oo ya k0 tt oo ll ii vv t0 tt aa sp
+c0ooyaK0t0ooLLxxLL	c0 oo ya k0 tt oo ll xx ll sp
+c0ooyonghhaak0iimmaaNN	c0 oo yo ng hh aa k0 ii mm aa nn sp
+c0uuK0iiLL	c0 uu k0 ii ll sp
+c0uuK0k0iiee	c0 uu k0 kk ii ee sp
+c0uuK0k0iinnxxNN	c0 uu k0 kk ii nn xx nn sp
+c0uuK0vv	c0 uu k0 vv sp
+c0uuK0xxLL	c0 uu k0 xx ll sp
+c0uuLL	c0 uu ll sp
+c0uuMMxxlloossvv	c0 uu mm xx ll oo ss vv sp
+c0uuNNt0aa	c0 uu nn t0 aa sp
+c0uuNNt0aannxxNN	c0 uu nn t0 aa nn xx nn sp
+c0uuc0ii	c0 uu c0 ii sp
+c0uuiiNNee	c0 uu ii nn ee sp
+c0uuk0iillxxLL	c0 uu k0 ii ll xx ll sp
+c0uuk0iit0oo	c0 uu k0 ii t0 oo sp
+c0uuk0oo	c0 uu k0 oo sp
+c0uuk0oop0aaT0nnxxNN	c0 uu k0 oo p0 aa nn nn xx nn sp
+c0uulloo	c0 uu ll oo sp
+c0uummooK0c0vvK0xxlloo	c0 uu mm oo k0 cc vv k0 xx ll oo sp
+c0uummuullxxnnxxNN	c0 uu mm uu ll xx nn xx nn sp
+c0uummvvnnii	c0 uu mm vv nn ii sp
+c0uummvvnniiee	c0 uu mm vv nn ii ee sp
+c0uungeennxxNN	c0 uu ng ee nn xx nn sp
+c0uungees0vv	c0 uu ng ee s0 vv sp
+c0uunghhaaK0s0eengxxlloo	c0 uu ng hh aa k0 ss ee ng xx ll oo sp
+c0uungs0iiMMxxlloo	c0 uu ng s0 ii mm xx ll oo sp
+c0uungs0iihhaannxxNN	c0 uu ng s0 ii hh aa nn xx nn sp
+c0uunnxxNN	c0 uu nn xx nn sp
+c0uuvvSSt0aa	c0 uu vv t0 tt aa sp
+c0uuwillxxLL	c0 uu wi ll xx ll sp
+c0vv	c0 vv sp
+c0vvC0mmvvK0ii	c0 vv nn mm vv k0 ii sp
+c0vvC0mmvvK0iillxxLL	c0 vv nn mm vv k0 ii ll xx ll sp
+c0vvK0vvt0oo	c0 vv k0 vv t0 oo sp
+c0vvLLMMxxNNiit0xxLLxi	c0 vv ll mm xx nn ii t0 xx ll xi sp
+c0vvLLt0eec0vvK0iiNN	c0 vv ll t0 ee c0 vv k0 ii nn sp
+c0vvMMc0vvMM	c0 vv mm c0 vv mm sp
+c0vvMMees0vv	c0 vv mm ee s0 vv sp
+c0vvMMees0vvnnxxNN	c0 vv mm ee s0 vv nn xx nn sp
+c0vvMMs0uunnaa	c0 vv mm s0 uu nn aa sp
+c0vvMMxxNN	c0 vv mm xx nn sp
+c0vvNNc0eeng	c0 vv nn c0 ee ng sp
+c0vvNNchaallxxLL	c0 vv nn ch aa ll xx ll sp
+c0vvNNcheec0vvK0iiNN	c0 vv nn ch ee c0 vv k0 ii nn sp
+c0vvNNcheellxxLL	c0 vv nn ch ee ll xx ll sp
+c0vvNNee	c0 vv nn ee sp
+c0vvNNhhyv	c0 vv nn hh yv sp
+c0vvNNiit0aa	c0 vv nn ii t0 aa sp
+c0vvNNk0eet0wevvSSt0aa	c0 vv nn k0 ee t0 we vv t0 tt aa sp
+c0vvNNk0iit0oo	c0 vv nn k0 ii t0 oo sp
+c0vvNNmmuuNNc0vvK0iiNN	c0 vv nn mm uu nn c0 vv k0 ii nn sp
+c0vvNNp0uullxxLL	c0 vv nn p0 uu ll xx ll sp
+c0vvNNp0uuthvv	c0 vv nn p0 uu th vv sp
+c0vvNNxi	c0 vv nn xi sp
+c0vvP0hhaak0ee	c0 vv ph aa k0 ee sp
+c0vvc0vvLLlloo	c0 vv c0 vv ll ll oo sp
+c0vvccxxMM	c0 vv cc xx mm sp
+c0vvllii	c0 vv ll ii sp
+c0vvllvvt0aak0aannxxNN	c0 vv ll vv t0 aa k0 aa nn xx nn sp
+c0vvmmaat0aa	c0 vv mm aa t0 aa sp
+c0vvmmuuLLt0oollooK0	c0 vv mm uu ll t0 oo ll oo k0 sp
+c0vvngk0yohhaaNN	c0 vv ng k0 yo hh aa nn sp
+c0vvngk0yvLLhhaaNN	c0 vv ng k0 yv ll hh aa nn sp
+c0vvngs0iiNN	c0 vv ng s0 ii nn sp
+c0vvngs0iiNNxxLL	c0 vv ng s0 ii nn xx ll sp
+c0vvngt0oolloo	c0 vv ng t0 oo ll oo sp
+c0vvt0oo	c0 vv t0 oo sp
+c0wellxxLL	c0 we ll xx ll sp
+c0wvSSxxmmyvNN	c0 wv ss xx mm yv nn sp
+c0xxK0	c0 xx k0 sp
+c0xxLLk0vvP0k0iimmaaNN	c0 xx ll k0 vv p0 kk ii mm aa nn sp
+c0xxLLk0vvuuMMxxLL	c0 xx ll k0 vv uu mm xx ll sp
+c0xxngmmyvnghhaallyv	c0 xx ng mm yv ng hh aa ll yv sp
+c0xxngoos0iiMMt0oo	c0 xx ng oo s0 ii mm t0 oo sp
+c0xxngs0ooNNnnyvllaannxxNN	c0 xx ng s0 oo nn nn yv ll aa nn xx nn sp
+ccaaK0ii	cc aa k0 ii sp
+ccaaLLP0xxNN	cc aa ll p0 xx nn sp
+ccaalliiS0hhaak0ee	cc aa ll ii s0 hh aa k0 ee sp
+cciiLL	cc ii ll sp
+cciiP0cciiLLhhaaNN	cc ii p0 cc ii ll hh aa nn sp
+cciik0oo	cc ii k0 oo sp
+cciillxxNNt0aak0oo	cc ii ll xx nn t0 aa k0 oo sp
+ccooCHk0oo	cc oo t0 kk oo sp
+ccooK0	cc oo k0 sp
+ccooK0ii	cc oo k0 ii sp
+ccooK0xxLL	cc oo k0 xx ll sp
+ccwet0vvNN	cc we t0 vv nn sp
+ccyvSSnnxxNNc0ii	cc yv nn nn xx nn c0 ii sp
+chaa	ch aa sp
+chaaC0aa	ch aa c0 aa sp
+chaaC0aallaa	ch aa c0 aa ll aa sp
+chaaMM	ch aa mm sp
+chaaMMwep0aaTHxxLL	ch aa mm we p0 aa th xx ll sp
+chaaMMxxlloo	ch aa mm xx ll oo sp
+chaaMMyvhhaaNN	ch aa mm yv hh aa nn sp
+chaac0iihhaannxxNN	ch aa c0 ii hh aa nn xx nn sp
+chaaiinnxxNN	ch aa ii nn xx nn sp
+chaak0aauuMMxxLL	ch aa k0 aa uu mm xx ll sp
+chaak0aauuNN	ch aa k0 aa uu nn sp
+chaalloo	ch aa ll oo sp
+chaallxxLL	ch aa ll xx ll sp
+chaangc0ooc0vvK0	ch aa ng c0 oo c0 vv k0 sp
+chaangc0oohhaak0oo	ch aa ng c0 oo hh aa k0 oo sp
+chaawvNNii	ch aa wv nn ii sp
+chee	ch ee sp
+cheehhaaNNt0aa	ch ee hh aa nn t0 aa sp
+cheehheeSSt0aa	ch ee hh ee t0 tt aa sp
+cheehhvvMMmmaaNNxxlloossvv	ch ee hh vv mm mm aa nn xx ll oo ss vv sp
+cheehhvvMMxxLL	ch ee hh vv mm xx ll sp
+cheehhvvMMxxlloo	ch ee hh vv mm xx ll oo sp
+cheehhvvMMxxlloossvv	ch ee hh vv mm xx ll oo ss vv sp
+cheelloo	ch ee ll oo sp
+cheemmaaNNs0iiK0xxNN	ch ee mm aa nn s0 ii k0 xx nn sp
+cheennyvMMhhaaLL	ch ee nn yv mm hh aa ll sp
+cheeyvngs0iiNNii	ch ee yv ng s0 ii nn ii sp
+cheeyvngs0iiNNiillaaNN	ch ee yv ng s0 ii nn ii ll aa nn sp
+cheeyvngs0iiNNk0wa	ch ee yv ng s0 ii nn k0 wa sp
+chiiLLhhaaNN	ch ii ll hh aa nn sp
+chiiMMmmuuK0hhaaNN	ch ii mm mm uu kh aa nn sp
+chiiNNk0uueek0ee	ch ii nn k0 uu ee k0 ee sp
+chiic0aanghhee	ch ii c0 aa ng hh ee sp
+chiiiik0oo	ch ii ii k0 oo sp
+chiillvvya	ch ii ll vv ya sp
+chooc0oohhaaLL	ch oo c0 oo hh aa ll sp
+choohhyvNNs0iiLLc0vvK0iiNN	ch oo hh yv nn s0 ii ll c0 vv k0 ii nn sp
+chook0aac0iiP0	ch oo k0 aa c0 ii p0 sp
+choongcheec0vvK0iiNN	ch oo ng ch ee c0 vv k0 ii nn sp
+choop0ooc0vvK0iiyo	ch oo p0 oo c0 vv k0 ii yo sp
+choop0vvLL	ch oo p0 vv ll sp
+choos0iinnee	ch oo s0 ii nn ee sp
+chuuK0c0vvK0iiyo	ch uu k0 cc vv k0 ii yo sp
+chuuNNhhyangiinnaa	ch uu nn hh ya ng ii nn aa sp
+chuuhhaaNN	ch uu hh aa nn sp
+chuuk0uuhhaak0ee	ch uu k0 uu hh aa k0 ee sp
+chuuk0uuhhaak0ii	ch uu k0 uu hh aa k0 ii sp
+chuuk0uuhhaak0iit0oo	ch uu k0 uu hh aa k0 ii t0 oo sp
+chuuk0uuhhaammyvNNs0vv	ch uu k0 uu hh aa mm yv nn s0 vv sp
+chuuk0uuhhaannxxNN	ch uu k0 uu hh aa nn xx nn sp
+chuuk0uuhhaayv	ch uu k0 uu hh aa yv sp
+chuungp0uuNNhhii	ch uu ng p0 uu nn hh ii sp
+chuunnyvllxxLL	ch uu nn yv ll xx ll sp
+chvvNNchvvNNhhaaNN	ch vv nn ch vv nn hh aa nn sp
+chvvNNchvvNNhhii	ch vv nn ch vv nn hh ii sp
+chvvngchvvnghhaaNN	ch vv ng ch vv ng hh aa nn sp
+chvvngllyanghhaaNN	ch vv ng nn ya ng hh aa nn sp
+chvvngllyanglliiyvK0xxlloo	ch vv ng nn ya ng nn ii yv k0 xx ll oo sp
+chvvngnnyvNNt0xxLLii	ch vv ng nn yv nn t0 xx ll ii sp
+chvvngs0ooLLk0aac0iillxxLL	ch vv ng s0 oo ll k0 aa c0 ii ll xx ll sp
+chvvxxMMeennxxNN	ch vv xx mm ee nn xx nn sp
+chweyongs0iiNNiillaannxxNN	ch we yo ng s0 ii nn ii ll aa nn xx nn sp
+chxxK0mmyvNNees0vv	ch xx ng mm yv nn ee s0 vv sp
+eeK0cheek0aa	ee k0 ch ee k0 aa sp
+eeS0t0weNN	ee t0 tt we nn sp
+eessxxnnxxNN	ee ss xx nn xx nn sp
+eet0xxLLii	ee t0 xx ll ii sp
+eet0xxLLxxNN	ee t0 xx ll xx nn sp
+hhaaK0k0yo	hh aa k0 kk yo sp
+hhaaK0k0yoees0vv	hh aa k0 kk yo ee s0 vv sp
+hhaaK0mmaaxxLL	hh aa ng mm aa xx ll sp
+hhaaK0s0eengii	hh aa k0 ss ee ng ii sp
+hhaaLL	hh aa ll sp
+hhaaLLTHaa	hh aa ll th aa sp
+hhaaLLc0iillaat0oo	hh aa ll c0 ii ll aa t0 oo sp
+hhaaLLmmvvnniinnxxNN	hh aa ll mm vv nn ii nn xx nn sp
+hhaaMMkkee	hh aa mm kk ee sp
+hhaaMMyangk0wa	hh aa mm ya ng k0 wa sp
+hhaaNN	hh aa nn sp
+hhaaNNchaaMM	hh aa nn ch aa mm sp
+hhaaNNchaangiivvSSt0aa	hh aa nn ch aa ng ii vv t0 tt aa sp
+hhaaNNk0aauuNNt0ee	hh aa nn k0 aa uu nn t0 ee sp
+hhaaNNk0aauuNNt0eeee	hh aa nn k0 aa uu nn t0 ee ee sp
+hhaaNNp0vvNN	hh aa nn p0 vv nn sp
+hhaaNNphyvNNxxlloonnxxNN	hh aa nn ph yv nn xx ll oo nn xx nn sp
+hhaaNNphyvngs0eeng	hh aa nn ph yv ng s0 ee ng sp
+hhaaNNt0aa	hh aa nn t0 aa sp
+hhaaNNt0aaNN	hh aa nn t0 aa nn sp
+hhaaNNt0aammyvNN	hh aa nn t0 aa mm yv nn sp
+hhaaNNt0aat0vvk0uuNN	hh aa nn t0 aa t0 vv k0 uu nn sp
+hhaaNNyonguuNNxxNN	hh aa nn yo ng uu nn xx nn sp
+hhaac0aa	hh aa c0 aa sp
+hhaac0iimmaannxxNN	hh aa c0 ii mm aa nn xx nn sp
+hhaak0eeSSc0iimmaaNN	hh aa k0 ee t0 cc ii mm aa nn sp
+hhaak0eeSSt0aa	hh aa k0 ee t0 tt aa sp
+hhaak0ii	hh aa k0 ii sp
+hhaak0oo	hh aa k0 oo sp
+hhaak0vvnnaa	hh aa k0 vv nn aa sp
+hhaalluuhhaalluuk0aa	hh aa ll uu hh aa ll uu k0 aa sp
+hhaammyvNN	hh aa mm yv nn sp
+hhaammyvNNs0vv	hh aa mm yv nn s0 vv sp
+hhaannaa	hh aa nn aa sp
+hhaannaannxxNN	hh aa nn aa nn xx nn sp
+hhaannaaxi	hh aa nn aa xi sp
+hhaannxxLLlloo	hh aa nn xx ll ll oo sp
+hhaannxxLLxi	hh aa nn xx ll xi sp
+hhaannxxNN	hh aa nn xx nn sp
+hhaat0vvNN	hh aa t0 vv nn sp
+hhaat0vvnnii	hh aa t0 vv nn ii sp
+hhaayaNN	hh aa ya nn sp
+hhaayvSSt0aa	hh aa yv t0 tt aa sp
+hhee	hh ee sp
+hheeS0s0aaLL	hh ee t0 ss aa ll sp
+hheeS0s0aaLLii	hh ee t0 ss aa ll ii sp
+hheeSSt0aa	hh ee t0 tt aa sp
+hheeSSt0vvnnii	hh ee t0 tt vv nn ii sp
+hheeSSt0vvnniip0aangmmaangii	hh ee t0 tt vv nn ii p0 aa ng mm aa ng ii sp
+hheeSSxxLL	hh ee ss xx ll sp
+hheeSSxxmmyv	hh ee ss xx mm yv sp
+hheeSSxxnnaa	hh ee ss xx nn aa sp
+hheek0aa	hh ee k0 aa sp
+hheemmvvK0k0iik0aa	hh ee mm vv k0 kk ii k0 aa sp
+hheengk0uuLL	hh ee ng k0 uu ll sp
+hheengs0aaiik0ii	hh ee ng s0 aa ii k0 ii sp
+hheengwiee	hh ee ng wi ee sp
+hheengwillxxLL	hh ee ng wi ll xx ll sp
+hheengwimmaaNNxxLL	hh ee ng wi mm aa nn xx ll sp
+hhees0vv	hh ee s0 vv sp
+hhees0vvK0xxLL	hh ee s0 vv k0 xx ll sp
+hheet0oo	hh ee t0 oo sp
+hheeya	hh ee ya sp
+hhiiMMii	hh ii mm ii sp
+hhiiMMxi	hh ii mm xi sp
+hhiiMMxxlloo	hh ii mm xx ll oo sp
+hhooK0xxNN	hh oo k0 xx nn sp
+hhooNNthaaK0hhaaNN	hh oo nn th aa kh aa nn sp
+hhoollaaK0hhoollaaK0	hh oo ll aa kh oo ll aa k0 sp
+hhuuLLllyunghhaaNN	hh uu ll ll yu ng hh aa nn sp
+hhuuLLllyunghhaak0oo	hh uu ll ll yu ng hh aa k0 oo sp
+hhuuMMchyv	hh uu mm ch yv sp
+hhuuNNhhuuNNhheec0iinniikkaa	hh uu nn hh uu nn hh ee c0 ii nn ii kk aa sp
+hhuuchvvNNc0vvK0iiNN	hh uu ch vv nn c0 vv k0 ii nn sp
+hhuuchvvNNc0vvK0xxlloo	hh uu ch vv nn c0 vv k0 xx ll oo sp
+hhuuee	hh uu ee sp
+hhvvNNs0iiNNc0vvK0iivvSSt0aak0oo	hh vv nn s0 ii nn c0 vv k0 ii vv t0 tt aa k0 oo sp
+hhvvNNs0iiNNhhaannxxNN	hh vv nn s0 ii nn hh aa nn xx nn sp
+hhvvNNs0iiNNhhaat0aak0aa	hh vv nn s0 ii nn hh aa t0 aa k0 aa sp
+hhvvS0t0iit0yvSSt0aa	hh vv t0 tt ii t0 yv t0 tt aa sp
+hhvvc0vvNNhhaaMMii	hh vv c0 vv nn hh aa mm ii sp
+hhvvhhwanghhaaNN	hh vv hh wa ng hh aa nn sp
+hhvvk0uuc0vvK0	hh vv k0 uu c0 vv k0 sp
+hhvvlliillxxLL	hh vv ll ii ll xx ll sp
+hhvvlliittiichvvllvvMM	hh vv ll ii tt ii ch vv ll vv mm sp
+hhvvthaaNNhhaaNN	hh vv th aa nn hh aa nn sp
+hhvvthaangiit0aa	hh vv th aa ng ii t0 aa sp
+hhwaK0	hh wa k0 sp
+hhwaLLt0oongee	hh wa ll t0 oo ng ee sp
+hhwaLLt0oongxxNN	hh wa ll t0 oo ng xx nn sp
+hhwaLLt0oongxxlloos0vv	hh wa ll t0 oo ng xx ll oo s0 vv sp
+hhwaLLyonghhaannxxNN	hh wa ll yo ng hh aa nn xx nn sp
+hhwaNNhheec0iik0oo	hh wa nn hh ee c0 ii k0 oo sp
+hhwaNNs0aangxxLL	hh wa nn s0 aa ng xx ll sp
+hhwac0aangphuuMMxxLL	hh wa c0 aa ng ph uu mm xx ll sp
+hhwak0aa	hh wa k0 aa sp
+hhwallxxLL	hh wa ll xx ll sp
+hhwawvNNiillaak0oo	hh wa wv nn ii ll aa k0 oo sp
+hhweK0	hh we k0 sp
+hhweK0t0xxK0hhaannxxNN	hh we k0 tt xx kh aa nn xx nn sp
+hhweK0t0xxK0xxLL	hh we k0 tt xx k0 xx ll sp
+hhwit0uuLLllvv	hh wi t0 uu ll ll vv sp
+hhwivvc0aaP0aa	hh wi vv c0 aa p0 aa sp
+hhxiNN	hh xi nn sp
+hhxis0eengt0weNN	hh xi s0 ee ng t0 we nn sp
+hhxivvSSt0aa	hh xi vv t0 tt aa sp
+hhxxLLK0p0aallaaMMii	hh xx k0 pp aa ll aa mm ii sp
+hhxxLLllvvt0xxLLvvSSt0aa	hh xx ll ll vv t0 xx ll vv t0 tt aa sp
+hhxxMMppvvK0	hh xx mm pp vv k0 sp
+hhxxNNhhii	hh xx nn hh ii sp
+hhxxNNt0xxLLvv	hh xx nn t0 xx ll vv sp
+hhxxP0s0uuc0iik0aa	hh xx p0 ss uu c0 ii k0 aa sp
+hhxxTHvvc0yvs0vv	hh xx th vv c0 yv s0 vv sp
+hhxxllxxnnxxNN	hh xx ll xx nn xx nn sp
+hhxxngc0vvngiiyo	hh xx ng c0 vv ng ii yo sp
+hhxxngc0vvngxxNN	hh xx ng c0 vv ng xx nn sp
+hhyanghhee	hh ya ng hh ee sp
+hhyangk0iik0aa	hh ya ng k0 ii k0 aa sp
+hhyangk0iillooP0k0oo	hh ya ng k0 ii ll oo p0 kk oo sp
+hhyangk0iilloowvc0iiLL	hh ya ng k0 ii ll oo wv c0 ii ll sp
+hhyvNNk0iic0xxngii	hh yv nn k0 ii c0 xx ng ii sp
+hhyvNNs0iiLL	hh yv nn s0 ii ll sp
+hhyvNNs0iiLLee	hh yv nn s0 ii ll ee sp
+hhyvNNs0iiLLii	hh yv nn s0 ii ll ii sp
+hhyvNNs0iiLLiillaak0oo	hh yv nn s0 ii ll ii ll aa k0 oo sp
+hhyvNNs0iiLLiit0aa	hh yv nn s0 ii ll ii t0 aa sp
+hhyvNNs0iiLLk0wa	hh yv nn s0 ii ll k0 wa sp
+hhyvNNs0iiLLk0waxi	hh yv nn s0 ii ll k0 wa xi sp
+hhyvNNs0iiLLlloonnxxNN	hh yv nn s0 ii ll ll oo nn xx nn sp
+hhyvNNs0iiLLmmaaNNxxLL	hh yv nn s0 ii ll mm aa nn xx ll sp
+hhyvNNs0iiLLxi	hh yv nn s0 ii ll xi sp
+hhyvNNs0iiLLxxLL	hh yv nn s0 ii ll xx ll sp
+hhyvNNs0iiLLxxNN	hh yv nn s0 ii ll xx nn sp
+hhyvNNt0eeiiNNt0xxLLxxNN	hh yv nn t0 ee ii nn t0 xx ll xx nn sp
+hhyvS0p0aat0aaK0xxlloo	hh yv t0 pp aa t0 aa k0 xx ll oo sp
+hhyvngs0vvngee	hh yv ng s0 vv ng ee sp
+hhyvngs0vvnghhaaLL	hh yv ng s0 vv ng hh aa ll sp
+hhyvngs0vvnghhaaNNt0aa	hh yv ng s0 vv ng hh aa nn t0 aa sp
+hhyvngtheelloo	hh yv ng th ee ll oo sp
+ii	ii sp
+iiK0k0oo	ii k0 kk oo sp
+iiK0nnxxNN	ii ng nn xx nn sp
+iiLL	ii ll sp
+iiLLK0k0oo	ii ll kk oo sp
+iiLLK0nnxxNN	ii ng nn xx nn sp
+iiLLK0vv	ii ll k0 vv sp
+iiLLc0ee	ii ll c0 ee sp
+iiLLc0vvNNee	ii ll c0 vv nn ee sp
+iiLLii	ii ll ii sp
+iiLLiillaa	ii ll ii ll aa sp
+iiLLiit0aa	ii ll ii t0 aa sp
+iiLLiivvSSt0aa	ii ll ii vv t0 tt aa sp
+iiLLmmyvNNxxNN	ii ll mm yv nn xx nn sp
+iiLLs0aang	ii ll s0 aa ng sp
+iiLLs0aangc0vvK0	ii ll s0 aa ng c0 vv k0 sp
+iiLLs0aangc0vvK0iiNN	ii ll s0 aa ng c0 vv k0 ii nn sp
+iiLLs0eeng	ii ll s0 ee ng sp
+iiLLs0iic0vvK0iiNN	ii ll s0 ii c0 vv k0 ii nn sp
+iiLLt0aaNN	ii ll t0 aa nn sp
+iiLLt0oo	ii ll t0 oo sp
+iiLLt0xxLLii	ii ll t0 xx ll ii sp
+iiLLt0xxLLp0oot0aannxxNN	ii ll t0 xx ll p0 oo t0 aa nn xx nn sp
+iiLLvvnnaa	ii ll vv nn aa sp
+iiLLvvnnaak0oo	ii ll vv nn aa k0 oo sp
+iiLLvvs0vvSSt0aa	ii ll vv s0 vv t0 tt aa sp
+iiLLxxLL	ii ll xx ll sp
+iiMMii	ii mm ii sp
+iiNNc0ee	ii nn c0 ee sp
+iiNNc0eennxxNN	ii nn c0 ee nn xx nn sp
+iiNNhhees0vv	ii nn hh ee s0 vv sp
+iiNNk0aaNNmmaaNNii	ii nn k0 aa nn mm aa nn ii sp
+iiNNk0aaNNxxLL	ii nn k0 aa nn xx ll sp
+iiNNk0aaNNxxNN	ii nn k0 aa nn xx nn sp
+iiNNk0yvK0	ii nn k0 yv k0 sp
+iiNNllyuk0aa	ii ll ll yu k0 aa sp
+iiNNmmuuLLt0xxLLxxLL	ii nn mm uu ll t0 xx ll xx ll sp
+iiNNmmuuLLxxLL	ii nn mm uu ll xx ll sp
+iiNNmmuuLLxxNN	ii nn mm uu ll xx nn sp
+iiNNphuuMMxxLL	ii nn ph uu mm xx ll sp
+iiNNs0eengees0vv	ii nn s0 ee ng ee s0 vv sp
+iiNNs0eengxi	ii nn s0 ee ng xi sp
+iiNNs0eengxxNN	ii nn s0 ee ng xx nn sp
+iiNNt0uulloo	ii nn t0 uu ll oo sp
+iiP0ees0vv	ii p0 ee s0 vv sp
+iiP0s0uuLLee	ii p0 ss uu ll ee sp
+iiP0vvya	ii p0 vv ya sp
+iiP0xxNN	ii p0 xx nn sp
+iiSSc0ii	ii t0 cc ii sp
+iiSSk0eeSSvv	ii t0 kk ee ss vv sp
+iiSSk0oo	ii t0 kk oo sp
+iiSSnnii	ii nn nn ii sp
+iiSSnnoollaammyvNN	ii nn nn oo ll aa mm yv nn sp
+iiSSnnxxNN	ii nn nn xx nn sp
+iiSSnnxxNNc0iit0oo	ii nn nn xx nn c0 ii t0 oo sp
+iiSSnnxxNNk0aa	ii nn nn xx nn k0 aa sp
+iiSSt0aa	ii t0 tt aa sp
+iiSSt0aak0aa	ii t0 tt aa k0 aa sp
+iiSSt0aak0oo	ii t0 tt aa k0 oo sp
+iiSSt0aannxxNN	ii t0 tt aa nn xx nn sp
+iiSSt0oollooK0	ii t0 tt oo ll oo k0 sp
+iiSSt0vvNN	ii t0 tt vv nn sp
+iiSSvv	ii ss vv sp
+iiSSvvSSk0oo	ii ss vv t0 kk oo sp
+iiSSvvSSk0uunnaa	ii ss vv t0 kk uu nn aa sp
+iiSSvvSSnnxxNNt0ee	ii ss vv nn nn xx nn t0 ee sp
+iiSSvvSSt0aa	ii ss vv t0 tt aa sp
+iiSSvvSSt0vvNN	ii ss vv t0 tt vv nn sp
+iiSSvvya	ii ss vv ya sp
+iiSSxxLL	ii ss xx ll sp
+iiSSxxLLkkaa	ii ss xx ll kk aa sp
+iiSSxxLLkkaammaannxxNN	ii ss xx ll kk aa mm aa nn xx nn sp
+iiSSxxMMxxlloo	ii ss xx mm xx ll oo sp
+iiSSxxmmyvNNs0vvt0oo	ii ss xx mm yv nn s0 vv t0 oo sp
+iiSSxxnnii	ii ss xx nn ii sp
+iic0ee	ii c0 ee sp
+iic0eennxxNN	ii c0 ee nn xx nn sp
+iichiillxxLL	ii ch ii ll xx ll sp
+iichvvllvvMM	ii ch vv ll vv mm sp
+iik0ee	ii k0 ee sp
+iik0vvS0ii	ii k0 vv s0 ii sp
+iik0vvS0xxLL	ii k0 vv s0 xx ll sp
+iik0vvS0xxNN	ii k0 vv s0 xx nn sp
+iik0wangs0uunnxxNN	ii k0 wa ng s0 uu nn xx nn sp
+iillees0vv	ii ll ee s0 vv sp
+iillii	ii ll ii sp
+iilliic0vvllii	ii ll ii c0 vv ll ii sp
+iilliilloo	ii ll ii ll oo sp
+iilluuk0ee	ii ll uu k0 ee sp
+iilluunnxxNN	ii ll uu nn xx nn sp
+iilluuvvc0iic0ii	ii ll uu vv c0 ii c0 ii sp
+iillvvHHk0ee	ii ll vv kh ee sp
+iillvvLL	ii ll vv ll sp
+iillvvNN	ii ll vv nn sp
+iillvvhhaaNN	ii ll vv hh aa nn sp
+iillxxMMt0oo	ii ll xx mm t0 oo sp
+iillxxNN	ii ll xx nn sp
+iillxxk0iikkaac0ii	ii ll xx k0 ii kk aa c0 ii sp
+iillxxnnii	ii ll xx nn ii sp
+iimmii	ii mm ii sp
+iingtheet0weNN	ii ng th ee t0 we nn sp
+iinnee	ii nn ee sp
+iinnxxNN	ii nn xx nn sp
+iip0vvMMs0vvNNxi	ii p0 vv mm s0 vv nn xi sp
+iip0vvNNeennxxNN	ii p0 vv nn ee nn xx nn sp
+iis0aang	ii s0 aa ng sp
+iis0aangee	ii s0 aa ng ee sp
+iis0aanghhaaNN	ii s0 aa ng hh aa nn sp
+iis0aanghhwannxxNN	ii s0 aa ng hh wa nn xx nn sp
+iis0aangii	ii s0 aa ng ii sp
+iis0aangiillaannxxNN	ii s0 aa ng ii ll aa nn xx nn sp
+iis0aangiiyo	ii s0 aa ng ii yo sp
+iis0aangk0wa	ii s0 aa ng k0 wa sp
+iis0aangxi	ii s0 aa ng xi sp
+iis0aangxxLL	ii s0 aa ng xx ll sp
+iis0aangxxNN	ii s0 aa ng xx nn sp
+iit0xxLLxi	ii t0 xx ll xi sp
+iiuuS0	ii uu s0 sp
+iiuuS0ii	ii uu s0 ii sp
+iiuuS0xxlloo	ii uu s0 xx ll oo sp
+iivv	ii vv sp
+iivvc0yvya	ii vv c0 yv ya sp
+iiwa	ii wa sp
+iixi	ii xi sp
+iiyak0iihheeSSt0aammyvNN	ii ya k0 ii hh ee t0 tt aa mm yv nn sp
+iiyak0iik0aa	ii ya k0 ii k0 aa sp
+iiyak0iillxxLL	ii ya k0 ii ll xx ll sp
+iiyonghhaaNNt0aa	ii yo ng hh aa nn t0 aa sp
+iiyonghheeSSt0aa	ii yo ng hh ee t0 tt aa sp
+iiyunnxxNN	ii yu nn xx nn sp
+k0aa	k0 aa sp
+k0aaC0xxNN	k0 aa c0 xx nn sp
+k0aaLL	k0 aa ll sp
+k0aaLLkkooCHii	k0 aa ll kk oo ch ii sp
+k0aaLLkkooCHmmvvlliiees0vv	k0 aa ll kk oo nn mm vv ll ii ee s0 vv sp
+k0aaLLkkooCHppuuNN	k0 aa ll kk oo t0 pp uu nn sp
+k0aaLLkkooCHxxLL	k0 aa ll kk oo ch xx ll sp
+k0aaLLllaa	k0 aa ll ll aa sp
+k0aaLLlliiMMk0iiLLee	k0 aa ll ll ii mm k0 ii ll ee sp
+k0aaLLp0aaTH	k0 aa ll p0 aa th sp
+k0aaLLp0aaTHmmvvlliiees0vv	k0 aa ll p0 aa nn mm vv ll ii ee s0 vv sp
+k0aaLLp0aaTHmmvvlliilloo	k0 aa ll p0 aa nn mm vv ll ii ll oo sp
+k0aaLLp0aaTHt0oo	k0 aa ll p0 aa t0 tt oo sp
+k0aaMMchuunnxxNN	k0 aa mm ch uu nn xx nn sp
+k0aaMMii	k0 aa mm ii sp
+k0aaMMk0oo	k0 aa mm k0 oo sp
+k0aaMMnnxxNN	k0 aa mm nn xx nn sp
+k0aaMMt0aak0aat0oo	k0 aa mm t0 aa k0 aa t0 oo sp
+k0aaMMt0oongk0wa	k0 aa mm t0 oo ng k0 wa sp
+k0aaMMt0oongxxLL	k0 aa mm t0 oo ng xx ll sp
+k0aaNNt0aaNNhhaat0aa	k0 aa nn t0 aa nn hh aa t0 aa sp
+k0aaP0S0c0iiNN	k0 aa p0 cc ii nn sp
+k0aaP0S0p0iissaaNN	k0 aa p0 pp ii ss aa nn sp
+k0aaP0S0xxLL	k0 aa p0 ss xx ll sp
+k0aaP0S0xxlloo	k0 aa p0 ss xx ll oo sp
+k0aaP0c0aak0ii	k0 aa p0 cc aa k0 ii sp
+k0aaP0k0aaP0hhaak0oo	k0 aa p0 kk aa ph aa k0 oo sp
+k0aaS0nnaaNN	k0 aa nn nn aa nn sp
+k0aaSSt0aak0aa	k0 aa t0 tt aa k0 aa sp
+k0aaTHaaSSt0aa	k0 aa th aa t0 tt aa sp
+k0aaTHc0iik0aa	k0 aa t0 cc ii k0 aa sp
+k0aaTHc0iinnxxNN	k0 aa t0 cc ii nn xx nn sp
+k0aaTHii	k0 aa ch ii sp
+k0aaTHk0oo	k0 aa t0 kk oo sp
+k0aaTHt0vvnnii	k0 aa t0 tt vv nn ii sp
+k0aaTHxxNN	k0 aa th xx nn sp
+k0aac0aang	k0 aa c0 aa ng sp
+k0aac0ii	k0 aa c0 ii sp
+k0aac0iiNN	k0 aa c0 ii nn sp
+k0aac0iik0oo	k0 aa c0 ii k0 oo sp
+k0aac0iik0oot0oo	k0 aa c0 ii k0 oo t0 oo sp
+k0aac0iinnxxNN	k0 aa c0 ii nn xx nn sp
+k0aac0vvng	k0 aa c0 vv ng sp
+k0aac0vvngxxLL	k0 aa c0 vv ng xx ll sp
+k0aac0yvSSt0aannxxNN	k0 aa c0 yv t0 tt aa nn xx nn sp
+k0aachiillxxLL	k0 aa ch ii ll xx ll sp
+k0aaee	k0 aa ee sp
+k0aak0ii	k0 aa k0 ii sp
+k0aak0oongxi	k0 aa k0 oo ng xi sp
+k0aakkaauuNN	k0 aa kk aa uu nn sp
+k0aakkuuNN	k0 aa kk uu nn sp
+k0aakkuunnxxNN	k0 aa kk uu nn xx nn sp
+k0aakkuuvv	k0 aa kk uu vv sp
+k0aalliiLL	k0 aa ll ii ll sp
+k0aalliikhiinnxxNN	k0 aa ll ii kh ii nn xx nn sp
+k0aalliikhyvSSt0aa	k0 aa ll ii kh yv t0 tt aa sp
+k0aallyvk0oo	k0 aa ll yv k0 oo sp
+k0aallyvng	k0 aa ll yv ng sp
+k0aangc0vvMMk0iixi	k0 aa ng c0 vv mm k0 ii xi sp
+k0aangees0vv	k0 aa ng ee s0 vv sp
+k0aangk0iis0xxLLK0xxlloo	k0 aa ng k0 ii s0 xx ll k0 xx ll oo sp
+k0aannxxNN	k0 aa nn xx nn sp
+k0aannxxNNk0wik0aa	k0 aa nn xx nn k0 wi k0 aa sp
+k0aannxxnghhaak0oo	k0 aa nn xx ng hh aa k0 oo sp
+k0aannxxnghhaammyvNN	k0 aa nn xx ng hh aa mm yv nn sp
+k0aannxxngs0vvngiillaaNN	k0 aa nn xx ng s0 vv ng ii ll aa nn sp
+k0aannxxngs0vvngmmaaNNxxNN	k0 aa nn xx ng s0 vv ng mm aa nn xx nn sp
+k0aas0ii	k0 aa s0 ii sp
+k0aas0iinneet0xxLLxxNN	k0 aa s0 ii nn ee t0 xx ll xx nn sp
+k0aas0vv	k0 aa s0 vv sp
+k0aas0xxMM	k0 aa s0 xx mm sp
+k0aat0xxS0ii	k0 aa t0 xx s0 ii sp
+k0aaxxLL	k0 aa xx ll sp
+k0aaxxLLiimmyvNN	k0 aa xx ll ii mm yv nn sp
+k0aaya	k0 aa ya sp
+k0ee	k0 ee sp
+k0eechvvK0hhaannxxNN	k0 ee ch vv kh aa nn xx nn sp
+k0eehhyvK0hhee	k0 ee hh yv kh ee sp
+k0eeiiNNc0vvK0iiNN	k0 ee ii nn c0 vv k0 ii nn sp
+k0eeiiNNii	k0 ee ii nn ii sp
+k0eennaa	k0 ee nn aa sp
+k0eeuuLL	k0 ee uu ll sp
+k0eeuuLLeet0aa	k0 ee uu ll ee t0 aa sp
+k0eeuuLLk0aaee	k0 ee uu ll k0 aa ee sp
+k0eeuuLLk0aaees0vv	k0 ee uu ll k0 aa ee s0 vv sp
+k0eeuuLLk0aalloo	k0 ee uu ll k0 aa ll oo sp
+k0eeuuLLmmuuLLxxLL	k0 ee uu ll mm uu ll xx ll sp
+k0eeuuLLt0uuK0ee	k0 ee uu ll t0 uu k0 ee sp
+k0eeuuLLt0uuK0iinnaa	k0 ee uu ll t0 uu k0 ii nn aa sp
+k0eeuuLLxxLL	k0 ee uu ll xx ll sp
+k0iiLL	k0 ii ll sp
+k0iiLLee	k0 ii ll ee sp
+k0iiLLeennxxNN	k0 ii ll ee nn xx nn sp
+k0iiLLxxLL	k0 ii ll xx ll sp
+k0iiNNc0vvLLhhaaNN	k0 ii nn c0 vv ll hh aa nn sp
+k0iiNNmmiiLLhhaak0ee	k0 ii nn mm ii ll hh aa k0 ee sp
+k0iiPHs0uuK0hhii	k0 ii p0 ss uu kh ii sp
+k0iichaat0oo	k0 ii ch aa t0 oo sp
+k0iik0aa	k0 ii k0 aa sp
+k0iik0aaNN	k0 ii k0 aa nn sp
+k0iillooK0hhaannxxNN	k0 ii ll oo kh aa nn xx nn sp
+k0iillooK0k0wa	k0 ii ll oo k0 kk wa sp
+k0iip0vvP0iiNN	k0 ii p0 vv p0 ii nn sp
+k0iip0vvP0k0wa	k0 ii p0 vv p0 kk wa sp
+k0iippxxMM	k0 ii pp xx mm sp
+k0iippxxMMiillaammyvNN	k0 ii pp xx mm ii ll aa mm yv nn sp
+k0iippxxMMk0wa	k0 ii pp xx mm k0 wa sp
+k0iippxxMMxxLL	k0 ii pp xx mm xx ll sp
+k0iis0xxLLK0ees0vv	k0 ii s0 xx ll k0 ee s0 vv sp
+k0iit0aalliic0aannxxNN	k0 ii t0 aa ll ii c0 aa nn xx nn sp
+k0iit0aalliik0oo	k0 ii t0 aa ll ii k0 oo sp
+k0iiuuLLiiNN	k0 ii uu ll ii nn sp
+k0iiuuLLmmyvNN	k0 ii uu ll mm yv nn sp
+k0iiuuLLyv	k0 ii uu ll yv sp
+k0iivv	k0 ii vv sp
+k0iivvk0aat0xxS0	k0 ii vv k0 aa t0 xx s0 sp
+k0ooK0s0iiK0p0aaTHiinnaa	k0 oo k0 ss ii k0 pp aa ch ii nn aa sp
+k0ooMMp0aangt0eeee	k0 oo mm p0 aa ng t0 ee ee sp
+k0ooP0k0ee	k0 oo p0 kk ee sp
+k0ooP0t0aa	k0 oo p0 tt aa sp
+k0ooS0ee	k0 oo s0 ee sp
+k0ooT0	k0 oo t0 sp
+k0ooc0aang	k0 oo c0 aa ng sp
+k0ooc0aangxi	k0 oo c0 aa ng xi sp
+k0ooc0vvNN	k0 oo c0 vv nn sp
+k0oohhaaMMxxLL	k0 oo hh aa mm xx ll sp
+k0ook0ii	k0 oo k0 ii sp
+k0oongc0aangt0oo	k0 oo ng c0 aa ng t0 oo sp
+k0oongs0aangii	k0 oo ng s0 aa ng ii sp
+k0oongye	k0 oo ng ye sp
+k0ooppiillxxLL	k0 oo pp ii ll xx ll sp
+k0oouuNN	k0 oo uu nn sp
+k0ooyangii	k0 oo ya ng ii sp
+k0uuLL	k0 uu ll sp
+k0uuMMs0iiLLk0uuMMs0iiLL	k0 uu mm s0 ii ll k0 uu mm s0 ii ll sp
+k0uuMMttxxk0ii	k0 uu mm tt xx k0 ii sp
+k0uuNNchiiMMt0oo	k0 uu nn ch ii mm t0 oo sp
+k0uuNNt0eek0uuNNt0ee	k0 uu nn t0 ee k0 uu nn t0 ee sp
+k0uuc0oo	k0 uu c0 oo sp
+k0uuc0xxng	k0 uu c0 xx ng sp
+k0uuk0yvngkkuuNNii	k0 uu k0 yv ng kk uu nn ii sp
+k0uullxxngxxlloos0vv	k0 uu ll xx ng xx ll oo s0 vv sp
+k0uullyv	k0 uu ll yv sp
+k0uup0uuNNii	k0 uu p0 uu nn ii sp
+k0uup0yvLLhheeSSk0oo	k0 uu p0 yv ll hh ee t0 kk oo sp
+k0uuphoohhaaNN	k0 uu ph oo hh aa nn sp
+k0uuphoollaaNN	k0 uu ph oo ll aa nn sp
+k0uus0vvK0ee	k0 uu s0 vv k0 ee sp
+k0uus0vvK0eennxxNN	k0 uu s0 vv k0 ee nn xx nn sp
+k0vvLL	k0 vv ll sp
+k0vvLLvvk0aannxxNN	k0 vv ll vv k0 aa nn xx nn sp
+k0vvLLxxMMiivvSSt0aa	k0 vv ll xx mm ii vv t0 tt aa sp
+k0vvMMk0ee	k0 vv mm k0 ee sp
+k0vvMMxxNN	k0 vv mm xx nn sp
+k0vvNNnnvvNNt0aa	k0 vv nn nn vv nn t0 aa sp
+k0vvNNnnvvk0aaNNt0aa	k0 vv nn nn vv k0 aa nn t0 aa sp
+k0vvNNnnvvk0aat0vvnniimmaaNN	k0 vv nn nn vv k0 aa t0 vv nn ii mm aa nn sp
+k0vvNNnnvvk0ii	k0 vv nn nn vv k0 ii sp
+k0vvNNnnvvnnxxNN	k0 vv nn nn vv nn xx nn sp
+k0vvNNnnvvook0oo	k0 vv nn nn vv oo k0 oo sp
+k0vvNNnnvvphyvNN	k0 vv nn nn vv ph yv nn sp
+k0vvNNnnvvt0vvNN	k0 vv nn nn vv t0 vv nn sp
+k0vvNNs0vvLLhhaak0ee	k0 vv nn s0 vv ll hh aa k0 ee sp
+k0vvS0	k0 vv s0 sp
+k0vvS0ee	k0 vv s0 ee sp
+k0vvS0ees0vv	k0 vv s0 ee s0 vv sp
+k0vvS0ii	k0 vv s0 ii sp
+k0vvS0iiLLkkaa	k0 vv s0 ii ll kk aa sp
+k0vvS0iiNNk0aallxxLL	k0 vv s0 ii nn k0 aa ll xx ll sp
+k0vvS0iic0ii	k0 vv s0 ii c0 ii sp
+k0vvS0iic0iimmaaNN	k0 vv s0 ii c0 ii mm aa nn sp
+k0vvS0iik0oo	k0 vv s0 ii k0 oo sp
+k0vvS0iillaa	k0 vv s0 ii ll aa sp
+k0vvS0iillaaNN	k0 vv s0 ii ll aa nn sp
+k0vvS0iillaak0oo	k0 vv s0 ii ll aa k0 oo sp
+k0vvS0iillee	k0 vv s0 ii ll ee sp
+k0vvS0iilliillaa	k0 vv s0 ii ll ii ll aa sp
+k0vvS0iinnaa	k0 vv s0 ii nn aa sp
+k0vvS0iit0aa	k0 vv s0 ii t0 aa sp
+k0vvS0iivvSSt0aa	k0 vv s0 ii vv t0 tt aa sp
+k0vvS0iiyo	k0 vv s0 ii yo sp
+k0vvS0mmaaNN	k0 vv nn mm aa nn sp
+k0vvS0mmaaNNxxlloonnxxNN	k0 vv nn mm aa nn xx ll oo nn xx nn sp
+k0vvS0p0oot0aa	k0 vv t0 pp oo t0 aa sp
+k0vvS0t0oo	k0 vv t0 tt oo sp
+k0vvS0xxLL	k0 vv s0 xx ll sp
+k0vvS0xxNN	k0 vv s0 xx nn sp
+k0vvS0xxlloo	k0 vv s0 xx ll oo sp
+k0vvT0c0aaP0xxLL	k0 vv t0 cc aa p0 xx ll sp
+k0vvT0hhyv	k0 vv th yv sp
+k0vvT0vv	k0 vv t0 vv sp
+k0vvT0vvooLLlliiNN	k0 vv t0 vv oo ll ll ii nn sp
+k0vvTHchiilleeeemmaaNN	k0 vv t0 ch ii ll ee ee mm aa nn sp
+k0vvTHchiilleeiiLL	k0 vv t0 ch ii ll ee ii ll sp
+k0vvTHxxLL	k0 vv th xx ll sp
+k0vvc0ii	k0 vv c0 ii sp
+k0vvc0uuK0xi	k0 vv c0 uu k0 xi sp
+k0vvchiiLLk0oo	k0 vv ch ii ll k0 oo sp
+k0vvchiiLLvvSSk0ii	k0 vv ch ii ll vv t0 kk ii sp
+k0vvchiiLLvvc0iik0oo	k0 vv ch ii ll vv c0 ii k0 oo sp
+k0vvchiiMMvvP0S0ii	k0 vv ch ii mm vv p0 ss ii sp
+k0vvchiiNN	k0 vv ch ii nn sp
+k0vvchiiNNc0ii	k0 vv ch ii nn c0 ii sp
+k0vvk0iiees0vv	k0 vv k0 ii ee s0 vv sp
+k0vvk0oo	k0 vv k0 oo sp
+k0vvllxxMMxxlloo	k0 vv ll xx mm xx ll oo sp
+k0vvt0aa	k0 vv t0 aa sp
+k0vvt0wvt0xxLLiik0oo	k0 vv t0 wv t0 xx ll ii k0 oo sp
+k0vvt0xxP0hhaaLLc0iillaat0oo	k0 vv t0 xx ph aa ll c0 ii ll aa t0 oo sp
+k0vvxi	k0 vv xi sp
+k0vvya	k0 vv ya sp
+k0waNNk0yellxxLL	k0 wa nn k0 ye ll xx ll sp
+k0waNNllyvNNhhaayv	k0 wa ll ll yv nn hh aa yv sp
+k0walloolloo	k0 wa ll oo ll oo sp
+k0welloouuMMxxLL	k0 we ll oo uu mm xx ll sp
+k0wengc0aanghhii	k0 we ng c0 aa ng hh ii sp
+k0willxxLL	k0 wi ll xx ll sp
+k0wiyvP0c0ii	k0 wi yv p0 cc ii sp
+k0wiyvuuNN	k0 wi yv uu nn sp
+k0wiyvwvSSt0aa	k0 wi yv wv t0 tt aa sp
+k0wvNNweee	k0 wv nn we ee sp
+k0xx	k0 xx sp
+k0xxK0ees0vvt0oo	k0 xx k0 ee s0 vv t0 oo sp
+k0xxLLssee	k0 xx ll ss ee sp
+k0xxLLxxLL	k0 xx ll xx ll sp
+k0xxNNmmyvNN	k0 xx nn mm yv nn sp
+k0xxNNmmyvNNiit0aa	k0 xx nn mm yv nn ii t0 aa sp
+k0xxNNt0ee	k0 xx nn t0 ee sp
+k0xxNNwvNNii	k0 xx nn wv nn ii sp
+k0xxP0k0xxP0hhaaNN	k0 xx p0 kk xx ph aa nn sp
+k0xxc0vv	k0 xx c0 vv sp
+k0xxchiic0ii	k0 xx ch ii c0 ii sp
+k0xxk0vvNN	k0 xx k0 vv nn sp
+k0xxk0vvS0eemmaaNN	k0 xx k0 vv s0 ee mm aa nn sp
+k0xxk0vvS0ii	k0 xx k0 vv s0 ii sp
+k0xxk0vvS0iillaak0oo	k0 xx k0 vv s0 ii ll aa k0 oo sp
+k0xxk0vvS0xxLL	k0 xx k0 vv s0 xx ll sp
+k0xxk0vvS0xxNN	k0 xx k0 vv s0 xx nn sp
+k0xxllees0vv	k0 xx ll ee s0 vv sp
+k0xxlleet0oo	k0 xx ll ee t0 oo sp
+k0xxllii	k0 xx ll ii sp
+k0xxlliiMMc0aak0aa	k0 xx ll ii mm c0 aa k0 aa sp
+k0xxlliiMMxxlloossvv	k0 xx ll ii mm xx ll oo ss vv sp
+k0xxlliiNN	k0 xx ll ii nn sp
+k0xxlliiNNt0aammyvNN	k0 xx ll ii nn t0 aa mm yv nn sp
+k0xxlliihhaallyvmmyvNN	k0 xx ll ii hh aa ll yv mm yv nn sp
+k0xxlliihhaayv	k0 xx ll ii hh aa yv sp
+k0xxlliik0ee	k0 xx ll ii k0 ee sp
+k0xxlliik0iit0oo	k0 xx ll ii k0 ii t0 oo sp
+k0xxlliik0oo	k0 xx ll ii k0 oo sp
+k0xxlliik0ooc0aa	k0 xx ll ii k0 oo c0 aa sp
+k0xxlliik0oonnxxNN	k0 xx ll ii k0 oo nn xx nn sp
+k0xxlliillyvk0oo	k0 xx ll ii ll yv k0 oo sp
+k0xxlliimmyv	k0 xx ll ii mm yv sp
+k0xxllvvHHc0iik0aa	k0 xx ll vv ch ii k0 aa sp
+k0xxllvvHHk0ee	k0 xx ll vv kh ee sp
+k0xxllvvHHk0ii	k0 xx ll vv kh ii sp
+k0xxllvvHHt0aa	k0 xx ll vv th aa sp
+k0xxllvvLL	k0 xx ll vv ll sp
+k0xxllvvLLkkaa	k0 xx ll vv ll kk aa sp
+k0xxllvvMM	k0 xx ll vv mm sp
+k0xxllvvNN	k0 xx ll vv nn sp
+k0xxllvvNNk0aa	k0 xx ll vv nn k0 aa sp
+k0xxllvvNNt0ee	k0 xx ll vv nn t0 ee sp
+k0xxllvvNNt0eet0oo	k0 xx ll vv nn t0 ee t0 oo sp
+k0xxllvvhhaaNN	k0 xx ll vv hh aa nn sp
+k0xxllvvhhaak0ii	k0 xx ll vv hh aa k0 ii sp
+k0xxllvvk0oot0oo	k0 xx ll vv k0 oo t0 oo sp
+k0xxllvvmmxxlloo	k0 xx ll vv mm xx ll oo sp
+k0xxllvvmmyvNN	k0 xx ll vv mm yv nn sp
+k0xxllvvnnaa	k0 xx ll vv nn aa sp
+k0xxllvvnniikkaa	k0 xx ll vv nn ii kk aa sp
+k0xxllvvnnxxNN	k0 xx ll vv nn xx nn sp
+k0xxllvvt0aak0aa	k0 xx ll vv t0 aa k0 aa sp
+k0xxllxxLL	k0 xx ll xx ll sp
+k0xxllyv	k0 xx ll yv sp
+k0xxmmaaNN	k0 xx mm aa nn sp
+k0xxmmaaNNhhaammyvNN	k0 xx mm aa nn hh aa mm yv nn sp
+k0xxmmaaNNiiNN	k0 xx mm aa nn ii nn sp
+k0xxnnxxLLees0vvnnxxNN	k0 xx nn xx ll ee s0 vv nn xx nn sp
+k0xxnnxxLLii	k0 xx nn xx ll ii sp
+k0xxnnxxNN	k0 xx nn xx nn sp
+k0xxnnyang	k0 xx nn ya ng sp
+k0xxp0oot0aa	k0 xx p0 oo t0 aa sp
+k0xxt0aac0ii	k0 xx t0 aa c0 ii sp
+k0xxt0eelloo	k0 xx t0 ee ll oo sp
+k0xxt0eellooxi	k0 xx t0 ee ll oo xi sp
+k0xxt0xxLLii	k0 xx t0 xx ll ii sp
+k0xxt0xxLLxxNN	k0 xx t0 xx ll xx nn sp
+k0yemmoong	k0 ye mm oo ng sp
+k0yemmoongxxLL	k0 ye mm oo ng xx ll sp
+k0yep0aaLLhhaaLL	k0 ye p0 aa ll hh aa ll sp
+k0yes0ooK0t0weLLs0uullooK0	k0 ye s0 oo k0 tt we ll s0 uu ll oo k0 sp
+k0yoyuK0ee	k0 yo yu k0 ee sp
+k0yoyuK0k0wa	k0 yo yu k0 kk wa sp
+k0yoyuK0xxLL	k0 yo yu k0 xx ll sp
+k0yvKKnnxxNN	k0 yv ng nn xx nn sp
+k0yvLLkhoo	k0 yv ll kh oo sp
+k0yvLLmmaaLLxxLL	k0 yv ll mm aa ll xx ll sp
+k0yvTHeennxxNN	k0 yv th ee nn xx nn sp
+k0yvngc0eec0vvK0iiNN	k0 yv ng c0 ee c0 vv k0 ii nn sp
+k0yvnghhyangii	k0 yv ng hh ya ng ii sp
+k0yvnghhyangk0wa	k0 yv ng hh ya ng k0 wa sp
+k0yvnghhyangxxLL	k0 yv ng hh ya ng xx ll sp
+k0yvnghhyangxxNN	k0 yv ng hh ya ng xx nn sp
+k0yvnguueennxxNN	k0 yv ng uu ee nn xx nn sp
+k0yvuunnee	k0 yv uu nn ee sp
+khooLLlleellaak0yuNNxxNN	kh oo ll ll ee ll aa k0 yu nn xx nn sp
+khoollxxLL	kh oo ll xx ll sp
+khoongp0aaTHk0wa	kh oo ng p0 aa t0 kk wa sp
+khoophiillxxLL	kh oo ph ii ll xx ll sp
+khoophiiyvSSt0aa	kh oo ph ii yv t0 tt aa sp
+khvvt0aallaaNN	kh vv t0 aa ll aa nn sp
+khxxNN	kh xx nn sp
+khxxNNk0iiLL	kh xx nn k0 ii ll sp
+kkaa	kk aa sp
+kkaaKKaa	kk aa kk aa sp
+kkaaKKaaSSt0aak0oo	kk aa kk aa t0 tt aa k0 oo sp
+kkaaKKaannaa	kk aa kk aa nn aa sp
+kkaaKKc0ii	kk aa k0 cc ii sp
+kkaaKKc0iit0oo	kk aa k0 cc ii t0 oo sp
+kkaaKKk0ii	kk aa k0 kk ii sp
+kkaaKKk0oo	kk aa k0 kk oo sp
+kkaaKKnnxxNN	kk aa ng nn xx nn sp
+kkaaKKnnxxNNt0aaNN	kk aa ng nn xx nn t0 aa nn sp
+kkaaKKt0aak0aa	kk aa k0 tt aa k0 aa sp
+kkaaKKt0vvNN	kk aa k0 tt vv nn sp
+kkaaKKxxllyvoo	kk aa kk xx ll yv oo sp
+kkaaKKyv	kk aa kk yv sp
+kkaaLLk0oo	kk aa ll k0 oo sp
+kkaaLLkkaaLLk0vvlliimmyv	kk aa ll kk aa ll k0 vv ll ii mm yv sp
+kkaaMMccaaK0	kk aa mm cc aa k0 sp
+kkaat0aaLLK0	kk aa t0 aa ll k0 sp
+kkaat0aaLLK0xxNN	kk aa t0 aa ll k0 xx nn sp
+kkeet0aaLLxxMMii	kk ee t0 aa ll xx mm ii sp
+kkooCHees0vv	kk oo ch ee s0 vv sp
+kkooCHii	kk oo ch ii sp
+kkooCHk0aac0iillxxLL	kk oo t0 kk aa c0 ii ll xx ll sp
+kkooCHk0wa	kk oo t0 kk wa sp
+kkooCHxxNN	kk oo ch xx nn sp
+kkooK0	kk oo k0 sp
+kkooLLees0vv	kk oo ll ee s0 vv sp
+kkooLLxxLL	kk oo ll xx ll sp
+kkuuMMii	kk uu mm ii sp
+kkuuMMiillaaNN	kk uu mm ii ll aa nn sp
+kkuuMMk0wa	kk uu mm k0 wa sp
+kkuuMMxxLL	kk uu mm xx ll sp
+kkuuMMxxNN	kk uu mm xx nn sp
+kkvvKKvvt0aak0aa	kk vv kk vv t0 aa k0 aa sp
+kkvvmmvvHHk0ee	kk vv mm vv kh ee sp
+kkwe	kk we sp
+kkwvng	kk wv ng sp
+kkxxLLHHvvya	kk xx ll vv ya sp
+kkxxLLHHxxLL	kk xx ll xx ll sp
+kkxxNNHHiiMMvvP0S0ii	kk xx nn ii mm vv p0 ss ii sp
+kkxxTHnnaammyvNN	kk xx nn nn aa mm yv nn sp
+kkxxTHxxLL	kk xx th xx ll sp
+llaat0iioot0oo	ll aa t0 ii oo t0 oo sp
+llii	ll ii sp
+lliit0oo	ll ii t0 oo sp
+lliit0xxMM	ll ii t0 xx mm sp
+lliit0xxMMxxLL	ll ii t0 xx mm xx ll sp
+mmaaC0xxNNccooK0	mm aa c0 xx nn cc oo k0 sp
+mmaaK0	mm aa k0 sp
+mmaaK0hhyvs0vv	mm aa kh yv s0 vv sp
+mmaaLL	mm aa ll sp
+mmaaLLK0aac0iik0oo	mm aa ll k0 aa c0 ii k0 oo sp
+mmaaLLK0k0oo	mm aa ll kk oo sp
+mmaaLLK0xxNN	mm aa ll k0 xx nn sp
+mmaaLLaaSSt0aa	mm aa ll aa t0 tt aa sp
+mmaaLLc0oochaa	mm aa ll c0 oo ch aa sp
+mmaaLLii	mm aa ll ii sp
+mmaaLLiiNNt0ee	mm aa ll ii nn t0 ee sp
+mmaaLLiioo	mm aa ll ii oo sp
+mmaaLLiit0aa	mm aa ll ii t0 aa sp
+mmaaLLiiya	mm aa ll ii ya sp
+mmaaLLk0ee	mm aa ll k0 ee sp
+mmaaLLk0oo	mm aa ll k0 oo sp
+mmaaLLlliik0iillxxLL	mm aa ll ll ii k0 ii ll xx ll sp
+mmaaLLmmaaNN	mm aa ll mm aa nn sp
+mmaaLLssiiee	mm aa ll ss ii ee sp
+mmaaLLssiinnxxNN	mm aa ll ss ii nn xx nn sp
+mmaaLLssiit0xxLLii	mm aa ll ss ii t0 xx ll ii sp
+mmaaLLt0oo	mm aa ll t0 oo sp
+mmaaLLthaak0iit0oo	mm aa ll th aa k0 ii t0 oo sp
+mmaaLLthuut0aa	mm aa ll th uu t0 aa sp
+mmaaLLxi	mm aa ll xi sp
+mmaaLLxxLL	mm aa ll xx ll sp
+mmaaLLxxNN	mm aa ll xx nn sp
+mmaaNNHHt0aa	mm aa nn th aa sp
+mmaaNNHHxxNN	mm aa nn xx nn sp
+mmaaNNc0ooK0hhaac0iillxxLL	mm aa nn c0 oo kh aa c0 ii ll xx ll sp
+mmaaNNc0yv	mm aa nn c0 yv sp
+mmaaNNhhaaNN	mm aa nn hh aa nn sp
+mmaaNNiiLL	mm aa nn ii ll sp
+mmaaNNkhxxMM	mm aa nn kh xx mm sp
+mmaaNNmmaaNNhhaaNN	mm aa nn mm aa nn hh aa nn sp
+mmaaNNnnaak0ii	mm aa nn nn aa k0 ii sp
+mmaaNNnnaak0iik0aa	mm aa nn nn aa k0 ii k0 aa sp
+mmaaNNt0xxLLvv	mm aa nn t0 xx ll vv sp
+mmaaNNt0xxLLvvSSxxLL	mm aa nn t0 xx ll vv ss xx ll sp
+mmaaNNt0xxLLvvyac0ii	mm aa nn t0 xx ll vv ya c0 ii sp
+mmaaNNt0xxNNt0aannxxNN	mm aa nn t0 xx nn t0 aa nn xx nn sp
+mmaaNNt0xxnnxxNN	mm aa nn t0 xx nn xx nn sp
+mmaac0aangccxxMM	mm aa c0 aa ng cc xx mm sp
+mmaac0uuchyvSSt0aa	mm aa c0 uu ch yv t0 tt aa sp
+mmaachaaNNk0aac0iilloo	mm aa ch aa nn k0 aa c0 ii ll oo sp
+mmaachaaNNk0aac0iit0aa	mm aa ch aa nn k0 aa c0 ii t0 aa sp
+mmaachii	mm aa ch ii sp
+mmaak0uu	mm aa k0 uu sp
+mmaallii	mm aa ll ii sp
+mmaallxxNN	mm aa ll xx nn sp
+mmaallyvNN	mm aa ll yv nn sp
+mmaallyvNNhhaaMMxxlloossvv	mm aa ll yv nn hh aa mm xx ll oo ss vv sp
+mmaangk0aaK0hhaak0oo	mm aa ng k0 aa kh aa k0 oo sp
+mmaangs0aangii	mm aa ng s0 aa ng ii sp
+mmaanniikkaa	mm aa nn ii kk aa sp
+mmaannxxNN	mm aa nn xx nn sp
+mmaannyang	mm aa nn ya ng sp
+mmaaxxLL	mm aa xx ll sp
+mmaaxxLLee	mm aa xx ll ee sp
+mmaaxxLLiivvSSt0aa	mm aa xx ll ii vv t0 tt aa sp
+mmaaxxLLlloo	mm aa xx ll ll oo sp
+mmaaxxLLt0oo	mm aa xx ll t0 oo sp
+mmaaxxMMee	mm aa xx mm ee sp
+mmaaxxMMees0vv	mm aa xx mm ee s0 vv sp
+mmaaxxMMii	mm aa xx mm ii sp
+mmaaxxMMt0eelloo	mm aa xx mm t0 ee ll oo sp
+mmaaxxMMxxNN	mm aa xx mm xx nn sp
+mmeeS0s0eec0iiP0xxLL	mm ee t0 ss ee c0 ii p0 xx ll sp
+mmeeaalliiee	mm ee aa ll ii ee sp
+mmeeee	mm ee ee sp
+mmeekkxxNNhheeSSt0aa	mm ee kk xx nn hh ee t0 tt aa sp
+mmeemmiiLLkkooCH	mm ee mm ii ll kk oo ch sp
+mmeemmiiLLp0aaTHiit0aa	mm ee mm ii ll p0 aa ch ii t0 aa sp
+mmeengc0vvMMii	mm ee ng c0 vv mm ii sp
+mmeeuu	mm ee uu sp
+mmeeuuNN	mm ee uu nn sp
+mmiiNNc0ooK0c0vvK0iiNN	mm ii nn c0 oo k0 cc vv k0 ii nn sp
+mmiiNNc0ooK0xi	mm ii nn c0 oo k0 xi sp
+mmiiT0k0oo	mm ii t0 kk oo sp
+mmiiTHee	mm ii th ee sp
+mmiiTHiinnaa	mm ii ch ii nn aa sp
+mmiiTHxi	mm ii th xi sp
+mmiiaaNNhheeSSt0aa	mm ii aa nn hh ee t0 tt aa sp
+mmiic0vvK0iiNN	mm ii c0 vv k0 ii nn sp
+mmiiiiNNii	mm ii ii nn ii sp
+mmiiiiNNxxLL	mm ii ii nn xx ll sp
+mmiik0aaNNii	mm ii k0 aa nn ii sp
+mmiis0eengmmuuLLiiNNt0ee	mm ii s0 ee ng mm uu ll ii nn t0 ee sp
+mmiis0uuLLphuuMMxxLL	mm ii s0 uu ll ph uu mm xx ll sp
+mmooK0S0xxLL	mm oo k0 ss xx ll sp
+mmooK0ii	mm oo k0 ii sp
+mmooK0t0vvLLmmiik0aa	mm oo k0 tt vv ll mm ii k0 aa sp
+mmooLLllaaSSt0aa	mm oo ll ll aa t0 tt aa sp
+mmooLLllyv	mm oo ll ll yv sp
+mmooMMp0uulliiMMee	mm oo mm p0 uu ll ii mm ee sp
+mmooMMttuungiillxxLL	mm oo mm tt uu ng ii ll xx ll sp
+mmooMMxxLL	mm oo mm xx ll sp
+mmooP0s0ii	mm oo p0 ss ii sp
+mmooS0	mm oo s0 sp
+mmooS0hhaak0iinnaa	mm oo s0 hh aa k0 ii nn aa sp
+mmooS0hhaak0oo	mm oo s0 hh aa k0 oo sp
+mmooS0t0xxLLxxNN	mm oo t0 tt xx ll xx nn sp
+mmoollxxNNt0aa	mm oo ll xx nn t0 aa sp
+mmoollxxk0ee	mm oo ll xx k0 ee sp
+mmoollxxk0oo	mm oo ll xx k0 oo sp
+mmoollxxnnxxNN	mm oo ll xx nn xx nn sp
+mmoollxxnnxxNNc0ii	mm oo ll xx nn xx nn c0 ii sp
+mmoollxxt0aaNN	mm oo ll xx t0 aa nn sp
+mmoonneek0iik0aa	mm oo nn ee k0 ii k0 aa sp
+mmoonneek0iit0oo	mm oo nn ee k0 ii t0 oo sp
+mmoos0vvlliik0aa	mm oo s0 vv ll ii k0 aa sp
+mmoos0xxP0	mm oo s0 xx p0 sp
+mmoos0xxP0ii	mm oo s0 xx p0 ii sp
+mmoos0xxP0iiLL	mm oo s0 xx p0 ii ll sp
+mmoos0xxP0iillaannxxNN	mm oo s0 xx p0 ii ll aa nn xx nn sp
+mmoos0xxP0xxLL	mm oo s0 xx p0 xx ll sp
+mmoos0xxP0xxNN	mm oo s0 xx p0 xx nn sp
+mmoot0eeLLlloo	mm oo t0 ee ll ll oo sp
+mmoot0xxNN	mm oo t0 xx nn sp
+mmooyangiit0aa	mm oo ya ng ii t0 aa sp
+mmooyvs0vv	mm oo yv s0 vv sp
+mmooyvt0xxLLvvSSt0aa	mm oo yv t0 xx ll vv t0 tt aa sp
+mmuuK0c0vvngp0aaTHiillaammyvNN	mm uu k0 cc vv ng p0 aa ch ii ll aa mm yv nn sp
+mmuuLL	mm uu ll sp
+mmuuLLc0aangnnaaNNiivvSSt0aa	mm uu ll c0 aa ng nn aa nn ii vv t0 tt aa sp
+mmuuLLc0aangnnaaNNxxLL	mm uu ll c0 aa ng nn aa nn xx ll sp
+mmuuLLc0iiLLii	mm uu ll c0 ii ll ii sp
+mmuuLLc0iiLLiillaannxxNN	mm uu ll c0 ii ll ii ll aa nn xx nn sp
+mmuuLLc0iiLLxi	mm uu ll c0 ii ll xi sp
+mmuuLLc0iiLLxxLL	mm uu ll c0 ii ll xx ll sp
+mmuuLLii	mm uu ll ii sp
+mmuuLLk0iik0aa	mm uu ll k0 ii k0 aa sp
+mmuuLLk0vvNNiillaaNN	mm uu ll k0 vv nn ii ll aa nn sp
+mmuuLLk0vvNNxxLL	mm uu ll k0 vv nn xx ll sp
+mmuuLLllooNN	mm uu ll ll oo nn sp
+mmuuLLllvvnnaaSSt0aa	mm uu ll ll vv nn aa t0 tt aa sp
+mmuuLLmmaaNN	mm uu ll mm aa nn sp
+mmuuLLs0eeaaLLk0wa	mm uu ll s0 ee aa ll k0 wa sp
+mmuuLLs0eeaaLLxi	mm uu ll s0 ee aa ll xi sp
+mmuuLLs0eeaaLLxxLL	mm uu ll s0 ee aa ll xx ll sp
+mmuuLLs0uuk0vvNNxxlloo	mm uu ll s0 uu k0 vv nn xx ll oo sp
+mmuuLLxxLL	mm uu ll xx ll sp
+mmuuNNc0eewa	mm uu nn c0 ee wa sp
+mmuuNNc0iillxxk0oo	mm uu nn c0 ii ll xx k0 oo sp
+mmuuNNhhaaK0c0vvK0iiNN	mm uu nn hh aa k0 cc vv k0 ii nn sp
+mmuuNNhhaaK0ee	mm uu nn hh aa k0 ee sp
+mmuuNNhhaaK0ees0vv	mm uu nn hh aa k0 ee s0 vv sp
+mmuuNNhhaaK0ees0vvnnxxNN	mm uu nn hh aa k0 ee s0 vv nn xx nn sp
+mmuuNNhhaaK0ii	mm uu nn hh aa k0 ii sp
+mmuuNNhhaaK0k0wa	mm uu nn hh aa k0 kk wa sp
+mmuuNNhhaaK0xi	mm uu nn hh aa k0 xi sp
+mmuuNNhhaaK0xxNN	mm uu nn hh aa k0 xx nn sp
+mmuuNNmmeeng	mm uu nn mm ee ng sp
+mmuuNNt0xxK0	mm uu nn t0 xx k0 sp
+mmuuhhaaNNhhaat0aa	mm uu hh aa nn hh aa t0 aa sp
+mmuuk0eellaat0oo	mm uu k0 ee ll aa t0 oo sp
+mmuullxxPHeet0aa	mm uu ll xx ph ee t0 aa sp
+mmuullyoee	mm uu ll yo ee sp
+mmuullyvP0	mm uu ll yv p0 sp
+mmuunnooNNeennxxNN	mm uu nn oo nn ee nn xx nn sp
+mmuus0vvuuNN	mm uu s0 vv uu nn sp
+mmuus0xxNN	mm uu s0 xx nn sp
+mmuut0vvMMt0xxLLii	mm uu t0 vv mm t0 xx ll ii sp
+mmuuttuuK0ttuuK0hhaaNN	mm uu tt uu k0 tt uu kh aa nn sp
+mmuuuu	mm uu uu sp
+mmuuvvLL	mm uu vv ll sp
+mmuuvvS0iiNNk0aallxxLL	mm uu vv s0 ii nn k0 aa ll xx ll sp
+mmuuvvS0xxLL	mm uu vv s0 xx ll sp
+mmvvK0iik0iik0aa	mm vv k0 ii k0 ii k0 aa sp
+mmvvK0k0ii	mm vv k0 kk ii sp
+mmvvK0k0iit0oo	mm vv k0 kk ii t0 oo sp
+mmvvK0k0oo	mm vv k0 kk oo sp
+mmvvK0k0uullvvngiik0aa	mm vv k0 kk uu ll vv ng ii k0 aa sp
+mmvvK0nnxxNN	mm vv ng nn xx nn sp
+mmvvK0nnxxNNt0aa	mm vv ng nn xx nn t0 aa sp
+mmvvK0vv	mm vv k0 vv sp
+mmvvK0vvSSt0aa	mm vv k0 vv t0 tt aa sp
+mmvvK0vvSSvvSSt0aa	mm vv k0 vv ss vv t0 tt aa sp
+mmvvLLc0ii	mm vv ll c0 ii sp
+mmvvNN	mm vv nn sp
+mmvvNNc0vv	mm vv nn c0 vv sp
+mmvvc0iiaaNNHHaa	mm vv c0 ii aa nn aa sp
+mmwvLLkkaa	mm wv ll kk aa sp
+mmyvCH	mm yv ch sp
+mmyvCHmmaaNN	mm yv nn mm aa nn sp
+mmyvK0k0aaMMnnxxNN	mm yv k0 kk aa mm nn xx nn sp
+mmyvK0mmaaNN	mm yv ng mm aa nn sp
+mmyvK0xxLL	mm yv k0 xx ll sp
+mmyvLLs0iiwa	mm yv ll s0 ii wa sp
+mmyvNNees0vv	mm yv nn ee s0 vv sp
+mmyvNNii	mm yv nn ii sp
+mmyvchiiLLccee	mm yv ch ii ll cc ee sp
+nnaa	nn aa sp
+nnaaC0c0aaMMiillaat0oo	nn aa t0 cc aa mm ii ll aa t0 oo sp
+nnaaLL	nn aa ll sp
+nnaaLLaawaSSt0aa	nn aa ll aa wa t0 tt aa sp
+nnaaLLii	nn aa ll ii sp
+nnaaLLiiLLs0uullooK0	nn aa ll ii ll s0 uu ll oo k0 sp
+nnaaLLp0uuthvv	nn aa ll p0 uu th vv sp
+nnaaLLsseek0ee	nn aa ll ss ee k0 ee sp
+nnaaLLxxNN	nn aa ll xx nn sp
+nnaaMMchvvNNk0aangii	nn aa mm ch vv nn k0 aa ng ii sp
+nnaaMMii	nn aa mm ii sp
+nnaaNN	nn aa nn sp
+nnaaSSt0aa	nn aa t0 tt aa sp
+nnaak0aa	nn aa k0 aa sp
+nnaak0aallyvnnxxNN	nn aa k0 aa ll yv nn xx nn sp
+nnaammuu	nn aa mm uu sp
+nnaammuullxxLL	nn aa mm uu ll xx ll sp
+nnaammuuwa	nn aa mm uu wa sp
+nnaammvvc0ii	nn aa mm vv c0 ii sp
+nnaammyvNN	nn aa mm yv nn sp
+nnaannxxNN	nn aa nn xx nn sp
+nnaaooc0ii	nn aa oo c0 ii sp
+nnaaoommyvNN	nn aa oo mm yv nn sp
+nnaaoonnxxNN	nn aa oo nn xx nn sp
+nnaaoot0xxS0	nn aa oo t0 xx s0 sp
+nnaaphuuLLk0vvlliimmyv	nn aa ph uu ll k0 vv ll ii mm yv sp
+nnaat0oo	nn aa t0 oo sp
+nnaat0oollooK0	nn aa t0 oo ll oo k0 sp
+nnaat0vvnnii	nn aa t0 vv nn ii sp
+nnaathaannaa	nn aa th aa nn aa sp
+nnaathaannaaNNt0aa	nn aa th aa nn aa nn t0 aa sp
+nnaathaannaaNNt0aannxxNN	nn aa th aa nn aa nn t0 aa nn xx nn sp
+nnaathaannaac0ii	nn aa th aa nn aa c0 ii sp
+nnaathaannaalliillaa	nn aa th aa nn aa ll ii ll aa sp
+nnaathaannaannxxNN	nn aa th aa nn aa nn xx nn sp
+nnaathaanneennxxNN	nn aa th aa nn ee nn xx nn sp
+nnaawaSSt0aa	nn aa wa t0 tt aa sp
+nnaawaSSt0aak0oo	nn aa wa t0 tt aa k0 oo sp
+nnaawaya	nn aa wa ya sp
+nnaaxxNN	nn aa xx nn sp
+nnee	nn ee sp
+nneeNN	nn ee nn sp
+nneeNNt0aa	nn ee nn t0 aa sp
+nneeS0mmuuLLxxLL	nn ee nn mm uu ll xx ll sp
+nneeSSt0aa	nn ee t0 tt aa sp
+nneec0uuNNt0aa	nn ee c0 uu nn t0 aa sp
+nneeee	nn ee ee sp
+nneek0aa	nn ee k0 aa sp
+nneek0oo	nn ee k0 oo sp
+nneellyvk0aa	nn ee ll yv k0 aa sp
+nneellyvoonnxxNN	nn ee ll yv oo nn xx nn sp
+nneellyvt0aap0ooaaSSt0aa	nn ee ll yv t0 aa p0 oo aa t0 tt aa sp
+nneellyvwaSSt0aa	nn ee ll yv wa t0 tt aa sp
+nneellyvya	nn ee ll yv ya sp
+nneemmyv	nn ee mm yv sp
+nneemmyvNNs0vv	nn ee mm yv nn s0 vv sp
+nneennwaSSt0vvnnii	nn ee nn wa t0 tt vv nn ii sp
+nneeyongxxNN	nn ee yo ng xx nn sp
+nnooHHaa	nn oo aa sp
+nnooHHchiik0oo	nn oo hh ch ii k0 oo sp
+nnooHHk0oo	nn oo kh oo sp
+nnooHHnnxxNN	nn oo nn nn xx nn sp
+nnooHHxxNN	nn oo xx nn sp
+nnooHHxxmmyvNN	nn oo xx mm yv nn sp
+nnooK0k0ii	nn oo k0 kk ii sp
+nnooK0yvs0vv	nn oo k0 yv s0 vv sp
+nnooLLiithvvlloo	nn oo ll ii th vv ll oo sp
+nnooLLllaa	nn oo ll ll aa sp
+nnooLLllyv	nn oo ll ll yv sp
+nnooNNk0wa	nn oo nn k0 wa sp
+nnooNNp0aaTHt0uullvvngee	nn oo nn p0 aa t0 tt uu ll vv ng ee sp
+nnooNNp0aaTHt0uullvvngxxLL	nn oo nn p0 aa t0 tt uu ll vv ng xx ll sp
+nnooiiNNc0aang	nn oo ii nn c0 aa ng sp
+nnooiiNNee	nn oo ii nn ee sp
+nnooiiNNii	nn oo ii nn ii sp
+nnooiiNNiit0aa	nn oo ii nn ii t0 aa sp
+nnooiiNNiivvSSt0aa	nn oo ii nn ii vv t0 tt aa sp
+nnooiiNNt0aawv	nn oo ii nn t0 aa wv sp
+nnooiiNNt0xxLLii	nn oo ii nn t0 xx ll ii sp
+nnooiiNNxxNN	nn oo ii nn xx nn sp
+nnooiiNNxxNNt0aallxxNN	nn oo ii nn xx nn t0 aa ll xx nn sp
+nnoolleehhaannxxNN	nn oo ll ee hh aa nn xx nn sp
+nnoolleehhaat0we	nn oo ll ee hh aa t0 we sp
+nnoolleehheeSSt0aammyvNN	nn oo ll ee hh ee t0 tt aa mm yv nn sp
+nnoollyvK0	nn oo ll yv k0 sp
+nnoollyvK0hhaammyvNN	nn oo ll yv kh aa mm yv nn sp
+nnoollyvK0hhaannxxNN	nn oo ll yv kh aa nn xx nn sp
+nnoollyvK0iinnii	nn oo ll yv k0 ii nn ii sp
+nnoollyvK0xxLL	nn oo ll yv k0 xx ll sp
+nnoollyvK0xxNN	nn oo ll yv k0 xx nn sp
+nnoongchooNN	nn oo ng ch oo nn sp
+nnoongchooNNee	nn oo ng ch oo nn ee sp
+nnoongchooNNxi	nn oo ng ch oo nn xi sp
+nnoongchooNNxxLL	nn oo ng ch oo nn xx ll sp
+nnoongchooNNxxNN	nn oo ng ch oo nn xx nn sp
+nnoongmmiiNNt0xxLLxi	nn oo ng mm ii nn t0 xx ll xi sp
+nnuuNNaaLLii	nn uu nn aa ll ii sp
+nnuuNNeemmaaNN	nn uu nn ee mm aa nn sp
+nnuuNNii	nn uu nn ii sp
+nnuuNNk0wa	nn uu nn k0 wa sp
+nnuuNNmmaanguuLLxxNN	nn uu nn mm aa ng uu ll xx nn sp
+nnuuNNmmeewa	nn uu nn mm ee wa sp
+nnuuNNs0ooK0iiMMiic0ii	nn uu nn s0 oo k0 ii mm ii c0 ii sp
+nnuuNNxxLL	nn uu nn xx ll sp
+nnuuNNxxlloo	nn uu nn xx ll oo sp
+nnuuiiya	nn uu ii ya sp
+nnuuk0aa	nn uu k0 aa sp
+nnuuk0uuLL	nn uu k0 uu ll sp
+nnuuk0uueek0ee	nn uu k0 uu ee k0 ee sp
+nnuuk0uuiiNNc0ii	nn uu k0 uu ii nn c0 ii sp
+nnuuk0xxllvvc0iiNN	nn uu k0 xx ll vv c0 ii nn sp
+nnuuk0xxllvvc0yvSSt0aa	nn uu k0 xx ll vv c0 yv t0 tt aa sp
+nnuulliiLL	nn uu ll ii ll sp
+nnuullvvHHk0ee	nn uu ll vv kh ee sp
+nnvv	nn vv sp
+nnvvHHvvSSt0aa	nn vv vv t0 tt aa sp
+nnvvMMchiinnxxNN	nn vv mm ch ii nn xx nn sp
+nnvvMMk0yvt0aap0oommyvNNs0vv	nn vv mm k0 yv t0 aa p0 oo mm yv nn s0 vv sp
+nnvvMMvvk0aammyvNN	nn vv mm vv k0 aa mm yv nn sp
+nnvvk0uulliik0aa	nn vv k0 uu ll ii k0 aa sp
+nnvvk0uulliik0uuLLeet0aa	nn vv k0 uu ll ii k0 uu ll ee t0 aa sp
+nnvvk0uulliik0uuLLii	nn vv k0 uu ll ii k0 uu ll ii sp
+nnvvk0uulliinnxxNN	nn vv k0 uu ll ii nn xx nn sp
+nnvvk0uulliip0oot0aat0oo	nn vv k0 uu ll ii p0 oo t0 aa t0 oo sp
+nnvvllxxLL	nn vv ll xx ll sp
+nnvvmmuu	nn vv mm uu sp
+nnvvmmvv	nn vv mm vv sp
+nnvvmmvvee	nn vv mm vv ee sp
+nnvvxi	nn vv xi sp
+nnwiuuchyvSSt0aa	nn wi uu ch yv t0 tt aa sp
+nnwiyvS0nnwiyvS0	nn wi yv nn nn wi yv s0 sp
+nnxxC0k0ee	nn xx t0 kk ee sp
+nnxxC0vvc0iiNNt0aanniikkaa	nn xx c0 vv c0 ii nn t0 aa nn ii kk aa sp
+nnxxC0xxNN	nn xx c0 xx nn sp
+nnxxK0c0aangiit0aa	nn xx k0 cc aa ng ii t0 aa sp
+nnxxLL	nn xx ll sp
+nnxxLLK0xxNN	nn xx ll k0 xx nn sp
+nnxxLLvvc0iik0ee	nn xx ll vv c0 ii k0 ee sp
+nnxxkkiiMMxxLL	nn xx kk ii mm xx ll sp
+nnxxkkiik0ee	nn xx kk ii k0 ee sp
+nnxxkkiinnxxNNk0aa	nn xx kk ii nn xx nn k0 aa sp
+nnxxkkyvSSt0aa	nn xx kk yv t0 tt aa sp
+nnxxthiinnaammuu	nn xx th ii nn aa mm uu sp
+nnyvNN	nn yv nn sp
+ooLLMMk0iiNN	oo mm kk ii nn sp
+ooLLllaa	oo ll ll aa sp
+ooLLllaaSSt0aa	oo ll ll aa t0 tt aa sp
+ooLLllaawas0vv	oo ll ll aa wa s0 vv sp
+ooNN	oo nn sp
+ooNNc0oongiiLLxxLL	oo nn c0 oo ng ii ll xx ll sp
+ooNNt0oollxxLL	oo nn t0 oo ll xx ll sp
+ooNNt0oonnxxNN	oo nn t0 oo nn xx nn sp
+ooNNthoong	oo nn th oo ng sp
+ooS0k0aaMMii	oo t0 kk aa mm ii sp
+ooS0xxLL	oo s0 xx ll sp
+ooc0iiK0	oo c0 ii k0 sp
+oohhiillyv	oo hh ii ll yv sp
+oollee	oo ll ee sp
+oolleeNN	oo ll ee nn sp
+oolliixi	oo ll ii xi sp
+oollooc0ii	oo ll oo c0 ii sp
+oommyvNN	oo mm yv nn sp
+oongk0iic0oongk0ii	oo ng k0 ii c0 oo ng k0 ii sp
+oonnxxLLnnaaLLkkaac0ii	oo nn xx ll ll aa ll kk aa c0 ii sp
+oonnxxLLnnaaLLkkaac0iit0oo	oo nn xx ll ll aa ll kk aa c0 ii t0 oo sp
+oonnxxLLxxNN	oo nn xx ll xx nn sp
+oonnxxNN	oo nn xx nn sp
+oos0ooLLk0iiLLii	oo s0 oo ll k0 ii ll ii sp
+oos0uunnxxNN	oo s0 uu nn xx nn sp
+p0aaK0t0oonghhyvK0iillaaNN	p0 aa k0 tt oo ng hh yv k0 ii ll aa nn sp
+p0aaKKees0vv	p0 aa kk ee s0 vv sp
+p0aaKKxxlloo	p0 aa kk xx ll oo sp
+p0aaLLccxxMMmmaaNN	p0 aa ll cc xx mm mm aa nn sp
+p0aaLLhhaannxxNN	p0 aa ll hh aa nn xx nn sp
+p0aaLLhhwis0iikhiiLL	p0 aa ll hh wi s0 ii kh ii ll sp
+p0aaLLii	p0 aa ll ii sp
+p0aaLLk0yvNNhhaaNNt0aa	p0 aa ll k0 yv nn hh aa nn t0 aa sp
+p0aaLLk0yvNNiiLL	p0 aa ll k0 yv nn ii ll sp
+p0aaLLllaa	p0 aa ll ll aa sp
+p0aaLLp0aaLL	p0 aa ll p0 aa ll sp
+p0aaLLphyot0weLL	p0 aa ll ph yo t0 we ll sp
+p0aaLLphyot0weNN	p0 aa ll ph yo t0 we nn sp
+p0aaLLt0ooT0uuMMxxLL	p0 aa ll t0 oo t0 uu mm xx ll sp
+p0aaMM	p0 aa mm sp
+p0aaMMkkooCHii	p0 aa mm kk oo ch ii sp
+p0aaMMp0aaTHk0ooLLlloo	p0 aa mm p0 aa t0 kk oo ll ll oo sp
+p0aaMMp0aaTHk0ooLLxxNN	p0 aa mm p0 aa t0 kk oo ll xx nn sp
+p0aaNNccaaK0k0vvllyvSSt0aa	p0 aa nn cc aa k0 kk vv ll yv t0 tt aa sp
+p0aaNNt0xxs0ii	p0 aa nn t0 xx s0 ii sp
+p0aaNNyvnghhaannxxNNk0aa	p0 aa nn yv ng hh aa nn xx nn k0 aa sp
+p0aaNNyvngiik0oo	p0 aa nn yv ng ii k0 oo sp
+p0aaNNyvngt0weNN	p0 aa nn yv ng t0 we nn sp
+p0aaNNyvngt0wek0oo	p0 aa nn yv ng t0 we k0 oo sp
+p0aaNNyvngt0wennxxNN	p0 aa nn yv ng t0 we nn xx nn sp
+p0aaP0ii	p0 aa p0 ii sp
+p0aaT0k0ee	p0 aa t0 kk ee sp
+p0aaT0k0iit0oo	p0 aa t0 kk ii t0 oo sp
+p0aaT0nnxxNN	p0 aa nn nn xx nn sp
+p0aaT0t0xxLLvv	p0 aa t0 tt xx ll vv sp
+p0aak0aa	p0 aa k0 aa sp
+p0aallaaMM	p0 aa ll aa mm sp
+p0aallaaMMc0iiK0hhaaNN	p0 aa ll aa mm c0 ii kh aa nn sp
+p0aallaaMMchvvllvvMM	p0 aa ll aa mm ch vv ll vv mm sp
+p0aallaaMMkkxxTHii	p0 aa ll aa mm kk xx ch ii sp
+p0aallaaNNt0aa	p0 aa ll aa nn t0 aa sp
+p0aallaac0ii	p0 aa ll aa c0 ii sp
+p0aallaammyvNNs0vv	p0 aa ll aa mm yv nn s0 vv sp
+p0aallaap0ook0oo	p0 aa ll aa p0 oo k0 oo sp
+p0aallaap0oonnxxNN	p0 aa ll aa p0 oo nn xx nn sp
+p0aanghheehhaannxxNN	p0 aa ng hh ee hh aa nn xx nn sp
+p0aangmmaangiillxxLL	p0 aa ng mm aa ng ii ll xx ll sp
+p0aangmmaangiinnxxNN	p0 aa ng mm aa ng ii nn xx nn sp
+p0aangmmaangiit0aa	p0 aa ng mm aa ng ii t0 aa sp
+p0aangmmaangiit0oo	p0 aa ng mm aa ng ii t0 oo sp
+p0aangp0vvP0iiLL	p0 aa ng p0 vv p0 ii ll sp
+p0aangp0vvP0iit0aa	p0 aa ng p0 vv p0 ii t0 aa sp
+p0aangp0vvP0xxLL	p0 aa ng p0 vv p0 xx ll sp
+p0aangp0vvP0xxNN	p0 aa ng p0 vv p0 xx nn sp
+p0aap0oo	p0 aa p0 oo sp
+p0aappxxnnii	p0 aa pp xx nn ii sp
+p0aat0aaS0k0aaee	p0 aa t0 aa t0 kk aa ee sp
+p0aat0oongk0vvllyvSSt0aa	p0 aa t0 oo ng k0 vv ll yv t0 tt aa sp
+p0aat0oongk0vvllyvt0oo	p0 aa t0 oo ng k0 vv ll yv t0 oo sp
+p0ee	p0 ee sp
+p0eek0aa	p0 ee k0 aa sp
+p0eellxxLL	p0 ee ll xx ll sp
+p0eennaa	p0 ee nn aa sp
+p0eephuuLLvv	p0 ee ph uu ll vv sp
+p0eeuuLL	p0 ee uu ll sp
+p0eeuuNN	p0 ee uu nn sp
+p0eeuuk0ee	p0 ee uu k0 ee sp
+p0eeuuk0ii	p0 ee uu k0 ii sp
+p0eeuuk0iieennxxNN	p0 ee uu k0 ii ee nn xx nn sp
+p0eeuunnxxNN	p0 ee uu nn xx nn sp
+p0eewv	p0 ee wv sp
+p0eewvya	p0 ee wv ya sp
+p0eeyvLLhhaayv	p0 ee yv ll hh aa yv sp
+p0iiC0vv	p0 ii c0 vv sp
+p0iiCHii	p0 ii ch ii sp
+p0iiCHnnaannxxNN	p0 ii nn nn aa nn xx nn sp
+p0iiCHxxLL	p0 ii ch xx ll sp
+p0iiNN	p0 ii nn sp
+p0iic0uungxxLL	p0 ii c0 uu ng xx ll sp
+p0iichiik0ii	p0 ii ch ii k0 ii sp
+p0iichiivvSSt0aa	p0 ii ch ii vv t0 tt aa sp
+p0iichuuvv	p0 ii ch uu vv sp
+p0iihhaayv	p0 ii hh aa yv sp
+p0iihhee	p0 ii hh ee sp
+p0iihhyvNNs0iiLLc0vvK0iiNN	p0 ii hh yv nn s0 ii ll c0 vv k0 ii nn sp
+p0iik0yoc0vvK0	p0 ii k0 yo c0 vv k0 sp
+p0iikhiiLL	p0 ii kh ii ll sp
+p0iikhiik0iillxxLL	p0 ii kh ii k0 ii ll xx ll sp
+p0iikhyv	p0 ii kh yv sp
+p0iilloos0oo	p0 ii ll oo s0 oo sp
+p0iip0iit0ee	p0 ii p0 ii t0 ee sp
+p0iip0vvP0xxLL	p0 ii p0 vv p0 xx ll sp
+p0iissaaSSt0aa	p0 ii ss aa t0 tt aa sp
+p0iissaak0ee	p0 ii ss aa k0 ee sp
+p0iissaak0vvt0xxNN	p0 ii ss aa k0 vv t0 xx nn sp
+p0iit0aaNNc0ook0ee	p0 ii t0 aa nn c0 oo k0 ee sp
+p0iit0aaNNk0yvLLp0oot0aat0oo	p0 ii t0 aa nn k0 yv ll p0 oo t0 aa t0 oo sp
+p0ooK0hhaaP0c0vvK0iik0oo	p0 oo kh aa p0 cc vv k0 ii k0 oo sp
+p0ooLL	p0 oo ll sp
+p0ooLLs0uullooK0	p0 oo ll s0 uu ll oo k0 sp
+p0ooMM	p0 oo mm sp
+p0ooMMiimmyvNN	p0 oo mm ii mm yv nn sp
+p0ooNN	p0 oo nn sp
+p0ooNNc0iiLLxxLL	p0 oo nn c0 ii ll xx ll sp
+p0ooNNwik0aa	p0 oo nn wi k0 aa sp
+p0ooNNwit0aa	p0 oo nn wi t0 aa sp
+p0ooaaSSt0aa	p0 oo aa t0 tt aa sp
+p0ooaaSSt0aak0oo	p0 oo aa t0 tt aa k0 oo sp
+p0ooaas0vv	p0 oo aa s0 vv sp
+p0ooaas0vvnnxxNN	p0 oo aa s0 vv nn xx nn sp
+p0ooc0aa	p0 oo c0 aa sp
+p0ooc0ii	p0 oo c0 ii sp
+p0ooc0iit0oo	p0 oo c0 ii t0 oo sp
+p0ooiic0ii	p0 oo ii c0 ii sp
+p0ooiik0ii	p0 oo ii k0 ii sp
+p0ooiik0oo	p0 oo ii k0 oo sp
+p0ooiillyvk0oo	p0 oo ii ll yv k0 oo sp
+p0ooiinnxxNN	p0 oo ii nn xx nn sp
+p0ook0iieennxxNN	p0 oo k0 ii ee nn xx nn sp
+p0ook0iilloo	p0 oo k0 ii ll oo sp
+p0ook0iit0oo	p0 oo k0 ii t0 oo sp
+p0ook0oo	p0 oo k0 oo sp
+p0oollaaMMiik0ii	p0 oo ll aa mm ii k0 ii sp
+p0oollaaMMxxLL	p0 oo ll aa mm xx ll sp
+p0oolliik0aa	p0 oo ll ii k0 aa sp
+p0oolliillxxLL	p0 oo ll ii ll xx ll sp
+p0oollyvnnxxNN	p0 oo ll yv nn xx nn sp
+p0oommyvNN	p0 oo mm yv nn sp
+p0oongs0aat0oo	p0 oo ng s0 aa t0 oo sp
+p0oonnii	p0 oo nn ii sp
+p0oonnxxNN	p0 oo nn xx nn sp
+p0oos0iioo	p0 oo s0 ii oo sp
+p0oot0vvnnii	p0 oo t0 vv nn ii sp
+p0oot0xxllaaP0k0oo	p0 oo t0 xx ll aa p0 kk oo sp
+p0ootheeSSt0vvNN	p0 oo th ee t0 tt vv nn sp
+p0oothoongxi	p0 oo th oo ng xi sp
+p0ooyv	p0 oo yv sp
+p0uuLLchiiNNc0vvLLhhaak0oo	p0 uu ll ch ii nn c0 vv ll hh aa k0 oo sp
+p0uuLLk0aannxxnghhaaNN	p0 uu ll k0 aa nn xx ng hh aa nn sp
+p0uuLLkhwehhaak0ii	p0 uu ll kh we hh aa k0 ii sp
+p0uuLLkkooCHxxNN	p0 uu ll kk oo ch xx nn sp
+p0uuLLllvvSSnnxxNNt0ee	p0 uu ll ll vv nn nn xx nn t0 ee sp
+p0uuLLnnooLLiillxxLL	p0 uu ll ll oo ll ii ll xx ll sp
+p0uuLLphyvngt0oo	p0 uu ll ph yv ng t0 oo sp
+p0uuLLthaaNN	p0 uu ll th aa nn sp
+p0uuLLvv	p0 uu ll vv sp
+p0uuLLvvSSt0aa	p0 uu ll vv t0 tt aa sp
+p0uuLLxxLL	p0 uu ll xx ll sp
+p0uuLLxxNN	p0 uu ll xx nn sp
+p0uuNNhhoong	p0 uu nn hh oo ng sp
+p0uuNNxi	p0 uu nn xi sp
+p0uuTHiiLL	p0 uu ch ii ll sp
+p0uuTHiiNNt0aa	p0 uu ch ii nn t0 aa sp
+p0uuTHiiNNt0aak0oo	p0 uu ch ii nn t0 aa k0 oo sp
+p0uuTHiik0oo	p0 uu ch ii k0 oo sp
+p0uuTHvvs0vv	p0 uu th vv s0 vv sp
+p0uuc0iillvvNNiit0aa	p0 uu c0 ii ll vv nn ii t0 aa sp
+p0uuchee	p0 uu ch ee sp
+p0uuhhxxngs0iikhiik0ii	p0 uu hh xx ng s0 ii kh ii k0 ii sp
+p0uulleellxxLL	p0 uu ll ee ll xx ll sp
+p0uullxxmmyvNN	p0 uu ll xx mm yv nn sp
+p0uullxxnnxxNN	p0 uu ll xx nn xx nn sp
+p0uut0ii	p0 uu t0 ii sp
+p0uut0xxllvvuuNN	p0 uu t0 xx ll vv uu nn sp
+p0uuthaaK0hheeSSt0aa	p0 uu th aa kh ee t0 tt aa sp
+p0uuthaaK0xxLL	p0 uu th aa k0 xx ll sp
+p0vvLL	p0 vv ll sp
+p0vvLLiik0iit0oo	p0 vv ll ii k0 ii t0 oo sp
+p0vvLLssvv	p0 vv ll ss vv sp
+p0vvLLttvvK0	p0 vv ll tt vv k0 sp
+p0vvLLyvSSt0aa	p0 vv ll yv t0 tt aa sp
+p0vvNN	p0 vv nn sp
+p0vvNNc0yv	p0 vv nn c0 yv sp
+p0vvNNiik0oo	p0 vv nn ii k0 oo sp
+p0vvNNp0vvNNii	p0 vv nn p0 vv nn ii sp
+p0vvNNssiiK0iinnaa	p0 vv nn ss ii k0 ii nn aa sp
+p0vvNNxxLL	p0 vv nn xx ll sp
+p0vvP0ii	p0 vv p0 ii sp
+p0vvP0iik0vvt0xxNN	p0 vv p0 ii k0 vv t0 xx nn sp
+p0vvS0vv	p0 vv s0 vv sp
+p0vvlliiMMxxlloossvv	p0 vv ll ii mm xx ll oo ss vv sp
+p0vvlliik0oo	p0 vv ll ii k0 oo sp
+p0vvllvvK0	p0 vv ll vv k0 sp
+p0vvllxxS0ii	p0 vv ll xx s0 ii sp
+p0vvllyv	p0 vv ll yv sp
+p0vvllyvSSnnxxNNc0ii	p0 vv ll yv nn nn xx nn c0 ii sp
+p0vvllyvSSt0aa	p0 vv ll yv t0 tt aa sp
+p0wat0oo	p0 wa t0 oo sp
+p0wec0ii	p0 we c0 ii sp
+p0yvLLc0aangt0oo	p0 yv ll c0 aa ng t0 oo sp
+p0yvLLlloo	p0 yv ll ll oo sp
+p0yvLLt0xxLLt0oo	p0 yv ll t0 xx ll t0 oo sp
+p0yvLLxxNN	p0 yv ll xx nn sp
+p0yvTHxxLL	p0 yv th xx ll sp
+phaaLLccaaK0phaaLLccaaK0	ph aa ll cc aa k0 ph aa ll cc aa k0 sp
+phaaLLk0eeSSs0oohhaannxxNN	ph aa ll k0 ee t0 ss oo hh aa nn xx nn sp
+phaaLLk0wa	ph aa ll k0 wa sp
+phaannxxNN	ph aa nn xx nn sp
+phaannxxllaak0oo	ph aa nn xx ll aa k0 oo sp
+pheellxxLL	ph ee ll xx ll sp
+phiiLLyohhaaNN	ph ii ll yo hh aa nn sp
+phiiLLyohhaak0oo	ph ii ll yo hh aa k0 oo sp
+phiiLLyolloo	ph ii ll yo ll oo sp
+phiiNN	ph ii nn sp
+phiik0oo	ph ii k0 oo sp
+phiimmyvNN	ph ii mm yv nn sp
+phiiphyehhaaNN	ph ii ph ye hh aa nn sp
+phiiphyet0wevv	ph ii ph ye t0 we vv sp
+phiiuuk0oo	ph ii uu k0 oo sp
+phiivv	ph ii vv sp
+phiivvnnaaNN	ph ii vv nn aa nn sp
+phiivvnnaaya	ph ii vv nn aa ya sp
+phuuLLllyvSSt0aa	ph uu ll ll yv t0 tt aa sp
+phuuLLxxLL	ph uu ll xx ll sp
+phuullxxllxxMM	ph uu ll xx ll xx mm sp
+phuullxxllxxMMxxlloo	ph uu ll xx ll xx mm xx ll oo sp
+phuungp0uuhhaak0ee	ph uu ng p0 uu hh aa k0 ee sp
+phuungs0vvnghhaak0ee	ph uu ng s0 vv ng hh aa k0 ee sp
+phuuuuphuuuu	ph uu uu ph uu uu sp
+phvvngphvvc0iiMMhhaaNN	ph vv ng ph vv c0 ii mm hh aa nn sp
+phvvs0vv	ph vv s0 vv sp
+phyohhyvNNhhaaLL	ph yo hh yv nn hh aa ll sp
+phyohhyvNNhhaak0ii	ph yo hh yv nn hh aa k0 ii sp
+phyohhyvNNiik0ii	ph yo hh yv nn ii k0 ii sp
+phyohhyvNNt0weNN	ph yo hh yv nn t0 we nn sp
+phyvc0iic0ii	ph yv c0 ii c0 ii sp
+phyvk0oo	ph yv k0 oo sp
+phyvngp0vvMMhhaak0oo	ph yv ng p0 vv mm hh aa k0 oo sp
+ppaaLLaat0xxLLiit0xxS0	pp aa ll aa t0 xx ll ii t0 xx s0 sp
+ppaaLLk0eec0iit0oollooK0	pp aa ll k0 ee c0 ii t0 oo ll oo k0 sp
+ppaaLLk0oo	pp aa ll k0 oo sp
+ppaaLLlleeees0vv	pp aa ll ll ee ee s0 vv sp
+ppaaLLlleek0aa	pp aa ll ll ee k0 aa sp
+ppaaLLlleellxxLL	pp aa ll ll ee ll xx ll sp
+ppaaLLlleennxxNN	pp aa ll ll ee nn xx nn sp
+ppaaLLllii	pp aa ll ll ii sp
+ppaaNNhhii	pp aa nn hh ii sp
+ppaac0iiNN	pp aa c0 ii nn sp
+ppaac0yvSSt0aa	pp aa c0 yv t0 tt aa sp
+ppaangmmaaNNxxlloo	pp aa ng mm aa nn xx ll oo sp
+ppaat0xxS0hhee	pp aa t0 xx s0 hh ee sp
+ppeeaaS0k0iiNN	pp ee aa t0 kk ii nn sp
+ppiiLLk0iillxxLL	pp ii ll k0 ii ll xx ll sp
+ppooyaHHk0ee	pp oo ya kh ee sp
+ppuuLLee	pp uu ll ee sp
+ppuuMMvvc0iinnxxNN	pp uu mm vv c0 ii nn xx nn sp
+ppuuNN	pp uu nn sp
+ppuuNNiillaaNN	pp uu nn ii ll aa nn sp
+ppvvT0k0oo	pp vv t0 kk oo sp
+ppvvkkuuk0ii	pp vv kk uu k0 ii sp
+ppvvkkuuk0iinnxxNN	pp vv kk uu k0 ii nn xx nn sp
+s0aa	s0 aa sp
+s0aaK0c0vvngii	s0 aa k0 cc vv ng ii sp
+s0aaLL	s0 aa ll sp
+s0aaLLMM	s0 aa ll mm sp
+s0aaLLMMees0vv	s0 aa ll mm ee s0 vv sp
+s0aaLLMMii	s0 aa ll mm ii sp
+s0aaLLMMxi	s0 aa ll mm xi sp
+s0aaLLMMxxLL	s0 aa ll mm xx ll sp
+s0aaLLMMxxNN	s0 aa ll mm xx nn sp
+s0aaLLaak0aaLL	s0 aa ll aa k0 aa ll sp
+s0aaLLaak0aammyvNNs0vv	s0 aa ll aa k0 aa mm yv nn s0 vv sp
+s0aaLLaak0aannxxNN	s0 aa ll aa k0 aa nn xx nn sp
+s0aaLLc0iiNN	s0 aa ll c0 ii nn sp
+s0aaLLk0ii	s0 aa ll k0 ii sp
+s0aaLLk0oo	s0 aa ll k0 oo sp
+s0aaLLlliit0oollooK0	s0 aa ll ll ii t0 oo ll oo k0 sp
+s0aaLLllyvk0oo	s0 aa ll ll yv k0 oo sp
+s0aaLLp0vvLLhhaak0oo	s0 aa ll p0 vv ll hh aa k0 oo sp
+s0aaLLphyvp0ook0iilloo	s0 aa ll ph yv p0 oo k0 ii ll oo sp
+s0aaMM	s0 aa mm sp
+s0aaMMkhyvSSt0aa	s0 aa mm kh yv t0 tt aa sp
+s0aaMMxi	s0 aa mm xi sp
+s0aaNN	s0 aa nn sp
+s0aaNNeennxxNN	s0 aa nn ee nn xx nn sp
+s0aaNNk0aaNN	s0 aa nn k0 aa nn sp
+s0aaNNk0ooLLccaak0iiee	s0 aa nn k0 oo ll cc aa k0 ii ee sp
+s0aaNNk0wa	s0 aa nn k0 wa sp
+s0aaNNmmaaNNhhaaNN	s0 aa nn mm aa nn hh aa nn sp
+s0aaNNp0aaLLchii	s0 aa nn p0 aa ll ch ii sp
+s0aaNNs0eeaaLLk0wa	s0 aa nn s0 ee aa ll k0 wa sp
+s0aaNNt0aa	s0 aa nn t0 aa sp
+s0aaNNt0aannxxNN	s0 aa nn t0 aa nn xx nn sp
+s0aaNNt0oo	s0 aa nn t0 oo sp
+s0aaNNxxLL	s0 aa nn xx ll sp
+s0aac0iillxxLL	s0 aa c0 ii ll xx ll sp
+s0aahhwe	s0 aa hh we sp
+s0aahhwec0vvK0iiNN	s0 aa hh we c0 vv k0 ii nn sp
+s0aahhwellxxLL	s0 aa hh we ll xx ll sp
+s0aaiiS0k0iiLLlloo	s0 aa ii t0 kk ii ll ll oo sp
+s0aaiiiimmyvNNs0vv	s0 aa ii ii mm yv nn s0 vv sp
+s0aak0oo	s0 aa k0 oo sp
+s0aallaaMMii	s0 aa ll aa mm ii sp
+s0aallaaMMmmaat0aa	s0 aa ll aa mm mm aa t0 aa sp
+s0aallaaMMt0oo	s0 aa ll aa mm t0 oo sp
+s0aallaaMMt0xxLLxxNN	s0 aa ll aa mm t0 xx ll xx nn sp
+s0aallaaMMxi	s0 aa ll aa mm xi sp
+s0aallaaMMxxLL	s0 aa ll aa mm xx ll sp
+s0aallaaMMxxNN	s0 aa ll aa mm xx nn sp
+s0aallaang	s0 aa ll aa ng sp
+s0aallaanghhaannxxNN	s0 aa ll aa ng hh aa nn xx nn sp
+s0aallaangk0wa	s0 aa ll aa ng k0 wa sp
+s0aammyvNN	s0 aa mm yv nn sp
+s0aangllooK0s0uuee	s0 aa ng nn oo k0 ss uu ee sp
+s0aangllooK0s0uueennxxNN	s0 aa ng nn oo k0 ss uu ee nn xx nn sp
+s0aangllooK0s0uuees0vv	s0 aa ng nn oo k0 ss uu ee s0 vv sp
+s0aangs0aanghhaaLL	s0 aa ng s0 aa ng hh aa ll sp
+s0aangt0aanghhaaNN	s0 aa ng t0 aa ng hh aa nn sp
+s0aangthoonghhaannxxNN	s0 aa ng th oo ng hh aa nn xx nn sp
+s0aannxxNN	s0 aa nn xx nn sp
+s0aannxxNNk0aa	s0 aa nn xx nn k0 aa sp
+s0aas0aangxxlloo	s0 aa s0 aa ng xx ll oo sp
+s0aas0iiLL	s0 aa s0 ii ll sp
+s0aas0iiLLc0uuxic0vvK0	s0 aa s0 ii ll c0 uu xi c0 vv k0 sp
+s0aas0iiLLmmaaNN	s0 aa s0 ii ll mm aa nn sp
+s0aas0iiLLxxLL	s0 aa s0 ii ll xx ll sp
+s0aas0iiP0yv	s0 aa s0 ii p0 yv sp
+s0aauu	s0 aa uu sp
+s0aayonghhaaNN	s0 aa yo ng hh aa nn sp
+s0ee	s0 ee sp
+s0eeMMiit0aa	s0 ee mm ii t0 aa sp
+s0eeMMmmuuLLxxLL	s0 ee mm mm uu ll xx ll sp
+s0eek0aaNNnnaaNN	s0 ee k0 aa nn nn aa nn sp
+s0eek0iiMMc0iiLLxxLL	s0 ee k0 ii mm c0 ii ll xx ll sp
+s0eek0yellaa	s0 ee k0 ye ll aa sp
+s0eek0yennxxNN	s0 ee k0 ye nn xx nn sp
+s0eek0yexi	s0 ee k0 ye xi sp
+s0eekkii	s0 ee kk ii sp
+s0eekkiillaat0oo	s0 ee kk ii ll aa t0 oo sp
+s0eekkiillxxLL	s0 ee kk ii ll xx ll sp
+s0eekkiis0oonnxxNN	s0 ee kk ii s0 oo nn xx nn sp
+s0eekkiiwannxxNN	s0 ee kk ii wa nn xx nn sp
+s0eelloo	s0 ee ll oo sp
+s0eellooP0k0ee	s0 ee ll oo p0 kk ee sp
+s0eelloouuNN	s0 ee ll oo uu nn sp
+s0eenghhwaLLees0vv	s0 ee ng hh wa ll ee s0 vv sp
+s0eenghhwaLLxi	s0 ee ng hh wa ll xi sp
+s0eenghhwaLLxxNN	s0 ee ng hh wa ll xx nn sp
+s0eengk0aaK0hhaaLL	s0 ee ng k0 aa kh aa ll sp
+s0eengk0aaK0hhaaLLs0uullooK0	s0 ee ng k0 aa kh aa ll s0 uu ll oo k0 sp
+s0eengk0aaK0hhaammyvNNs0vv	s0 ee ng k0 aa kh aa mm yv nn s0 vv sp
+s0eengk0aaK0hhee	s0 ee ng k0 aa kh ee sp
+s0eengk0aaK0ii	s0 ee ng k0 aa k0 ii sp
+s0eengk0aaK0t0weSSt0aa	s0 ee ng k0 aa k0 tt we t0 tt aa sp
+s0eengk0yec0iimmaaNN	s0 ee ng k0 ye c0 ii mm aa nn sp
+s0eengk0yennxxNN	s0 ee ng k0 ye nn xx nn sp
+s0eengk0yvSSt0aa	s0 ee ng k0 yv t0 tt aa sp
+s0eengmmyvngxi	s0 ee ng mm yv ng xi sp
+s0eengssaaLLii	s0 ee ng ss aa ll ii sp
+s0ees0aangees0vv	s0 ee s0 aa ng ee s0 vv sp
+s0ees0aangii	s0 ee s0 aa ng ii sp
+s0ees0uullxxLL	s0 ee s0 uu ll xx ll sp
+s0eet0xxLLt0oo	s0 ee t0 xx ll t0 oo sp
+s0eewa	s0 ee wa sp
+s0iiLLHHc0xxngii	s0 ii ll ch xx ng ii sp
+s0iiLLHHvvSSt0aa	s0 ii ll vv t0 tt aa sp
+s0iiLLc0eelloo	s0 ii ll c0 ee ll oo sp
+s0iiLLc0eexi	s0 ii ll c0 ee xi sp
+s0iiLLhhyvNNhhaallyvk0oo	s0 ii ll hh yv nn hh aa ll yv k0 oo sp
+s0iiLLhhyvNNhhaammyvNN	s0 ii ll hh yv nn hh aa mm yv nn sp
+s0iiLLhhyvNNiillaannxxNN	s0 ii ll hh yv nn ii ll aa nn xx nn sp
+s0iiLLhhyvNNt0wevvSSnnxxnnya	s0 ii ll hh yv nn t0 we vv nn nn xx nn ya sp
+s0iiLLhhyvNNxi	s0 ii ll hh yv nn xi sp
+s0iiLLkhvvS0	s0 ii ll kh vv s0 sp
+s0iiLLllyvK0ii	s0 ii ll ll yv k0 ii sp
+s0iiLLs0aangxxLL	s0 ii ll s0 aa ng xx ll sp
+s0iiLLs0uullxxLL	s0 ii ll s0 uu ll xx ll sp
+s0iiMMc0vvngees0vv	s0 ii mm c0 vv ng ee s0 vv sp
+s0iiMMchvvngiihhaaNNthees0vv	s0 ii mm ch vv ng ii hh aa nn th ee s0 vv sp
+s0iiMMhhuuNNxi	s0 ii mm hh uu nn xi sp
+s0iiMMhhyvLLxxLL	s0 ii mm hh yv ll xx ll sp
+s0iiMMs0aang	s0 ii mm s0 aa ng sp
+s0iiMMs0aangxxLL	s0 ii mm s0 aa ng xx ll sp
+s0iiNNmmyvngnnaannxxNN	s0 ii nn mm yv ng nn aa nn xx nn sp
+s0iiNNyongiit0aa	s0 ii nn yo ng ii t0 aa sp
+s0iiP0	s0 ii p0 sp
+s0iic0aaK0hhaaNNt0aa	s0 ii c0 aa kh aa nn t0 aa sp
+s0iic0aaK0hhaak0oo	s0 ii c0 aa kh aa k0 oo sp
+s0iic0aaK0hhaammyvNN	s0 ii c0 aa kh aa mm yv nn sp
+s0iic0aaK0hhaat0vvnnii	s0 ii c0 aa kh aa t0 vv nn ii sp
+s0iic0aaK0hheeSSt0aa	s0 ii c0 aa kh ee t0 tt aa sp
+s0iic0vvLLxxLL	s0 ii c0 vv ll xx ll sp
+s0iiees0vvnnxxNN	s0 ii ee s0 vv nn xx nn sp
+s0iihhvvMM	s0 ii hh vv mm sp
+s0iiiiNNxi	s0 ii ii nn xi sp
+s0iik0aa	s0 ii k0 aa sp
+s0iik0aaK0ee	s0 ii k0 aa k0 ee sp
+s0iik0aaK0xxNN	s0 ii k0 aa k0 xx nn sp
+s0iik0aaNNii	s0 ii k0 aa nn ii sp
+s0iik0aaNNxxNN	s0 ii k0 aa nn xx nn sp
+s0iinnaa	s0 ii nn aa sp
+s0iip0oot0aa	s0 ii p0 oo t0 aa sp
+s0iit0eeee	s0 ii t0 ee ee sp
+s0iit0eek0vvNN	s0 ii t0 ee k0 vv nn sp
+s0iiwvNNhhaaNN	s0 ii wv nn hh aa nn sp
+s0iixi	s0 ii xi sp
+s0oo	s0 oo sp
+s0ooK0	s0 oo k0 sp
+s0ooK0ee	s0 oo k0 ee sp
+s0ooK0eennxxNN	s0 oo k0 ee nn xx nn sp
+s0ooK0ees0vv	s0 oo k0 ee s0 vv sp
+s0ooK0ii	s0 oo k0 ii sp
+s0ooK0nnuuNNssvvP0xi	s0 oo ng nn uu nn ss vv p0 xi sp
+s0ooK0xi	s0 oo k0 xi sp
+s0ooK0xxLL	s0 oo k0 xx ll sp
+s0ooNNc0iiLLhhaaNN	s0 oo nn c0 ii ll hh aa nn sp
+s0ooNNee	s0 oo nn ee sp
+s0ooNNii	s0 oo nn ii sp
+s0ooNNnniiMM	s0 oo nn nn ii mm sp
+s0ooNNnniiMMt0xxLLii	s0 oo nn nn ii mm t0 xx ll ii sp
+s0ooNNp0aat0aaK0ee	s0 oo nn p0 aa t0 aa k0 ee sp
+s0ooNNp0aat0aaK0xxlloo	s0 oo nn p0 aa t0 aa k0 xx ll oo sp
+s0ooNNxxLL	s0 oo nn xx ll sp
+s0ooNNxxlloo	s0 oo nn xx ll oo sp
+s0ook0aa	s0 oo k0 aa sp
+s0oollaa	s0 oo ll aa sp
+s0oolliik0aa	s0 oo ll ii k0 aa sp
+s0oollxxLL	s0 oo ll xx ll sp
+s0oommaanghhaannxxNN	s0 oo mm aa ng hh aa nn xx nn sp
+s0oommeellxxLL	s0 oo mm ee ll xx ll sp
+s0oongaac0iik0aa	s0 oo ng aa c0 ii k0 aa sp
+s0oongaac0iillxxLL	s0 oo ng aa c0 ii ll xx ll sp
+s0oongaac0iimmaaNNkhxxMM	s0 oo ng aa c0 ii mm aa nn kh xx mm sp
+s0oongaac0iinnxxNN	s0 oo ng aa c0 ii nn xx nn sp
+s0oonnxxNN	s0 oo nn xx nn sp
+s0oonnyv	s0 oo nn yv sp
+s0oonnyvNNii	s0 oo nn yv nn ii sp
+s0oonnyvNNxi	s0 oo nn yv nn xi sp
+s0oonnyvNNxxNN	s0 oo nn yv nn xx nn sp
+s0oonnyviik0iillxxLL	s0 oo nn yv ii k0 ii ll xx ll sp
+s0oonnyvk0aa	s0 oo nn yv k0 aa sp
+s0oonnyvllaannxxNN	s0 oo nn yv ll aa nn xx nn sp
+s0oonnyvllxxLL	s0 oo nn yv ll xx ll sp
+s0oonnyvnnxxNN	s0 oo nn yv nn xx nn sp
+s0oonnyvt0xxLLxi	s0 oo nn yv t0 xx ll xi sp
+s0oonnyvxi	s0 oo nn yv xi sp
+s0oop0ii	s0 oo p0 ii sp
+s0oos0vvLLees0vvnnxxNN	s0 oo s0 vv ll ee s0 vv nn xx nn sp
+s0oos0vvLLii	s0 oo s0 vv ll ii sp
+s0oos0vvLLiinnaa	s0 oo s0 vv ll ii nn aa sp
+s0oos0vvLLiit0aa	s0 oo s0 vv ll ii t0 aa sp
+s0oos0vvLLk0aannxxNN	s0 oo s0 vv ll k0 aa nn xx nn sp
+s0oos0vvLLxxLL	s0 oo s0 vv ll xx ll sp
+s0oos0vvLLxxNN	s0 oo s0 vv ll xx nn sp
+s0oot0xxLLxxNN	s0 oo t0 xx ll xx nn sp
+s0oowvNNiivvSSt0aa	s0 oo wv nn ii vv t0 tt aa sp
+s0uu	s0 uu sp
+s0uuK0c0iihhwangxxLL	s0 uu k0 cc ii hh wa ng xx ll sp
+s0uuMMk0yvLLii	s0 uu mm k0 yv ll ii sp
+s0uuMMk0yvc0iiNN	s0 uu mm k0 yv c0 ii nn sp
+s0uuMMvvs0vv	s0 uu mm vv s0 vv sp
+s0uuNNhhees0vv	s0 uu nn hh ee s0 vv sp
+s0uuNNk0aaNNmmaaNNxxNN	s0 uu nn k0 aa nn mm aa nn xx nn sp
+s0uuNNk0yvLLmmaaNNii	s0 uu nn k0 yv ll mm aa nn ii sp
+s0uuNNs0uuNNhhii	s0 uu nn s0 uu nn hh ii sp
+s0uuNNs0uuhhaaNN	s0 uu nn s0 uu hh aa nn sp
+s0uuNNs0uuhhaak0ee	s0 uu nn s0 uu hh aa k0 ee sp
+s0uuPH	s0 uu ph sp
+s0uuS0c0ee	s0 uu t0 cc ee sp
+s0uuk0aa	s0 uu k0 aa sp
+s0uuk0oollxxLL	s0 uu k0 oo ll xx ll sp
+s0uunnxxNN	s0 uu nn xx nn sp
+s0uup0aaKKee	s0 uu p0 aa kk ee sp
+s0uup0aaNNhhaannxxNN	s0 uu p0 aa nn hh aa nn xx nn sp
+s0uus0uup0aaTHppuuNNiivvSSt0aa	s0 uu s0 uu p0 aa t0 pp uu nn ii vv t0 tt aa sp
+s0uus0uup0aaTHxxLL	s0 uu s0 uu p0 aa th xx ll sp
+s0uut0oo	s0 uu t0 oo sp
+s0uut0xxK0hhaaMMxxlloossvv	s0 uu t0 xx kh aa mm xx ll oo ss vv sp
+s0uuyvMMee	s0 uu yv mm ee sp
+s0vv	s0 vv sp
+s0vvKKyv	s0 vv kk yv sp
+s0vvLLc0vvnghhaaMMxxlloossvv	s0 vv ll c0 vv ng hh aa mm xx ll oo ss vv sp
+s0vvLLc0vvnghhaak0oo	s0 vv ll c0 vv ng hh aa k0 oo sp
+s0vvLLlliiP0hhaak0iit0oo	s0 vv ll ll ii ph aa k0 ii t0 oo sp
+s0vvLLmmyvngxxLL	s0 vv ll mm yv ng xx ll sp
+s0vvNNchvvNNc0vvK0xxlloo	s0 vv nn ch vv nn c0 vv k0 xx ll oo sp
+s0vvSSt0aa	s0 vv t0 tt aa sp
+s0vvccooK0xxlloo	s0 vv cc oo k0 xx ll oo sp
+s0vvlloo	s0 vv ll oo sp
+s0vvngc0iiLL	s0 vv ng c0 ii ll sp
+s0vvngc0iiLLxxLL	s0 vv ng c0 ii ll xx ll sp
+s0vvngchwihhaak0ooc0aa	s0 vv ng ch wi hh aa k0 oo c0 aa sp
+s0vvngiiNNii	s0 vv ng ii nn ii sp
+s0vvngnnxxngxxLL	s0 vv ng nn xx ng xx ll sp
+s0vvngthvv	s0 vv ng th vv sp
+s0vvuuLL	s0 vv uu ll sp
+s0vvuuLLs0vvnnxxNN	s0 vv uu ll s0 vv nn xx nn sp
+s0wiP0s0aallii	s0 wi p0 ss aa ll ii sp
+s0wiP0t0aannxxNN	s0 wi p0 tt aa nn xx nn sp
+s0xxLLk0iillooP0k0oo	s0 xx ll k0 ii ll oo p0 kk oo sp
+s0xxLLk0iillooP0t0aannxxNN	s0 xx ll k0 ii ll oo p0 tt aa nn xx nn sp
+s0xxLLk0iilloouuMMk0wa	s0 xx ll k0 ii ll oo uu mm k0 wa sp
+s0xxLLk0iilloouuMMxxNN	s0 xx ll k0 ii ll oo uu mm xx nn sp
+s0xxLLk0iilloouuNN	s0 xx ll k0 ii ll oo uu nn sp
+s0xxLLk0iilloowvc0iik0vvllaa	s0 xx ll k0 ii ll oo wv c0 ii k0 vv ll aa sp
+s0xxLLphxxNN	s0 xx ll ph xx nn sp
+s0xxP0t0xxK0hhaannxxNN	s0 xx p0 tt xx kh aa nn xx nn sp
+s0xxchyv	s0 xx ch yv sp
+s0xxmmyvt0xxnniikkaa	s0 xx mm yv t0 xx nn ii kk aa sp
+s0xxs0xxlloo	s0 xx s0 xx ll oo sp
+s0xxs0xxllooxi	s0 xx s0 xx ll oo xi sp
+s0xxwethvv	s0 xx we th vv sp
+ssaaHHaa	ss aa aa sp
+ssaak0ee	ss aa k0 ee sp
+ssaayv	ss aa yv sp
+ssiiP0k0iit0oo	ss ii p0 kk ii t0 oo sp
+ssiiS0k0oo	ss ii t0 kk oo sp
+ssiillxxMMeet0oo	ss ii ll xx mm ee t0 oo sp
+ssiillxxMMt0oo	ss ii ll xx mm t0 oo sp
+ssuuK0ii	ss uu k0 ii sp
+ssuuK0xxLL	ss uu k0 xx ll sp
+ssvvt0oo	ss vv t0 oo sp
+ssvvya	ss vv ya sp
+ssxxNNt0aa	ss xx nn t0 aa sp
+ssxxllvvc0iinnxxNN	ss xx ll vv c0 ii nn xx nn sp
+t0aa	t0 aa sp
+t0aaKKaa	t0 aa kk aa sp
+t0aaLLk0oo	t0 aa ll k0 oo sp
+t0aaLLllaak0oo	t0 aa ll ll aa k0 oo sp
+t0aaLLllaak0oohheet0oo	t0 aa ll ll aa k0 oo hh ee t0 oo sp
+t0aaLLllaak0oommaaNN	t0 aa ll ll aa k0 oo mm aa nn sp
+t0aaLLllaas0vv	t0 aa ll ll aa s0 vv sp
+t0aaLLllii	t0 aa ll ll ii sp
+t0aaLLlliiNNt0aa	t0 aa ll ll ii nn t0 aa sp
+t0aaLLlliik0ii	t0 aa ll ll ii k0 ii sp
+t0aaLLllyv	t0 aa ll ll yv sp
+t0aaLLllyvSSt0aa	t0 aa ll ll yv t0 tt aa sp
+t0aaMMaa	t0 aa mm aa sp
+t0aaMMp0eellxxLL	t0 aa mm p0 ee ll xx ll sp
+t0aaNNp0aaLLmmvvlliillxxLL	t0 aa nn p0 aa ll mm vv ll ii ll xx ll sp
+t0aaNNphuungk0wa	t0 aa nn ph uu ng k0 wa sp
+t0aachiik0ii	t0 aa ch ii k0 ii sp
+t0aahheengiivvSSt0aa	t0 aa hh ee ng ii vv t0 tt aa sp
+t0aak0aaook0iit0oo	t0 aa k0 aa oo k0 ii t0 oo sp
+t0aalliimmyvNN	t0 aa ll ii mm yv nn sp
+t0aallxxLL	t0 aa ll xx ll sp
+t0aallxxNN	t0 aa ll xx nn sp
+t0aallxxk0oo	t0 aa ll xx k0 oo sp
+t0aallxxt0aa	t0 aa ll xx t0 aa sp
+t0aammaaNN	t0 aa mm aa nn sp
+t0aangmmyvNNhhaaNN	t0 aa ng mm yv nn hh aa nn sp
+t0aangs0ii	t0 aa ng s0 ii sp
+t0aas0ii	t0 aa s0 ii sp
+t0aas0vvS0	t0 aa s0 vv s0 sp
+t0aas0xxlliiLL	t0 aa s0 xx ll ii ll sp
+t0aat0xxMMiiS0s0aaLLii	t0 aa t0 xx mm ii t0 ss aa ll ii sp
+t0aat0xxMMiic0iiLLhhaaLL	t0 aa t0 xx mm ii c0 ii ll hh aa ll sp
+t0aaxxMM	t0 aa xx mm sp
+t0aayanghhaat0aa	t0 aa ya ng hh aa t0 aa sp
+t0ee	t0 ee sp
+t0eeccooK0ii	t0 ee cc oo k0 ii sp
+t0eehhaaNN	t0 ee hh aa nn sp
+t0eehhees0vv	t0 ee hh ee s0 vv sp
+t0eehhwachiik0oonnxxNN	t0 ee hh wa ch ii k0 oo nn xx nn sp
+t0eek0aa	t0 ee k0 aa sp
+t0eek0aallxxLL	t0 ee k0 aa ll xx ll sp
+t0eek0aannxxNN	t0 ee k0 aa nn xx nn sp
+t0eek0oo	t0 ee k0 oo sp
+t0eekkuuk0aa	t0 ee kk uu k0 aa sp
+t0eelloo	t0 ee ll oo sp
+t0eellxxLL	t0 ee ll xx ll sp
+t0eemmaaNN	t0 ee mm aa nn sp
+t0eep0iis0iikhyv	t0 ee p0 ii s0 ii kh yv sp
+t0ees0iiNN	t0 ee s0 ii nn sp
+t0ees0iiNNhhee	t0 ee s0 ii nn hh ee sp
+t0ees0vv	t0 ee s0 vv sp
+t0eet0aaNNhhii	t0 ee t0 aa nn hh ii sp
+t0eet0aaP0iit0aa	t0 ee t0 aa p0 ii t0 aa sp
+t0eeyvs0vvS0ii	t0 ee yv s0 vv s0 ii sp
+t0iit0iiMMt0ooLLxxLL	t0 ii t0 ii mm t0 oo ll xx ll sp
+t0ooK0c0aannxxNN	t0 oo k0 cc aa nn xx nn sp
+t0ooK0s0vvngxxLL	t0 oo k0 ss vv ng xx ll sp
+t0ooLLaak0aaLL	t0 oo ll aa k0 aa ll sp
+t0ooLLaak0aak0oo	t0 oo ll aa k0 aa k0 oo sp
+t0ooLLaaoonnxxNN	t0 oo ll aa oo nn xx nn sp
+t0ooLLaas0vvSSt0aa	t0 oo ll aa s0 vv t0 tt aa sp
+t0ooLLaas0vvmmyv	t0 oo ll aa s0 vv mm yv sp
+t0ooLLaat0aap0oonnii	t0 oo ll aa t0 aa p0 oo nn ii sp
+t0ooLLllee	t0 oo ll ll ee sp
+t0ooLLlleellaannxxNN	t0 oo ll ll ee ll aa nn xx nn sp
+t0ooLLllyv	t0 oo ll ll yv sp
+t0ooLLmmuut0vvk0ii	t0 oo ll mm uu t0 vv k0 ii sp
+t0ooT0aaSSk0oo	t0 oo t0 aa t0 kk oo sp
+t0ooT0aannaak0ii	t0 oo t0 aa nn aa k0 ii sp
+t0ooc0vvhhii	t0 oo c0 vv hh ii sp
+t0oollees0ooLLee	t0 oo ll ee s0 oo ll ee sp
+t0oongaaNN	t0 oo ng aa nn sp
+t0oonghhyvK0xi	t0 oo ng hh yv k0 xi sp
+t0oongmmuuLLii	t0 oo ng mm uu ll ii sp
+t0oongmmuuLLxxNN	t0 oo ng mm uu ll xx nn sp
+t0oongs0iiee	t0 oo ng s0 ii ee sp
+t0oongs0vvlloo	t0 oo ng s0 vv ll oo sp
+t0oongt0eemmuuNN	t0 oo ng t0 ee mm uu nn sp
+t0oongt0eemmuuNNees0vv	t0 oo ng t0 ee mm uu nn ee s0 vv sp
+t0oongt0eemmuuNNxi	t0 oo ng t0 ee mm uu nn xi sp
+t0oot0aaLLhhaaLL	t0 oo t0 aa ll hh aa ll sp
+t0oowa	t0 oo wa sp
+t0uu	t0 uu sp
+t0uuK0	t0 uu k0 sp
+t0uuK0ee	t0 uu k0 ee sp
+t0uuLLccee	t0 uu ll cc ee sp
+t0uuLLlleeeennxxNN	t0 uu ll ll ee ee nn xx nn sp
+t0uuLLllyv	t0 uu ll ll yv sp
+t0uuk0oo	t0 uu k0 oo sp
+t0uullvvngeennxxNN	t0 uu ll vv ng ee nn xx nn sp
+t0uullvvngxxlloommaaNN	t0 uu ll vv ng xx ll oo mm aa nn sp
+t0uummyvNN	t0 uu mm yv nn sp
+t0uungk0xxLLk0oo	t0 uu ng k0 xx ll k0 oo sp
+t0uunnxxNN	t0 uu nn xx nn sp
+t0uut0xxllvvc0iiNNt0aa	t0 uu t0 xx ll vv c0 ii nn t0 aa sp
+t0uuvvMM	t0 uu vv mm sp
+t0vv	t0 vv sp
+t0vvLLhheec0iiNN	t0 vv ll hh ee c0 ii nn sp
+t0vvNNc0iiLL	t0 vv nn c0 ii ll sp
+t0vvNNc0iiNN	t0 vv nn c0 ii nn sp
+t0vvngk0uuLLt0xxLLii	t0 vv ng k0 uu ll t0 xx ll ii sp
+t0vvp0uuLLvv	t0 vv p0 uu ll vv sp
+t0we	t0 we sp
+t0weLL	t0 we ll sp
+t0weNNt0aa	t0 we nn t0 aa sp
+t0weSSnnxxNNt0ee	t0 we nn nn xx nn t0 ee sp
+t0weSSt0aak0oo	t0 we t0 tt aa k0 oo sp
+t0weSSxxnnii	t0 we ss xx nn ii sp
+t0wec0ii	t0 we c0 ii sp
+t0wek0eeSSnnii	t0 we k0 ee nn nn ii sp
+t0wek0iikkaac0ii	t0 we k0 ii kk aa c0 ii sp
+t0wek0iinnxxNN	t0 we k0 ii nn xx nn sp
+t0wek0oo	t0 we k0 oo sp
+t0wellaak0oo	t0 we ll aa k0 oo sp
+t0wemmyv	t0 we mm yv sp
+t0wemmyvNN	t0 we mm yv nn sp
+t0wennaa	t0 we nn aa sp
+t0wennii	t0 we nn ii sp
+t0wennxxNN	t0 we nn xx nn sp
+t0wes0vv	t0 we s0 vv sp
+t0wet0oollooK0	t0 we t0 oo ll oo k0 sp
+t0wevv	t0 we vv sp
+t0wevvs0vvnnxxNN	t0 we vv s0 vv nn xx nn sp
+t0wevvs0vvt0oo	t0 we vv s0 vv t0 oo sp
+t0wic0iik0oo	t0 wi c0 ii k0 oo sp
+t0wiee	t0 wi ee sp
+t0wieennxxNN	t0 wi ee nn xx nn sp
+t0willxxLL	t0 wi ll xx ll sp
+t0wip0aakkwic0ii	t0 wi p0 aa kk wi c0 ii sp
+t0wittaallaaoonnxxNN	t0 wi tt aa ll aa oo nn xx nn sp
+t0xxLLk0iiLLxxLL	t0 xx ll k0 ii ll xx ll sp
+t0xxLLk0oo	t0 xx ll k0 oo sp
+t0xxLLlloo	t0 xx ll ll oo sp
+t0xxLLllxxNN	t0 xx ll ll xx nn sp
+t0xxLLmmyv	t0 xx ll mm yv sp
+t0xxLLp0uuLLnnooLLiillaak0oo	t0 xx ll p0 uu ll ll oo ll ii ll aa k0 oo sp
+t0xxLLp0uuLLnnooLLiillxxLL	t0 xx ll p0 uu ll ll oo ll ii ll xx ll sp
+t0xxLLp0uuLLnnooLLiimmaaNNkhxxMM	t0 xx ll p0 uu ll ll oo ll ii mm aa nn kh xx mm sp
+t0xxLLt0oo	t0 xx ll t0 oo sp
+t0xxLLvv	t0 xx ll vv sp
+t0xxLLvvSSt0aa	t0 xx ll vv t0 tt aa sp
+t0xxLLvvSSvv	t0 xx ll vv ss vv sp
+t0xxLLvvk0aa	t0 xx ll vv k0 aa sp
+t0xxLLvvk0aannxxNN	t0 xx ll vv k0 aa nn xx nn sp
+t0xxLLvvs0vvSSt0aa	t0 xx ll vv s0 vv t0 tt aa sp
+t0xxLLxxNN	t0 xx ll xx nn sp
+t0xxLLyvt0aap0ooNNt0aa	t0 xx ll yv t0 aa p0 oo nn t0 aa sp
+t0xxS0	t0 xx s0 sp
+t0xxS0hhaak0ee	t0 xx s0 hh aa k0 ee sp
+t0xxS0ii	t0 xx s0 ii sp
+t0xxT0k0oo	t0 xx t0 kk oo sp
+t0xxT0t0aa	t0 xx t0 tt aa sp
+t0xxllvvnnaak0ii	t0 xx ll vv nn aa k0 ii sp
+t0xxllvvnneeSSt0aannxxNN	t0 xx ll vv nn ee t0 tt aa nn xx nn sp
+t0xxllvvnneek0ee	t0 xx ll vv nn ee k0 ee sp
+t0xxllvvnneek0oo	t0 xx ll vv nn ee k0 oo sp
+t0xxllvvnneellyvnnxxNN	t0 xx ll vv nn ee ll yv nn xx nn sp
+t0xxng	t0 xx ng sp
+t0xxngii	t0 xx ng ii sp
+t0xxngs0vvngiilloonnxxNN	t0 xx ng s0 vv ng ii ll oo nn xx nn sp
+thaa	th aa sp
+thaaNN	th aa nn sp
+thaak0oonnaannxxNN	th aa k0 oo nn aa nn xx nn sp
+theet0oollxxLL	th ee t0 oo ll xx ll sp
+theeyvNNhhii	th ee yv nn hh ii sp
+theeyvNNs0xxllvvP0k0ee	th ee yv nn s0 xx ll vv p0 kk ee sp
+thoong	th oo ng sp
+thoonghhaaP0c0vvK0xxlloo	th oo ng hh aa p0 cc vv k0 xx ll oo sp
+thoonghhaayv	th oo ng hh aa yv sp
+thoonghhee	th oo ng hh ee sp
+thooyoiiLLiivvSSt0aa	th oo yo ii ll ii vv t0 tt aa sp
+thuummyvnghhaaNN	th uu mm yv ng hh aa nn sp
+thuungmmyvngs0xxllvvNN	th uu ng mm yv ng s0 xx ll vv nn sp
+thuus0iiNNhheeSSt0aa	th uu s0 ii nn hh ee t0 tt aa sp
+thvvK0ii	th vv k0 ii sp
+thvvLLii	th vv ll ii sp
+thvvee	th vv ee sp
+thvvt0xxK0iit0aa	th vv t0 xx k0 ii t0 aa sp
+thwechiillxxLL	th we ch ii ll xx ll sp
+thwivvnnaaooLL	th wi vv nn aa oo ll sp
+thxxK0k0wvNNiit0aa	th xx k0 kk wv nn ii t0 aa sp
+ttaallaa	tt aa ll aa sp
+ttaallaas0vv	tt aa ll aa s0 vv sp
+ttaallxxk0oo	tt aa ll xx k0 oo sp
+ttaawilloo	tt aa wi ll oo sp
+ttee	tt ee sp
+tteeS0mmuuLLii	tt ee nn mm uu ll ii sp
+tteeeennxxNN	tt ee ee nn xx nn sp
+tteelloonnxxNN	tt ee ll oo nn xx nn sp
+tteemmaaNN	tt ee mm aa nn sp
+tteemmuuNNee	tt ee mm uu nn ee sp
+tteemmuuNNiit0aa	tt ee mm uu nn ii t0 aa sp
+tteemmuuNNiivvSSt0aa	tt ee mm uu nn ii vv t0 tt aa sp
+tteemmuuNNiiya	tt ee mm uu nn ii ya sp
+tteennxxNN	tt ee nn xx nn sp
+tteet0aa	tt ee t0 aa sp
+ttoo	tt oo sp
+ttoohhaaNN	tt oo hh aa nn sp
+ttvvLLk0uuvvSSt0aa	tt vv ll k0 uu vv t0 tt aa sp
+ttvvLLvvc0iic0ii	tt vv ll vv c0 ii c0 ii sp
+ttvvLLvvc0iik0ii	tt vv ll vv c0 ii k0 ii sp
+ttvvLLvvc0iimmyvNN	tt vv ll vv c0 ii mm yv nn sp
+ttvvnnxxNN	tt vv nn xx nn sp
+ttvvt0xxLLvvt0eet0vvk0uunnaa	tt vv t0 xx ll vv t0 ee t0 vv k0 uu nn aa sp
+ttwichyv	tt wi ch yv sp
+ttwichyvnnaak0aallyvk0oo	tt wi ch yv nn aa k0 aa ll yv k0 oo sp
+ttwivv	tt wi vv sp
+ttwivvnnvvMMvv	tt wi vv nn vv mm vv sp
+ttxivvMMttxivvMM	tt xi vv mm tt xi vv mm sp
+ttxxS0hhaaNNt0aa	tt xx s0 hh aa nn t0 aa sp
+ttxxS0xxLL	tt xx s0 xx ll sp
+ttxxT0k0iik0iillxxLL	tt xx t0 kk ii k0 ii ll xx ll sp
+ttxxT0nnxxNN	tt xx nn nn xx nn sp
+ttxxT0vv	tt xx t0 vv sp
+ttxxk0vvuuMMxxLL	tt xx k0 vv uu mm xx ll sp
+ttxxk0vvuuNN	tt xx k0 vv uu nn sp
+uuLLk0iit0oo	uu ll k0 ii t0 oo sp
+uuLLmmyvNN	uu ll mm yv nn sp
+uuLLthaalliieennxxNN	uu ll th aa ll ii ee nn xx nn sp
+uuLLvvt0eek0oo	uu ll vv t0 ee k0 oo sp
+uuLLxxMMk0wa	uu ll xx mm k0 wa sp
+uuMMc0iiK0yvSSt0aa	uu mm c0 ii k0 yv t0 tt aa sp
+uuMMchxxlliik0oo	uu mm ch xx ll ii k0 oo sp
+uuMMkhiiNNt0aa	uu mm kh ii nn t0 aa sp
+uuMMkhiivvSSt0aa	uu mm kh ii vv t0 tt aa sp
+uuMMkhxxMM	uu mm kh xx mm sp
+uuMMkhyv	uu mm kh yv sp
+uuNNt0oongee	uu nn t0 oo ng ee sp
+uuNNt0oongii	uu nn t0 oo ng ii sp
+uuNNt0oongxxLL	uu nn t0 oo ng xx ll sp
+uullii	uu ll ii sp
+uulliieek0ee	uu ll ii ee k0 ee sp
+uulliiiiNNt0ee	uu ll ii ii nn t0 ee sp
+uulliik0aa	uu ll ii k0 aa sp
+uulliimmaaLLk0oot0oo	uu ll ii mm aa ll k0 oo t0 oo sp
+uulliit0xxLLii	uu ll ii t0 xx ll ii sp
+uulliit0xxLLxi	uu ll ii t0 xx ll xi sp
+uulliit0xxLLxxNN	uu ll ii t0 xx ll xx nn sp
+uulliixi	uu ll ii xi sp
+uut0eelloo	uu t0 ee ll oo sp
+uuyvNNhhaak0ee	uu yv nn hh aa k0 ee sp
+vvLLK0hhyvSSc0iimmaaNN	vv ll kh yv t0 cc ii mm aa nn sp
+vvLLii	vv ll ii sp
+vvLLk0uuLL	vv ll k0 uu ll sp
+vvLLk0uuLLii	vv ll k0 uu ll ii sp
+vvLLk0uuLLiillaaNN	vv ll k0 uu ll ii ll aa nn sp
+vvLLk0uuLLiillaat0oo	vv ll k0 uu ll ii ll aa t0 oo sp
+vvLLk0uuLLxxLL	vv ll k0 uu ll xx ll sp
+vvLLk0uuLLxxNN	vv ll k0 uu ll xx nn sp
+vvLLlluuK0vvLLlluuK0	vv ll ll uu k0 vv ll ll uu k0 sp
+vvLLllxxNN	vv ll ll xx nn sp
+vvLLmmaa	vv ll mm aa sp
+vvLLmmaannaa	vv ll mm aa nn aa sp
+vvLLmmaaxi	vv ll mm aa xi sp
+vvLLxi	vv ll xi sp
+vvLLxxLL	vv ll xx ll sp
+vvLLxxMMxxLL	vv ll xx mm xx ll sp
+vvLLxxMMxxNN	vv ll xx mm xx nn sp
+vvNNc0eennaa	vv nn c0 ee nn aa sp
+vvNNt0vvK0iinnaa	vv nn t0 vv k0 ii nn aa sp
+vvNNvv	vv nn vv sp
+vvNNvvlloo	vv nn vv ll oo sp
+vvNNvvllxxLL	vv nn vv ll xx ll sp
+vvP0S0ii	vv p0 ss ii sp
+vvP0S0iinnxxNN	vv p0 ss ii nn xx nn sp
+vvP0S0k0ii	vv p0 kk ii sp
+vvP0S0k0oo	vv p0 kk oo sp
+vvP0S0nnxxNN	vv mm nn xx nn sp
+vvP0S0nnxxnnyak0oo	vv mm nn xx nn ya k0 oo sp
+vvP0S0t0aa	vv p0 tt aa sp
+vvP0S0t0aanniikkaa	vv p0 tt aa nn ii kk aa sp
+vvP0S0vv	vv p0 ss vv sp
+vvP0S0vvSSt0aa	vv p0 ss vv t0 tt aa sp
+vvP0S0vvc0iiLL	vv p0 ss vv c0 ii ll sp
+vvP0S0vvt0oo	vv p0 ss vv t0 oo sp
+vvP0S0xxLL	vv p0 ss xx ll sp
+vvT0k0ee	vv t0 kk ee sp
+vvT0k0ii	vv t0 kk ii sp
+vvT0nnxxNN	vv nn nn xx nn sp
+vvT0vvc0iinnxxNN	vv t0 vv c0 ii nn xx nn sp
+vvT0xxllyvnnxxNN	vv t0 xx ll yv nn xx nn sp
+vvc0eechvvllvvMM	vv c0 ee ch vv ll vv mm sp
+vvc0eekkaac0iinnxxNN	vv c0 ee kk aa c0 ii nn xx nn sp
+vvc0iiLLk0oo	vv c0 ii ll k0 oo sp
+vvccees0vv	vv cc ee s0 vv sp
+vvcciit0oo	vv cc ii t0 oo sp
+vvchaaphii	vv ch aa ph ii sp
+vvlliiNNaaiit0xxLLeek0eet0oo	vv ll ii nn aa ii t0 xx ll ee k0 ee t0 oo sp
+vvllyvP0t0aannxxNN	vv ll yv p0 tt aa nn xx nn sp
+vvllyvs0vvnnxxNN	vv ll yv s0 vv nn xx nn sp
+vvllyvuuNN	vv ll yv uu nn sp
+vvmmiis0ook0aa	vv mm ii s0 oo k0 aa sp
+vvmmiis0oommyvNN	vv mm ii s0 oo mm yv nn sp
+vvmmiis0oonnxxNN	vv mm ii s0 oo nn xx nn sp
+vvnnxx	vv nn xx sp
+vvs0xxLLllvvngvvs0xxLLllvvng	vv s0 xx ll ll vv ng vv s0 xx ll ll vv ng sp
+vvt0iiNNc0ii	vv t0 ii nn c0 ii sp
+vvt0iiNNk0aa	vv t0 ii nn k0 aa sp
+vvt0iikkaac0iinnaa	vv t0 ii kk aa c0 ii nn aa sp
+vvt0iillxxLL	vv t0 ii ll xx ll sp
+vvt0iis0vvNNk0aa	vv t0 ii s0 vv nn k0 aa sp
+vvt0uuuuNN	vv t0 uu uu nn sp
+vvttvvHHk0ee	vv tt vv kh ee sp
+vvttvvNN	vv tt vv nn sp
+vvttvvhhaaNN	vv tt vv hh aa nn sp
+waSSk0ii	wa t0 kk ii sp
+waSSt0aa	wa t0 tt aa sp
+wangk0eemmiillxxLL	wa ng k0 ee mm ii ll xx ll sp
+was0vv	wa s0 vv sp
+wek0ooc0iiP0iis0ii	we k0 oo c0 ii p0 ii s0 ii sp
+wennyahhaammyvNN	we nn ya hh aa mm yv nn sp
+wes0uuNNxxLL	we s0 uu nn xx ll sp
+wiS0t0oolliillxxLL	wi t0 tt oo ll ii ll xx ll sp
+wihhaaNN	wi hh aa nn sp
+wihhaayv	wi hh aa yv sp
+wihhee	wi hh ee sp
+wihhvvMMhhaaNN	wi hh vv mm hh aa nn sp
+willoo	wi ll oo sp
+wvLLs0eek0yeee	wv ll s0 ee k0 ye ee sp
+wvLLs0eek0yeees0vv	wv ll s0 ee k0 ye ee s0 vv sp
+wvLLs0eek0yeees0vvxi	wv ll s0 ee k0 ye ee s0 vv xi sp
+wvNNs0iic0vvK0iiNN	wv nn s0 ii c0 vv k0 ii nn sp
+wvNNt0uummaaK0	wv nn t0 uu mm aa k0 sp
+wvNNt0uummaaK0ii	wv nn t0 uu mm aa k0 ii sp
+xic0iillxxLL	xi c0 ii ll xx ll sp
+xic0vvngp0uuee	xi c0 vv ng p0 uu ee sp
+xihhaayv	xi hh aa yv sp
+xihhee	xi hh ee sp
+xihhees0vv	xi hh ee s0 vv sp
+ximmiiees0vv	xi mm ii ee s0 vv sp
+ximmiihhaaNNt0aa	xi mm ii hh aa nn t0 aa sp
+xis0iiMMt0oo	xi s0 ii mm t0 oo sp
+xxllee	xx ll ee sp
+yaK0c0eemmaaNN	ya k0 cc ee mm aa nn sp
+yaK0k0aaNN	ya k0 kk aa nn sp
+yaK0s0ooK0iinnaa	ya k0 ss oo k0 ii nn aa sp
+yahhaaK0xxLL	ya hh aa k0 xx ll sp
+yang	ya ng sp
+yangc0iiccooK0ee	ya ng c0 ii cc oo k0 ee sp
+yangii	ya ng ii sp
+yangs0aangxxLL	ya ng s0 aa ng xx ll sp
+yap0iihhaaNN	ya p0 ii hh aa nn sp
+yat0aaNNiit0aa	ya t0 aa nn ii t0 aa sp
+ye	ye sp
+yeS0nnaaLL	ye nn nn aa ll sp
+yeS0nnaaLLeennxxNN	ye nn nn aa ll ee nn xx nn sp
+yeS0nnaaLLp0uuthvv	ye nn nn aa ll p0 uu th vv sp
+yec0iik0aa	ye c0 ii k0 aa sp
+yec0iinnxxNN	ye c0 ii nn xx nn sp
+yec0iiyo	ye c0 ii yo sp
+yec0vvNNeennxxNN	ye c0 vv nn ee nn xx nn sp
+yeppxxNN	ye pp xx nn sp
+yeppxxk0ee	ye pp xx k0 ee sp
+yes0uuLLxi	ye s0 uu ll xi sp
+yoK0c0iik0vvlliillxxLL	yo k0 cc ii k0 vv ll ii ll xx ll sp
+yohheeng	yo hh ee ng sp
+yollvvHHk0ee	yo ll vv kh ee sp
+yongiihhaaNN	yo ng ii hh aa nn sp
+yos0aaii	yo s0 aa ii sp
+yuK0cheec0vvK0	yu k0 ch ee c0 vv k0 sp
+yuK0iioo	yu k0 ii oo sp
+yuNN	yu nn sp
+yunnaaNNhhii	yu nn aa nn hh ii sp
+yunnaaNNhhiit0oo	yu nn aa nn hh ii t0 oo sp
+yut0ooK0	yu t0 oo k0 sp
+yvK0s0aac0vvK0iiNN	yv k0 ss aa c0 vv k0 ii nn sp
+yvK0s0aawa	yv k0 ss aa wa sp
+yvK0s0aaxi	yv k0 ss aa xi sp
+yvLL	yv ll sp
+yvLLc0uunghheeSSt0aa	yv ll c0 uu ng hh ee t0 tt aa sp
+yvLLs0iiMMhhii	yv ll s0 ii mm hh ii sp
+yvLLxxLL	yv ll xx ll sp
+yvNNk0iik0aa	yv nn k0 ii k0 aa sp
+yvNNk0iillxxLL	yv nn k0 ii ll xx ll sp
+yvNNk0uuhhaak0oo	yv nn k0 uu hh aa k0 oo sp
+yvNNk0uuwa	yv nn k0 uu wa sp
+yvNNk0waNNs0vvngii	yv nn k0 wa nn s0 vv ng ii sp
+yvNNk0yvLLt0wet0oollooK0	yv nn k0 yv ll t0 we t0 oo ll oo k0 sp
+yvNNmmaahhaak0oo	yv nn mm aa hh aa k0 oo sp
+yvPH	yv ph sp
+yvS0p0ooLL	yv t0 pp oo ll sp
+yvS0p0ook0oo	yv t0 pp oo k0 oo sp
+yvhhaaK0s0eeng	yv hh aa k0 ss ee ng sp
+yvk0iic0vvk0ii	yv k0 ii c0 vv k0 ii sp
+yvk0iiees0vv	yv k0 ii ee s0 vv sp
+yvk0iikkaac0iinnxxNN	yv k0 ii kk aa c0 ii nn xx nn sp
+yvk0iis0vv	yv k0 ii s0 vv sp
+yvllvv	yv ll vv sp
+yvllxxMMxxNN	yv ll xx mm xx nn sp
+yvng	yv ng sp
+yvnghhooNNxi	yv ng hh oo nn xi sp
+yvnghhwat0oo	yv ng hh wa t0 oo sp
+yvngk0aaMMii	yv ng k0 aa mm ii sp
+yvngk0aaMMiillaak0oo	yv ng k0 aa mm ii ll aa k0 oo sp
+yvngk0aaMMxxNN	yv ng k0 aa mm xx nn sp
+yvngwvNNhhaaNN	yv ng wv nn hh aa nn sp
+yvs0iiLLhhaak0ee	yv s0 ii ll hh aa k0 ee sp
+yvs0vvngt0xxLLt0oo	yv s0 vv ng t0 xx ll t0 oo sp
+yvs0vvngxxNN	yv s0 vv ng xx nn sp
+yvthaaxi	yv th aa xi sp
+yvthee	yv th ee sp
