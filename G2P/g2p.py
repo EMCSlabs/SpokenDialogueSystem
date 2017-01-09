@@ -5,49 +5,73 @@ g2p.py
 
 This script converts Korean graphemes to romanized phones and then to pronunciation.
 
-  (1) graph2phone(graphs): convert Korean graphemes to romanized phones
-  (2) phone2prono(phones): convert romanized phones to pronunciation
+    (1) graph2phone: convert Korean graphemes to romanized phones
+    (2) phone2prono: convert romanized phones to pronunciation
+    (3) graph2phone: convert Korean graphemes to pronunciation
 
+Usage:  $ python 'g2p.py' '국어는 즐겁다'
 
+Yejin Cho (scarletcho@gmail.com)
 Jaegu Kang (jaekoo.jk@gmail.com)
 Hyungwon Yang (hyung8758@gmail.com)
 Yeonjung Hong (yvonne.yj.hong@gmail.com)
-Yejin Cho (scarletcho@gmail.com)
 
 Created: 2016-08-11
-Last updated: 2016-12-27 Yejin Cho
+Last updated: 2017-01-10 Yejin Cho
 '''
 
-
+import datetime as dt
 import re
 import math
-import xlrd
 import sys
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
 
-def getRulebook(rulefname):
-    try:
-        rule_book = xlrd.open_workbook(rulefname)
-    except IOError:
-        print('\nrules_g2p.xls does not exist or is corrupted')
-        print('\nLocate rules_g2p.xls in the same folder as in g2p.py')
+def readfileUTF8(fname):
+    f = open(fname, 'r')
+    corpus = []
 
-    return rule_book
+    while True:
+        line = f.readline()
+        line = unicode(line.encode("utf-8"))
+        line = re.sub(u'\n', u'', line)
+        if line != u'':
+            corpus.append(line)
+        if not line: break
+
+    f.close()
+    return corpus
+
+
+def writefile(body, fname):
+    out = open(fname, 'w')
+    for line in body:
+        out.write('{}\n'.format(line))
+    out.close()
 
 
 def readRules(rule_book):
-    # read rules_g2p.xls
-    rule_sheet = rule_book.sheet_by_name(u'ruleset')
-    var = rule_sheet.cell(0, 0).value
+    f = open(rule_book, 'rb')
 
     rule_in = []
     rule_out = []
-    for idx in range(0, rule_sheet.nrows):
-        rule_in.append(rule_sheet.cell(idx, 0).value)
-        rule_out.append(rule_sheet.cell(idx, 1).value)
+
+    while True:
+        line = f.readline()
+        line = unicode(line.encode("utf-8"))
+        line = re.sub(u'\n', u'', line)
+
+        if line != u'':
+            IOlist = line.split('\t')
+            rule_in.append(IOlist[0])
+            if IOlist[1]:
+                rule_out.append(IOlist[1])
+            else:   # If output is empty (i.e. deletion rule)
+                rule_out.append(u'')
+        if not line: break
+    f.close()
 
     return rule_in, rule_out
 
@@ -111,20 +135,25 @@ def graph2phone(graphs):
                 s3 = ''
             tmp = s1 + s2 + s3
             phones = phones + tmp
+
         elif idx[iElement] == 1:  # space character
             tmp = ' '
             phones = phones + tmp
+
         phones = re.sub('-(oh)', '-', phones)
         iElement += 1
         tmp = ''
 
-    # Final velar nasal
+    # 초성 이응 삭제
     phones = re.sub('^oh', '', phones)
     phones = re.sub('-(oh)', '', phones)
+
+    # 받침 이응 'ng'으로 처리 (Velar nasal in coda position)
     phones = re.sub('oh-', 'ng-', phones)
     phones = re.sub('oh$', 'ng', phones)
     phones = re.sub('oh ', 'ng ', phones)
 
+    # Remove all characters except Hangul and syllable delimiter (hyphen; '-')
     phones = re.sub('(\W+)\-', '\\1', phones)
     phones = re.sub('\W+$', '', phones)
     phones = re.sub('^\-', '', phones)
@@ -134,22 +163,100 @@ def graph2phone(graphs):
 def phone2prono(phones, rule_in, rule_out):
     # Apply g2p rules
     for pattern, replacement in zip(rule_in, rule_out):
+        # print pattern
         phones = re.sub(pattern, replacement, phones)
         prono = phones
     return prono
 
 
-def graph2prono(graphs, rulefname):
-    rule_book = getRulebook(rulefname)
-    [rule_in, rule_out] = readRules(rule_book)
+def addPhoneBoundary(phones):
+    # Add a comma (,) after every second alphabets to mark phone boundaries
+    ipos = 0
+    newphones = ''
+    while ipos + 2 <= len(phones):
+        if phones[ipos] == u'-':
+            newphones = newphones + phones[ipos]
+            ipos += 1
+        elif phones[ipos] == u' ':
+            ipos += 1
+            
+        newphones = newphones + phones[ipos] + phones[ipos+1] + u','
+        ipos += 2
 
+    # Remove final comma
+    if newphones[-1] == u',':
+        newphones = newphones[0:-1]
+
+    return newphones
+
+
+def addSpace(phones):
+    ipos = 0
+    newphones = ''
+    while ipos < len(phones):
+        if ipos == 0:
+            newphones = newphones + phones[ipos] + phones[ipos + 1]
+        else:
+            newphones = newphones + ' ' + phones[ipos] + phones[ipos + 1]
+        ipos += 2
+
+    return newphones
+
+
+def testG2P(rulebook, testset):
+    [testin, testout] = readRules(testset)
+    cnt = 0
+    body = []
+    for idx in range(0, len(testin)):
+        item_in = testin[idx]
+        item_out = testout[idx]
+        ans = graph2phone(item_out)
+        ans = re.sub(u'-', u'', ans)
+        ans = addSpace(ans)
+
+        [rule_in, rule_out] = readRules(rulebook)
+        pred = graph2prono(item_in, rule_in, rule_out)
+
+        if pred != ans:
+            print('G2P ERROR:  [result] ' + pred + '\t[ans] ' + item_in + ' [' + item_out + '] ' + ans)
+            cnt += 1
+        else:
+            body.append('[result] ' + pred + '\t[ans] ' + item_in + ' [' + item_out + '] ' + ans)
+
+    print('Total error item #: ' + str(cnt))
+    writefile(body,'good.txt')
+
+
+def graph2prono(graphs, rule_in, rule_out):
     romanized = graph2phone(graphs)
-    pronunciation = phone2prono(romanized, rule_in, rule_out)
+    romanized_bd = addPhoneBoundary(romanized)
+    pronunciation = phone2prono(romanized_bd, rule_in, rule_out)
+
+    pronunciation = re.sub(u',', u' ', pronunciation)
+    pronunciation = re.sub(u' $', u'', pronunciation)
 
     return pronunciation
 
+# ----------------------------------------------------------------------
+# [ G2P Test ]
+# beg = dt.datetime.now()
+
+# [rule_in, rule_out] = readRules('rulebook_reduced.txt')
+# testG2P('rulebook_reduced.txt', 'testset.txt')
+
+# end = dt.datetime.now()
+# print('Total time: ')
+# print(end - beg)
+# ----------------------------------------------------------------------
 
 
-# Usage example:
-prono = graph2prono(u'여덟째', 'rules_g2p_v2.0.xls')
+# Usage:
+graph = sys.argv[1]
+
+rulebook_path = 'rulebook.txt'
+[rule_in, rule_out] = readRules(rulebook_path)
+
+prono = graph2prono(unicode(graph), rule_in, rule_out)
 print(prono)
+
+
