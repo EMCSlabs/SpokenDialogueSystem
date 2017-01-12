@@ -9,7 +9,8 @@ This script converts Korean graphemes to romanized phones and then to pronunciat
     (2) phone2prono: convert romanized phones to pronunciation
     (3) graph2phone: convert Korean graphemes to pronunciation
 
-Usage:  $ python 'g2p.py' '국어는 즐겁다'
+Usage:  $ python g2p.py '여덟째 김밥'
+        (NB. Please check 'rulebook_path' before usage.)
 
 Yejin Cho (scarletcho@gmail.com)
 Jaegu Kang (jaekoo.jk@gmail.com)
@@ -18,6 +19,11 @@ Yeonjung Hong (yvonne.yj.hong@gmail.com)
 
 Created: 2016-08-11
 Last updated: 2017-01-10 Yejin Cho
+
+* Key updates made:
+    - No xlrd or excel file required; Rules are imported from 'rulebook.txt'.
+    - Process time reduced (cf. For 491 items: 39 secs -> 0.58 secs)
+
 '''
 
 import datetime as dt
@@ -62,14 +68,14 @@ def readRules(rule_book):
         line = f.readline()
         line = unicode(line.encode("utf-8"))
         line = re.sub(u'\n', u'', line)
-
         if line != u'':
-            IOlist = line.split('\t')
-            rule_in.append(IOlist[0])
-            if IOlist[1]:
-                rule_out.append(IOlist[1])
-            else:   # If output is empty (i.e. deletion rule)
-                rule_out.append(u'')
+            if line[0] != u'#':
+                IOlist = line.split('\t')
+                rule_in.append(IOlist[0])
+                if IOlist[1]:
+                    rule_out.append(IOlist[1])
+                else:   # If output is empty (i.e. deletion rule)
+                    rule_out.append(u'')
         if not line: break
     f.close()
 
@@ -107,13 +113,13 @@ def graph2phone(graphs):
     # Romanization (according to Korean Spontaneous Speech corpus; 성인자유발화코퍼스)
     phones = ''
     ONS = ['k0', 'kk', 'nn', 't0', 'tt', 'rr', 'mm', 'p0', 'pp',
-           's0', 'ss', 'oh', 'c0', 'cc', 'ch', 'kh', 'th', 'ph', 'hh']
+           's0', 'ss', 'oh', 'c0', 'cc', 'ch', 'kh', 'th', 'ph', 'h0']
     NUC = ['aa', 'qq', 'ya', 'yq', 'vv', 'ee', 'yv', 'ye', 'oo', 'wa',
            'wq', 'wo', 'yo', 'uu', 'wv', 'we', 'wi', 'yu', 'xx', 'xi', 'ii']
     COD = ['', 'kf', 'kk', 'ks', 'nf', 'nc', 'nh', 'tf',
            'll', 'lk', 'lm', 'lb', 'ls', 'lt', 'lp', 'lh',
            'mf', 'pf', 'ps', 's0', 'ss', 'oh', 'c0', 'ch',
-           'kh', 'th', 'ph', 'hh']
+           'kh', 'th', 'ph', 'h0']
 
     # Pronunciation
     idx = checkCharType(integers)
@@ -137,7 +143,7 @@ def graph2phone(graphs):
             phones = phones + tmp
 
         elif idx[iElement] == 1:  # space character
-            tmp = ' '
+            tmp = '#'
             phones = phones + tmp
 
         phones = re.sub('-(oh)', '-', phones)
@@ -179,13 +185,12 @@ def addPhoneBoundary(phones):
             ipos += 1
         elif phones[ipos] == u' ':
             ipos += 1
-            
+        elif phones[ipos] == u'#':
+            newphones = newphones + phones[ipos]
+            ipos += 1
+
         newphones = newphones + phones[ipos] + phones[ipos+1] + u','
         ipos += 2
-
-    # Remove final comma
-    if newphones[-1] == u',':
-        newphones = newphones[0:-1]
 
     return newphones
 
@@ -218,32 +223,63 @@ def testG2P(rulebook, testset):
         pred = graph2prono(item_in, rule_in, rule_out)
 
         if pred != ans:
-            print('G2P ERROR:  [result] ' + pred + '\t[ans] ' + item_in + ' [' + item_out + '] ' + ans)
+            print('G2P ERROR:  [result] ' + pred + '\t\t\t[ans] ' + item_in + ' [' + item_out + '] ' + ans)
             cnt += 1
         else:
-            body.append('[result] ' + pred + '\t[ans] ' + item_in + ' [' + item_out + '] ' + ans)
+            body.append('[result] ' + pred + '\t\t\t[ans] ' + item_in + ' [' + item_out + '] ' + ans)
 
     print('Total error item #: ' + str(cnt))
     writefile(body,'good.txt')
 
 
-def graph2prono(graphs, rule_in, rule_out):
+def graph2prono(graphs, rule_in, rule_out, verbose=False):
+
     romanized = graph2phone(graphs)
     romanized_bd = addPhoneBoundary(romanized)
-    pronunciation = phone2prono(romanized_bd, rule_in, rule_out)
+    prono = phone2prono(romanized_bd, rule_in, rule_out)
 
-    pronunciation = re.sub(u',', u' ', pronunciation)
-    pronunciation = re.sub(u' $', u'', pronunciation)
+    prono = re.sub(u',', u' ', prono)
+    prono = re.sub(u' $', u'', prono)
+    prono = re.sub(u'#', u'-', prono)
+    prono = re.sub(u'-+', u'-', prono)
 
-    return pronunciation
+    prono_prev = prono
+    identical = False
+    loop_cnt = 1
+
+    if verbose == 1:
+        print ('=> Romanized: ' + romanized)
+        print ('=> Romanized with boundaries: ' + romanized_bd)
+        print ('=> Initial output: ' + prono)
+
+    while not identical:
+        prono_new = phone2prono(re.sub(u' ', u',', prono_prev + u','), rule_in, rule_out)
+        prono_new = re.sub(u',', u' ', prono_new)
+        prono_new = re.sub(u' $', u'', prono_new)
+
+        if re.sub(u'-', u'', prono_prev) == re.sub(u'-', u'', prono_new):
+            identical = True
+            prono_new = re.sub(u'-', u'', prono_new)
+            if verbose == True:
+                print('\n=> Exhaustive rule application completed!')
+                print('=> Total loop count: ' + str(loop_cnt))
+                print('=> Output: ' + prono_new)
+        else:
+            if verbose == True:
+                print('\n=> Rule applied for more than once')
+                print('cmp1: ' + re.sub(u'-', u'', prono_prev))
+                print('cmp2: ' + re.sub(u'-', u'', prono_new))
+            loop_cnt += 1
+            prono_prev = prono_new
+
+    return prono_new
+
 
 # ----------------------------------------------------------------------
 # [ G2P Test ]
 # beg = dt.datetime.now()
-
-# [rule_in, rule_out] = readRules('rulebook_reduced.txt')
-# testG2P('rulebook_reduced.txt', 'testset.txt')
-
+# testG2P('rulebook.txt', 'testset.txt')
+# #
 # end = dt.datetime.now()
 # print('Total time: ')
 # print(end - beg)
@@ -252,11 +288,8 @@ def graph2prono(graphs, rule_in, rule_out):
 
 # Usage:
 graph = sys.argv[1]
-
 rulebook_path = 'rulebook.txt'
+
 [rule_in, rule_out] = readRules(rulebook_path)
-
-prono = graph2prono(unicode(graph), rule_in, rule_out)
-print(prono)
-
-
+prono = graph2prono(unicode(graph), rule_in, rule_out, verbose=False)
+print prono
