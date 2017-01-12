@@ -1,170 +1,185 @@
-xi,-k0,yv,nf,-rr(?<=,aa,nf,)	xi,k0,yv,nf,nn,
-ii,mf,-c0,ii,nf,-rr(?<=,aa,nf,)	ii,mf,c0,ii,nf,nn,
-s0,qq,ng,-s0,aa,nf,-rr,ya,ng,	s0,qq,ng,s0,aa,nf,nn,ya,ng,
-k0,yv,ll,-t0,aa,nf,-rr,yv,k0,	k0,yv,ll,tt,aa,nf,nn,yv,k0,
-k0,oo,ng,-k0,wv,nf,-rr,yv,k0,	k0,oo,ng,kk,wv,nf,nn,yv,k0,
-t0,oo,ng,-wv,nf,-rr,yv,ng,	t0,oo,ng,wv,nf,nn,yv,ng,
-s0,aa,ng,-k0,yv,nf,-rr,ye,	s0,aa,ng,k0,yv,nf,nn,ye,
-hh,wo,ng,-t0,aa,nf,-rr,oo,	hh,wo,ng,t0,aa,nf,nn,oo,
-ii,-wv,nf,-rr,oo,nf,	ii,wv,nf,nn,oo,nn,
-ii,pf,-wv,nf,-rr,yo,	ii,p0,wv,nf,nn,yo,
-k0,uu,-k0,xx,nf,-rr,yu,	k0,uu,k0,xx,nf,nn,yu,
-hh,yv,pf,-rr,yv,kf,	hh,yv,mf,nn,yv,k0,
-mm,aa,kf,-rr,oo,nf,	mm,aa,ng,nn,oo,nn,
-p0,qq,kf,-rr,ii,	p0,qq,ng,nn,ii,
-mm,uu,nf,-p0,vv,pf,	mm,uu,nn,pp,vv,p0,
-kk,oo,ch,-p0,aa,th,	kk,oo,tf,pp,aa,p0,
-k0,aa,ll,-t0,xx,ng,	k0,aa,ll,tt,xx,ng,
-p0,aa,ll,-t0,oo,ng,	p0,aa,ll,tt,oo,ng,
-c0,vv,ll,-t0,oo,	c0,vv,ll,tt,oo,
-mm,aa,ll,-s0,aa,ll,	mm,aa,ll,ss,aa,ll,
-p0,uu,ll,-s0,oo,	p0,uu,ll,ss,oo,
-ii,ll,-s0,ii,	ii,ll,ss,ii,
-k0,aa,ll,-c0,xx,ng,	k0,aa,ll,cc,xx,ng,
-mm,uu,ll,-c0,ii,ll,	mm,uu,ll,cc,ii,ll,
-p0,aa,ll,-c0,vv,nf,	p0,aa,ll,cc,vv,nn,
-mm,oo,ll,-s0,aa,ng,-s0,ii,kf,	mm,oo,ll,ss,aa,ng,s0,ii,k0,
-p0,uu,ll,-s0,ee,-ch,uu,ll,	p0,uu,ll,ss,ee,ch,uu,ll,
-k0,ii,mf,-p0,aa,pf,	k0,ii,mf,pp,aa,pf,
-p0,uu,ll,-p0,vv,pf,	p0,uu,ll,pp,vv,pf,
-nn,xx,kf,-mm,aa,kf,-yv,mf,	nn,xx,ng,mm,aa,ng,nn,yv,mf,
-nn,vv,lb,-c0,uu,kf,-hh,aa,-t0,aa,	nn,vv,p0,cc,uu,kh,aa,t0,aa,
-nn,vv,lb,-c0,vv,kf,-hh,aa,-t0,aa,	nn,vv,p0,cc,vv,kh,aa,t0,aa,
-p0,aa,lb,-t0,	p0,aa,pf,tt,
-p0,aa,lb,-k0,	p0,aa,pf,kk,
-nn,vv,lb,-t0,	nn,vv,ll,tt,
-nn,vv,lb,-k0,	nn,vv,ll,kk,
-mm,aa,s0,-ii,ss,-t0,aa,	mm,aa,s0,ii,tf,tt,aa,
-mm,vv,s0,-ii,ss,-t0,aa,	mm,vv,s0,ii,tf,tt,aa,
-s0,ii,lh,-c0,xx,ng,	s0,ii,ll,cc,xx,ng,
-nn,vv,lb,-t0,uu,ng,-k0,xx,ll,-t0,aa,	nn,vv,pf,tt,uu,ng,k0,uu,ll,t0,aa,
-c0,vv,c0,-vv,-mm,ii,	c0,vv,t0,vv,mm,ii,
-mm,aa,s0,-vv,ps,-t0,aa,	mm,aa,t0,vv,p0,tt,aa,
-hh,vv,s0,-uu,s0,-xx,mf,	hh,vv,t0,uu,s0,xx,mm,
-k0,aa,ps,-vv,-ch,ii,	k0,aa,pf,vv,ch,ii,
-k0,aa,ps,-ii,ss,-nn,xx,nf,	k0,aa,p0,ii,nf,nn,xx,nn,
-kk,yv,-aa,nf,-t0,aa,	kk,yv,aa,nn,tt,aa,
-t0,vv,-t0,xx,mf,-c0,ii,	t0,vv,t0,xx,mf,cc,ii,
-c0,vv,lm,-c0,ii,	c0,vv,mf,cc,ii,
-oo,lm,-k0,ii,-t0,aa,	oo,mf,k0,ii,t0,aa,
-k0,uu,lm,-k0,ii,-t0,aa,	k0,uu,mf,k0,ii,t0,aa,
-hh,aa,ll,-k0,vv,ll,	hh,aa,ll,kk,vv,ll,
-hh,aa,ll,-p0,aa,kk,-ee,	hh,aa,ll,pp,aa,kk,ee,
-hh,aa,ll,-s0,ee,-rr,aa,	hh,aa,ll,ss,ee,ll,aa,
-hh,aa,ll,-s0,uu,-rr,oo,k0,	hh,aa,ll,ss,uu,ll,oo,k0,
-hh,aa,ll,-c0,ii,-rr,aa,-t0,oo,	hh,aa,ll,cc,ii,ll,aa,t0,oo,
-hh,aa,ll,-c0,ii,-vv,nf,-c0,vv,ng,	hh,aa,ll,cc,ii,vv,nf,c0,vv,ng,
-hh,aa,ll,-c0,ii,nf,-t0,qq,	hh,aa,ll,cc,ii,nf,t0,qq,
-nn,vv,lb,-c0,uu,kf,	nn,vv,pf,cc,uu,kf,
-s0,aa,nf,-k0,ii,-s0,xx,lk,-ee,	s0,aa,nf,kk,ii,s0,xx,ll,k0,ee,
-ch,vv,s0,-ii,nf,-s0,aa,ng,	ch,vv,t0,ii,nf,s0,aa,ng,
-s0,oo,mf,-ii,-p0,uu,ll,	s0,oo,mf,nn,ii,p0,uu,ll,
-mm,uu,nf,-k0,oo,rr,ii,	mm,uu,nf,kk,oo,ll,ii,
-nn,uu,nf,-t0,oo,ng,-c0,aa,	nn,uu,nf,tt,oo,ng,c0,aa,
-s0,ii,nf,-p0,aa,-rr,aa,mf,	s0,ii,nf,pp,aa,ll,aa,mm,
-s0,aa,nf,-s0,qq,	s0,aa,nf,ss,qq,
-s0,oo,nf,-c0,qq,-c0,uu,	s0,oo,nf,cc,qq,c0,uu,
-k0,ii,ll,-k0,aa,	k0,ii,ll,kk,aa,
-mm,uu,ll,-t0,oo,ng,-ii,	mm,uu,ll,tt,oo,ng,ii,
-p0,aa,ll,-p0,aa,-t0,aa,kf,	p0,aa,ll,pp,aa,t0,aa,kf,
-k0,uu,ll,-s0,oo,kf,	k0,uu,ll,ss,oo,kf,
-s0,uu,ll,-c0,aa,nf,	s0,uu,ll,cc,aa,nf,
-p0,aa,-rr,aa,mf,-k0,yv,ll,	p0,aa,ll,aa,mf,kk,yv,ll,
-k0,xx,-mm,xx,mf,-t0,aa,ll,	k0,xx,mm,xx,mf,tt,aa,ll,
-aa,-ch,ii,mf,-p0,aa,pf,	aa,ch,ii,mf,pp,aa,p0,
-c0,aa,mf,-c0,aa,rr,ii,	c0,aa,mf,cc,aa,rr,ii,
-k0,aa,ng,-k0,aa,	k0,aa,ng,kk,aa,
-ch,oo,-s0,xx,ng,-t0,aa,ll,	ch,oo,s0,xx,ng,tt,aa,ll,
-t0,xx,ng,-p0,uu,ll,	t0,xx,ng,pp,uu,ll,
-ch,aa,ng,-s0,aa,ll,	ch,aa,ng,ss,aa,ll,
-k0,aa,ng,-c0,uu,ll,-k0,ii,	k0,aa,ng,cc,uu,ll,k0,ii,
-aa,nf,-k0,oo,	aa,nf,kk,oo,
-ii,-c0,uu,kf,-ii,-c0,uu,kf,	ii,c0,uu,ng,nn,ii,c0,uu,k0,
-ya,-k0,xx,mf,-ya,-k0,xx,mf,	ya,k0,xx,mf,nn,ya,k0,xx,mf,
-yo,ll,-rr,aa,ng,-yo,ll,-rr,aa,ng,	yo,ll,ll,aa,ng,nn,yo,ll,ll,aa,ng,
-t0,xx,ll,-ii,ll,	t0,xx,ll,ll,ii,ll,
-s0,uu,ll,-ii,ph,	s0,uu,ll,ll,ii,pf,
-s0,vv,ll,-ii,kf,-t0,aa,	s0,vv,ll,ll,ii,kf,tt,aa,
-mm,uu,ll,-ya,kf,	mm,uu,ll,ll,ya,kf,
-p0,uu,ll,-yv,-uu,	p0,uu,ll,ll,yv,uu,
-s0,vv,-uu,ll,-yv,kf,	s0,vv,uu,ll,rr,yv,kf,
-mm,uu,ll,-yv,s0,	mm,uu,ll,rr,yv,tf,
-hh,wi,-p0,aa,ll,-yu,	hh,wi,p0,aa,ll,rr,yu,
-yu,-t0,xx,ll,-yu,-t0,xx,ll,	yu,t0,xx,ll,rr,yu,t0,xx,ll,
-k0,oo,-k0,qq,s0,-c0,ii,s0,	k0,oo,k0,qq,cc,ii,tf,
-p0,ee,-k0,qq,s0,-ii,s0,	p0,ee,k0,qq,nf,nn,ii,tf,
-kk,qq,s0,-ii,ph,	kk,qq,nf,nn,ii,pf,
-nn,aa,-mm,uu,s0,-ii,ph,	nn,aa,mm,uu,nf,nn,ii,pf,
-t0,oo,rr,ii,-kk,qq,s0,-yv,ll,	t0,oo,rr,ii,kk,qq,nf,nn,yv,ll,
-t0,wi,s0,-yu,ch,	t0,wi,nf,nn,yu,t0,
-t0,wi,s0,-ii,ll,	t0,wi,nf,nn,ii,ll,
-nn,xx,c0,-yv,-rr,xx,mf,	nn,xx,tf,nn,yv,ll,xx,mm,
-xx,mf,-uu,nf,-rr,oo,nf,	xx,mm,uu,nf,nn,oo,nf,
-s0,qq,ng,-s0,aa,nf,-rr,aa,-ii,nf,	s0,qq,ng,s0,aa,nf,nn,aa,ii,nf,
-oo,nf,-rr,aa,-ii,nf,	oo,ll,ll,aa,ii,nn,
-wv,nf,-rr,uu,mf,-ee,	wv,ll,ll,uu,mm,ee,
-t0,ii,-k0,xx,tf,-ii,	t0,ii,k0,xx,s0,ii,
-t0,ii,-k0,xx,tf,-xx,ll,	t0,ii,k0,xx,s0,xx,ll,
-t0,ii,-k0,xx,tf,-ee,	t0,ii,k0,xx,s0,ee,
-c0,ii,-xx,c0,-ii,	c0,ii,xx,s0,ii,
-c0,ii,-xx,c0,-xx,ll,	c0,ii,xx,s0,xx,ll,
-c0,ii,-xx,c0,-ee,	c0,ii,xx,s0,ee,
-ch,ii,-xx,ch,-ii,	ch,ii,xx,s0,ii,
-ch,ii,-xx,ch,-xx,ll,	ch,ii,xx,s0,xx,ll,
-ch,ii,-xx,ch,-ee,	ch,ii,xx,s0,ee,
-kh,ii,-xx,kh,-ii,	kh,ii,xx,k0,ii,
-kh,ii,-xx,kh,-xx,ll,	kh,ii,xx,k0,xx,ll,
-kh,ii,-xx,kh,-ee,	kh,ii,xx,k0,ee,
-th,ii,-xx,th,-ii,	th,ii,xx,s0,ii,
-th,ii,-xx,th,-xx,ll,	th,ii,xx,s0,xx,ll,
-th,ii,-xx,th,-ee,	th,ii,xx,s0,ee,
-ph,ii,-xx,ph,-ii,	ph,ii,xx,p0,ii,
-ph,ii,-xx,ph,-xx,ll,	ph,ii,xx,p0,xx,ll,
-ph,ii,-xx,ph,-ee,	ph,ii,xx,p0,ee,
-hh,ii,-xx,hh,-ii,	hh,ii,xx,s0,ii,
-hh,ii,-xx,hh,-xx,ll,	hh,ii,xx,s0,xx,ll,
-hh,ii,-xx,hh,-ee,	hh,ii,xx,s0,ee,
-tf,-ii,	-c0,ii,
-t(h,-|f,-hh,)ii,	-ch,ii,
-lt,-ii,	ll,-ch,ii,
-(ph|ps|lb|lp),$	pf,
-(s0|ss|c0|ch|th),$	tf,
-(kh|kk|ks|lk),$	kf,
-nc,$	nf,
-lm,$	mf,
-ii,-oo,$	ii,-oo,
-(p0|k0|nn|mm),(aa|uu|xx),lk,-k0,  	\1,\2,ll,-kk,
-\-!(aa|vv|oo|ii),lk,-ko,	-\1,ll,-kk,
-(p|k)s,-(?=[aeqiouyvwxz])	\1f,-ss,
-ks,-(?=[aeqiouyvwxz])	kf,-ss,
-l(s|m),-(?=[aeqiouyvwxz])	ll,-\1\1,
-lb,-(?=[aeqiouyvwxz])	ll,-p0,
-l(p|t),-(?=[aeqiouyvwxz])	ll,-\1h,
-nc,-(?=[aeqiouyvwxz])	nf,-c0,
-lk,-(?=[aeqiouyvwxz])	ll,-k0,
-(p|k)f,-hh,	-\1h,
-l(b|p),-hh,	ll,-ph,
+### ----------------------------------------------------------------------------------------
+### 한국어 발음규칙 (Korean G2P Rulebook)
+### Last updated: 2017-01-12
+### Yejin Cho (scarletcho@gmail.com)
+### 처리순서:
+###			예외처리 - 유기음화(겹받침) - 겹받침관련규칙 - 경음화 - 겹받침단순화 - 비음화 - 리을 재음절화
+###			- 유음화 - 구개음화 - 유기음화(홑받침) - 연음 - 종성중화 - 리을 재음절화 [종료]
+### ----------------------------------------------------------------------------------------
+### 예외처리
+s0,ii,ll,-s0,ii,ll	s0,ii,ll,s0,ii,ll	# 실실
+k0,ii,-s0,xx,lk,	k0,ii,s0,xx,kf,	# 기슭
+mm,uu,ll,-k0,oo,-k0,ii,	mm,uu,ll,kk,oo,k0,ii,	# 물고기
+c0,vv,ll,-ya,kf,	c0,vv,rr,ya,kf,	# 절약
+k0,xx,mf,-yo,-ii,ll,	k0,xx,-mm,yo,-ii,ll,	# 금요일
+lt,-ii,	ll,-ch,ii,	# 훑이
+(?<=nn,vv,)lb,(?=-(c0,(uu|vv),kf|t0,(uu|vv),ng))	pf,	# 넓죽/넓둥글다
+(?<=s0,ii,)lh,-c0,(?=xx,ng)	ll,cc,	# 싫증
+t0,aa,lk,	t0,aa,kf,	# 닭
+(wq|we|oo),nf,-k0,aa,c0,	\1,nf,k0,aa,tf,	# 온갖
+mm,aa,tf,-h0,yv,ng,	mm,aa,th,yv,ng,	# 맏형
+k0,vv,th,-oo,s0,	k0,vv,t0,oo,tf,	# 겉옷
+c0,uu,ll,-nn,vv,mf,-k0,ii,	c0,uu,ll,rr,vv,mf,-kk,ii,	# 줄넘기
+h0,oo,th,-ii,-p0,uu,ll,	h0,oo,nf,nn,ii,p0,uu,ll,	# 홑이불
+s0,aa,ks,-ii,ll,	s0,aa,ng,nn,ii,ll,	# 삯일
+mm,qq,nf,-ii,pf,	mm,qq,nf,nn,ii,pf,	# 맨입
+kk,oo,ch,-ii,ph,	kk,oo,nf,nn,ii,pf,	# 꽃잎
+nn,qq,-p0,oo,kf,-ya,kf,	nn,qq,p0,oo,ng,nn,ya,kf,	# 내복약
+h0,aa,nf,-yv,-rr,xx,mf,	h0,aa,nf,nn,yv,rr,xx,mf,	# 한여름
+nn,aa,mf,-c0,oo,nf,-yv,-p0,ii,	nn,aa,mf,c0,oo,nf,nn,yv,p0,ii,	# 남존여비
+s0,ii,nf,-yv,-s0,vv,ng,	s0,ii,nf,nn,yv,s0,vv,ng,	# 신여성
+s0,qq,kf,-yv,nf,-ph,ii,ll,	s0,qq,ng,nn,yv,nf,ph,ii,ll,	# 색연필
+t0,aa,mf,-yo,	t0,aa,mf,nn,yo,	# 담요
+nn,uu,nf,-yo,-k0,ii,	nn,uu,nf,nn,yo,k0,ii,	# 눈요기
+vv,pf,-yo,ng,	vv,mf,nn,yo,ng,	# (영)업용
+s0,ii,kf,-yo,ng,-yu,	s0,ii,k0,yo,ng,nn,yu,	# 식용유
+nf,-yu,nf,-rr,ii,	nf,nn,yu,ll,rr,ii,	# (국민)윤리
+(c0|s0),(aa|oo),ll,-ii,(ph|p0|pf),	\1,\2,ll,rr,ii,pf,	# 잘입다, 솔잎
+h0,aa,nf,-ii,ll,	h0,aa,nf,nn,ii,ll,	# 한일
+h0,aa,ll,-ii,ll,	h0,aa,ll,rr,ii,ll,	# 할일
+mm,aa,kf,-ii,ll,	mm,aa,ng,nn,ii,ll,	# 막일
+mm,oo,ll,-s0,aa,ng,-s0,ii,kf,	mm,oo,ll,ss,aa,ng,s0,ii,kf,	# 몰상식
+oo,s0,#ii,pf,	oo,nf,nn,ii,pf,	# 옷입(다)
+(nf|ll),-yv,-s0,vv,-s0,	\1,nn,yv,s0,vv,tf,	# (스물/서른)여섯
+(ng|mf|nf),-y([aeoquv]),	\1,nn,y\2,	# 밤윷, 직행열차, 콩엿, 볶은엿
+(wv|ii),ll,-y([aeoquv]),	\1,rr,y\2,	# 일/월요일
+ll,-y([aeoquv]),	ll,rr,y\1,	# 불여우
+ii,ll,-c0,vv,ll,	ii,ll,cc,vv,ll,	# 일절
+(th|tf|s0),-y([aeoquv]),	nf,-nn,y\2,	# 쑥갓요
+(<=^|#)mm,aa,kf,-ii,ll	mm,aa,ng,nn,ii,ll	# 막일
+k0,uu,-k0,xx,nf,-rr,yu,	k0,uu,k0,xx,nf,nn,yu,	# 구근류
+k0,aa,ll,-([ct])0,xx,ng,	k0,aa,ll,\1\1,xx,ng,	# 갈등/갈증
+p0,aa,ll,-t0,oo,ng,	p0,aa,ll,tt,oo,ng,	# 발동
+c0,vv,ll,-t0,oo,	c0,vv,ll,tt,oo,	# 절도
+mm,aa,ll,-s0,aa,ll,	mm,aa,ll,ss,aa,ll,	# 말살
+p0,uu,ll,-s0,	p0,uu,ll,ss,	# 불소/불세출
+ii,ll,-s0,ii,	ii,ll,ss,ii,	# 일시
+p0,aa,ll,-c0,vv,nf,	p0,aa,ll,cc,vv,nf,	# 발전
+(?<=s0,ii,nf,-)(c|k|t)0,	\1\1,	# 신고, 신다, 신자
+(?<=s0,aa,mf,-)(c|k|t)0,	\1\1,	# 삼고, 삼다, 삼자
+(?<=k0,ii,mf,-)p0,	pp,	# 김밥
+(?<=t0,vv,-t0,xx,mf,-)c0,	cc,	# 더듬지
+c0,aa,mf,-c0,aa,-rr,ii,	c0,aa,mf,cc,aa,rr,ii,	# 잠자리
+(?<=(ng|ll),-)c0,(?=uu,ll,-k0,ii)	cc,	# 물줄기, 강줄기
+(?<=(nf|ll),-)p0,vv,pf,	pp,vv,pf,	# 문법, 불법
+(?<=(nf|tf),-)p0,(?=aa,-rr,aa,mf)	pp,	# 신바람, 늦바람
+p0,aa,-rr,aa,mf,-k0,yv,ll,	p0,aa,rr,aa,mf,kk,yv,ll,	# 바람결
+(?<=(mf|kf),-)p0,(?=aa,pf,)	pp,	# 아침밥, 점심밥, 저녁밥
+(?<=nn,uu,nf,-)t0,	tt,	# 눈동자, 눈대중
+mm,aa,kf,-yv,mf,	mm,aa,ng,nn,yv,mf,	# 늑막염, 결막염
+p0,aa,lb,-(t|k)0,	p0,aa,pf,\1\1,	# 밟다, 밟고
+p0,aa,lb,-nn,	p0,aa,mf,nn,	# 밟는
+nn,vv,lb,-(t|k)0,	nn,vv,ll,\1\1,	# 넓다, 넓고
+mm,(aa|vv),s0,-ii,ss,-t0,aa,	mm,\1,t0,ii,tf,tt,aa,	# 맛있다
+mm,(aa|vv),s0,-vv,ps,-t0,aa,	mm,\1,t0,vv,pf,tt,aa,	# 맛없다
+c0,vv,c0,-vv,-mm,ii,	c0,vv,t0,vv,mm,ii,	# 젖어미
+h0,vv,s0,-uu,s0,-xx,mf,	h0,vv,t0,uu,s0,xx,mf,	# 헛웃음
+k0,aa,ps,-vv,-ch,ii,	k0,aa,p0,vv,ch,ii,	# 값어치
+k0,aa,ps,-ii,ss,-nn,xx,nf,	k0,aa,p0,ii,nf,nn,xx,nf,	# 값있는
+c0,vv,lm,-c0,ii,	c0,vv,mf,cc,ii,	# 젊지
+oo,lm,-k0,(?=[iy])	oo,mf,k0,	# 옮기(다)
+k0,uu,lm,-k0,ii,-t0,aa,	k0,uu,mf,k0,ii,t0,aa,	# 굶기다
+(nn|k0|h0),aa,ll,-(p|s|c|k|t)0,	\1,aa,ll,\2\2,	# 갈바, 할바, 만날것
+ch,vv,s0,-ii,nf,	ch,vv,t0,ii,nf,	# 첫인(상)
+(?<=(mf|nf),-)ii,-p0,uu,ll,	nn,ii,p0,uu,ll,	# 솜이불
+(?<=(nf|ll),-)k0,oo,-rr,ii,	kk,oo,rr,ii,	# 문고리
+(?<=(nf|ll),-)s0,qq,	ss,qq,	# 산새, 들새
+(?<=(nf|ll),-)c0,qq,-c0,uu,	cc,qq,c0,uu,	# 손재주, 글재주
+k0,ii,ll,-k0,aa,	k0,ii,ll,kk,aa,	# 길가
+mm,uu,ll,-t0,oo,ng,-ii,	mm,uu,ll,tt,oo,ng,ii,	# 물동이
+mm,uu,ll,-c0,	mm,uu,ll,-cc,	# 물증
+(?<=(nf|ll),-)p0,aa,-t0,aa,kf,	pp,aa,t0,aa,kf,	# 발바닥
+(?<=(nf|ll),-)s0,oo,kf,	ss,oo,kf,	# 굴속, 물속
+(?<=s0,uu,ll,-)(c|p|t)0,	\1\1,	# 술잔, 술독, 술병, 술자리
+k0,aa,ng,-k0,aa,	k0,aa,ng,kk,aa,	# 강가
+(?<=(ng|mf),-)t0,aa,ll,	tt,aa,ll,	# 초승달
+t0,xx,ng,-p0,uu,ll,	t0,xx,ng,pp,uu,ll,	# 등불
+ch,aa,ng,-s0,aa,ll,	ch,aa,ng,ss,aa,ll,	# 창살
+(?<=(ll|ng),-)c0,uu,ll,-k0,ii,	k0,aa,ng,cc,uu,ll,k0,ii,	# 강줄기, 물줄기
+aa,nf,-k0,oo,	aa,nf,kk,oo,	# 안고
+(?<=kk,yv,-aa,nf,-)(t|c)0,	\1\1,	# 껴안지, 껴안다
+ii,-c0,uu,kf,-ii,-c0,uu,kf,	ii,c0,uu,ng,nn,ii,c0,uu,kf,	# 이죽이죽
+ya,-k0,xx,mf,-ya,-k0,xx,mf,	ya,k0,xx,mf,nn,ya,k0,xx,mf,	# 야금야금
+yo,ll,-rr,aa,ng,-yo,ll,-rr,aa,ng,	yo,ll,rr,aa,ng,nn,yo,ll,rr,aa,ng,	# 욜랑욜랑
+t0,xx,ll,-ii,ll,	t0,xx,ll,rr,ii,ll,	# 들일
+s0,uu,ll,-ii,ph,	s0,uu,ll,rr,ii,pf,	# 술잎
+s0,vv,ll,-ii,kf,-t0,aa,	s0,vv,ll,rr,ii,kf,tt,aa,	# 설익다
+mm,uu,ll,-ya,kf,	mm,uu,ll,rr,ya,kf,	# 물약
+p0,uu,ll,-yv,-uu,	p0,uu,ll,rr,yv,uu,	# 불여우
+s0,vv,-uu,ll,-yv,kf,	s0,vv,uu,ll,rr,yv,kf,	# 서울역
+mm,uu,ll,-yv,s0,	mm,uu,ll,rr,yv,tf,	# 물엿
+(?=[aeqiouyvwx].,)ll,-yv,(?=[ptkshcmnr])	ll,rr,yv,	# 물옆, 굴옆
+h0,wi,-p0,aa,ll,-yu,	h0,wi,p0,aa,ll,rr,yu,	# 휘발유
+yu,-t0,xx,ll,-yu,-t0,xx,ll,	yu,t0,xx,ll,rr,yu,t0,xx,ll,	# 유들유들
+p0,ee,-k0,qq,s0,-ii,s0,	p0,ee,k0,qq,nf,nn,ii,tf,	# 베갯잇
+kk,qq,s0,-ii,ph,	kk,qq,nf,nn,ii,pf,	# 깻잎
+nn,aa,-mm,uu,s0,-ii,ph,	nn,aa,mm,uu,nf,nn,ii,pf,	# 나뭇잎
+qq,s0,-yv,ll,	qq,nf,nn,yv,ll,	# 도리깻열
+t0,wi,s0,-(?=[aeqiouyvwx])	t0,wi,nf,-nn,	# 뒷윷, 뒷얘기
+nn,xx,c0,-yv,-rr,xx,mf,	nn,xx,tf,nn,yv,rr,xx,mf,	# 늦여름
+t0,ii,-k0,xx,tf,-(ii|xx|ee),	t0,ii,k0,xx,s0,\1,	# 디귿에, 디귿이
+(c0|ch|th|h0),ii,-xx,(c0|ch|th|h0),-(ii|xx|ee),	\1,ii,xx,s0,\3,	# 치읓이, 지읒에
+ph,ii,-xx,ph,-(ii|xx|ee),	ph,ii,xx,p0,\1,	# 피읖에
+kh,ii,-xx,kh,-(ii|xx|ee),	kh,ii,xx,k0,\1,	# 키읔이
+### 유기음화 (겹받침)
+l(b|p),-h0,	ll,-ph,
 nh,-(c|k|t)0,	nf,-\1h,
 lh,-(c|k|t)0,	ll,-\1h,
-lk,-hh,	ll,-kh,
-hh,-(c|k|t)0,	-\1h,
-c0,-hh,	-ch,
-nc,-hh,	nn,-ch,
-(tf|th|s0),-hh,	-th,
+lk,-h0,	ll,-kh,
+nc,-h0,	nf,-ch,
+### 겹받침 규칙 (ㄹㅎ)
+(k0,aa,|k0,uu,|k0,vv,|oo,|p0,aa,|nn,aa,|nn,xx,|p0,uu,|^ii,|-,ii,mm,aa,|mm,uu,|(^|-,)vv,)lk,-(t0|c0|s0),	\1kf,-\3,
+(k0,aa,|k0,uu,|k0,vv,|vv,|oo,|mm,aa,|p0,aa,|nn,aa,|nn,xx,|mm,uu,|p0,uu,|^ii,|-,ii,)lk,-k0,	\1ll,-kk,
+### 겹받침 규칙 (ㄴㅎ)
+nh,-(k|t|c)0,	nf,-\1h,
+nh,-s0,	nf,-ss,
+nh,-nn,	nf,-nn,
+nh,-(?=[aeqiouyvwx])	-nn,
+### 겹받침 규칙 (ㄹㅎ)
+lh,-nn,	ll,-rr,
+lh,-(k|t|c)0,	ll,-\1h,
+lh,-s0,	ll,-ss,
+lh,-nn,	ll,-rr,
+lh,-(?=[aeqiouyvwx])	-rr,
+### 겹받침 규칙 (ㄴㅈ)
+nc,-([ktsc])0,	nf,-\1\1,
+### 겹받침 규칙 (ㄹㅁ)
+(c0,vv,|c0,ii,|k0,uu,|t0,aa,|(^|-,)oo,|k0,oo,)lm,-([ktsc])0,	\1mf,-\3\3,
+### 겹받침 규칙 (ㄹㅂ)
+(p0,aa,|tt,vv,|(^|-,)yv,|nn,vv,|(^|-,)ya,|cc,aa,)lb,-([ktsc])0,	\1ll,-\4\4,
+### 겹받침 규칙 (ㄹㅌ)
+h0,(aa|uu),lt,-nn,	h0,\1,ll,-ll,
+h0,(aa|uu),lt,-([ktsc])0,	h0,\1,ll,-\2\2,
+### 경음화
 lk,-(c|k|p|s|t)0,	kf,-\1\1,
 l(b|p),-p0,	pf,-pp,
 s0,-p0,	tf,-pp,
-l(b|t),-(c|k|s|t)0,	ll,-\2\2,
+l(b|t),-(c|k|s|t|p)0,	ll,-\2\2,
 lp,-(c|k|s|t)0,	pf,-\1\1,
 (c[h0]|s[s0]|t[fh]),-(c|k|s|t)0,	tf,-\2\2,
 k[fhks],-(c|k|s|t)0,	kf,-\1\1,
 p[sfh],-(c|k|p|s|t)0,	pf,-\1\1,
 (?<=(kf|kh|ks|ss|c0|ch|tf|th),-)p0,	pp,
-hh,-s0,	-ss,
+h0,-s0,	-ss,
 nh,-s0,	nf,-ss,
 lh,-s0,	ll,-ss,
+### 겹받침 단순화: 어말 또는 자음 앞
+(ks|lk),(?=(#|$|-[ptkshcmnr]))	kf,
+n[ch],(?=(#|$|-[ptkshcmnr]))	nf,
+l[bsth],(?=(#|$|-[ptkshcmnr]))	ll,
+lm,(?=(#|$|-[ptkshcmnr]))	mf,
+(ps|lp),(?=(#|$|-[ptkshcmnr]))	pf,
+### 겹받침 단순화: 모음 앞
+([kp])s,-(?=[aeqiouyvwx])	\1f,-ss,
+ls,-(?=[aeqiouyvwx])	ll,-ss,
+nc,-(?=[aeqiouyvwx])	nf,-c0,
+lk,-(?=[aeqiouyvwx])	ll,-k0,
+lm,-(?=[aeqiouyvwx])	ll,-mm,
+lb,-(?=[aeqiouyvwx])	ll,-p0,
+l([tp]),-(?=[aeqiouyvwx])	ll,-\1h,
+### 비음화
 (?<=[pk])0,-rr,	f,-nn,
-(c0|ch|s0|ss|tf|nh|hh),-nn,	nf,-nn,
+(c0|ch|s0|ss|tf|nh|h0),-nn,	nf,-nn,
 nc,-(p|t|k)0,	nf,-\1\1,
 nc,(?=-[ptkshcmnr])	nf,
 lm,-k0,	mf,-kk,
@@ -173,42 +188,48 @@ k[fhks],(?=-(nn|mm),)	ng,
 lk,(?=-(nn|mm),)	ng,
 p[sfh],(?=-(nn|mm),)	mf,
 l[bp],(?=-(nn|mm),)	mf,
-(?<=(mf|ng),-)rr,	nn,
-(s0|c0|ch),(?=-mm,)	nf,
+(?<=(mf|ng|pf|kf),-)rr,	nn,
+(c0|ch|s0|ss|tf|nh|h0),(?=-mm,)	nf,
+### 리을 재음절화
 ll,-(?=y)	-rr,
+### 유음화
 (nf|ll),-rr,	ll,-rr,
 l[lht],-nn,	ll,-rr,
-lp,(?=-[ptkshcmnr])	pf,
-(s0|kk|ph|pp|th|tt|c0|ch|kh|kk|s0),-(?=[aeqiouyvwxz])	-\1,
-nh,-(?=[aeqiouyvwxz])	-nn,
+### 구개음화
+tf,-(?=[iy])	-c0,
+th,-(?=[iy])	-ch,
+tf,-h0,(?=[iy])	-ch,
+### 유기음화 (홑받침)
+(p|k)f,-h0,	-\1h,
+h0,-(c|k|t)0,	-\1h,
+(tf|th|s0),(-|#)h0,	-th,
+### 연음규칙
+(s0|ss|kk|p0|ph|pp|t0|th|tt|c0|ch|kh|kk|k0|mm|nn),-(?=[aeqiouyvwx])	-\1,
+nh,-(?=[aeqiouyvwx])	-nn,
 (s0|ss|c0|ch|th),(?=-[ptkshcmnr])	tf,
-hh,-(?=[aeqiouyvwxz])	-
-lh,-(?=[aeqiouyvwxz])	-rr,
-pf,-(?=[aeqiouyvwxz])	-p0,
-tf,-(?=[aeqiouyvwxz])	-t0,
-kf,-(?=[aeqiouyvwxz])	-k0,
-(m|n)f,-(?=[aeqiouyvwxz])	-\1\1,
-(?<=[ptkshcmnr]),-(?=[aeqiouyvwxz])	,
+h0,-(?=[aeqiouyvwx])	-
+lh,-(?=[aeqiouyvwx])	-rr,
+lh,(?=[aeqiouyvwx])	-rr,
+pf,-(?=[aeqiouyvwx])	-p0,
+pf,(?=[aeqiouyvwx])	-p0,
+tf,-(?=[aeqiouyvwx])	-t0,
+tf,(?=[aeqiouyvwx])	-t0,
+kf,-(?=[aeqiouyvwx])	-k0,
+kf,(?=[aeqiouyvwx])	-k0,
+(m|n)f,-(?=[aeqiouyvwx])	-\1\1,
+### 종성규칙
+ph,(?=-|#|$)	pf,
+(s0|ss|c0|ch|th),(?=-|#|$)	tf,
+(kh|kk),(?=-|#|$)	kf,
+lp,(?=-[ptkshcmnr])	pf,
+(?<=[ptkshcmnr].),-(?=[aeqiouyvwx])	,
 l[bt],(?=-[ptkshcmnr])	ll,
 ps,(?=-[ptkshcmnr])	pf,
 (ks|lk),(?=-[ptkshcmnr])	kf,
-nh,(?=[-$])	nf,
-l[bhst],(?=[-$])	ll,
-(?<=[aeqiouyvwxz],)ll,-(?=[aeqiouyvwxz])	-rr,
-k(0|h|k|s)$	kf,
-lk$	kf,
-n(n|c|h)$	nf,
-(t[0ht]|s[0s]|h0|c[0hc])$	tf,
-l[bstph]$	ll,
-rr$	ll,
-[ml]m$	mf,
-p[0hps]$	pf,
-k(0|h|k|s),-	kf,-
-lk,-	kf,-
-n(n|c|h),-	nf,-
-(t[0ht]|s[0s]|h0|c[0hc]),-	tf,-
-l[bstph],-	ll,-
-rr,-	ll,-
-[ml]m,-	mf,-
-p[0hps],-	pf,-
--	
+nh,-	nf,-
+nh,(#|$)	nf,
+l[bhstp],-	ll,-
+l[bhstp],(#|$)	ll,
+### 리을 재음절화
+(?<=[aeqiouyvwx].,)ll,-(?=[aeqiouyvwx])	-rr,
+ll,-ll,	ll,-rr,
