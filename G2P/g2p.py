@@ -10,6 +10,7 @@ This script converts Korean graphemes to romanized phones and then to pronunciat
     (3) graph2phone: convert Korean graphemes to pronunciation
 
 Usage:  $ python g2p.py '여덟째 김밥'
+        $ python g2p.py 'test'  (For performance test)
         (NB. Please check 'rulebook_path' before usage.)
 
 Yejin Cho (scarletcho@gmail.com)
@@ -22,7 +23,7 @@ Last updated: 2017-01-10 Yejin Cho
 
 * Key updates made:
     - No xlrd or excel file required; Rules are imported from 'rulebook.txt'.
-    - Process time reduced (cf. For 491 items: 39 secs -> 0.58 secs)
+    - Error rate reduced.
 
 '''
 
@@ -274,22 +275,22 @@ def graph2prono(graphs, rule_in, rule_out, verbose=False):
 
     return prono_new
 
+if sys.argv[1] == 'test':
+    # ----------------------------------------------------------------------
+    # [ G2P Test ]
+    print('[ G2P Performance Test ]')
+    beg = dt.datetime.now()
+    testG2P('rulebook.txt', 'testset.txt')
+    end = dt.datetime.now()
 
-# ----------------------------------------------------------------------
-# [ G2P Test ]
-# beg = dt.datetime.now()
-# testG2P('rulebook.txt', 'testset.txt')
-# #
-# end = dt.datetime.now()
-# print('Total time: ')
-# print(end - beg)
-# ----------------------------------------------------------------------
+    print('Total time: ')
+    print(end - beg)
+    # ----------------------------------------------------------------------
 
+else:
+    graph = sys.argv[1]
+    rulebook_path = 'rulebook.txt'
 
-# Usage:
-graph = sys.argv[1]
-rulebook_path = 'rulebook.txt'
-
-[rule_in, rule_out] = readRules(rulebook_path)
-prono = graph2prono(unicode(graph), rule_in, rule_out, verbose=False)
-print prono
+    [rule_in, rule_out] = readRules(rulebook_path)
+    prono = graph2prono(unicode(graph), rule_in, rule_out, verbose=True)
+    print prono
