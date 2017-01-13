@@ -10,7 +10,6 @@ This script converts Korean graphemes to romanized phones and then to pronunciat
     (3) graph2phone: convert Korean graphemes to pronunciation
 
 Usage:  $ python g2p.py '여덟째 김밥'
-        $ python g2p.py 'test'  (For performance test)
         (NB. Please check 'rulebook_path' before usage.)
 
 Yejin Cho (scarletcho@gmail.com)
@@ -157,8 +156,7 @@ def graph2phone(graphs):
 
     # 받침 이응 'ng'으로 처리 (Velar nasal in coda position)
     phones = re.sub('oh-', 'ng-', phones)
-    phones = re.sub('oh$', 'ng', phones)
-    phones = re.sub('oh ', 'ng ', phones)
+    phones = re.sub('oh([# ]|$)', 'ng', phones)
 
     # Remove all characters except Hangul and syllable delimiter (hyphen; '-')
     phones = re.sub('(\W+)\-', '\\1', phones)
