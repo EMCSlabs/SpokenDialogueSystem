@@ -1,12 +1,15 @@
 ### ----------------------------------------------------------------------------------------
 ### 한국어 발음규칙 (Korean G2P Rulebook)
-### Last updated: 2017-01-12
+### Last updated: 2017-01-13
 ### Yejin Cho (scarletcho@gmail.com)
 ### 처리순서:
-###		예외처리 - 유기음화(겹받침) - 겹받침관련규칙 - 경음화 - 겹받침단순화 - 비음화 - 리을 재음절화
-###		- 유음화 - 구개음화 - 유기음화(홑받침) - 연음 - 종성중화 - 리을 재음절화 [종료]
+###			예외처리 - 유기음화(겹받침) - 겹받침관련규칙 - 경음화 - 겹받침단순화 - 비음화 - 리을 재음절화
+###			- 유음화 - 구개음화 - 유기음화(홑받침) - 연음 - 종성중화 - 리을 재음절화 [종료]
 ### ----------------------------------------------------------------------------------------
 ### 예외처리
+ii,ll,[#-]y([aeoquv]),	ii,ll,rr,y\1,	# 일 연대, 삼십일여간
+t0,xx,ll,-ii,ll,	t0,xx,ll,rr,ii,ll,	# 들일, 볼일
+s0,vv,ll,-ii,kf,	s0,vv,ll,rr,ii,kf,	# 설익(다)
 s0,ii,ll,-s0,ii,ll	s0,ii,ll,s0,ii,ll	# 실실
 k0,ii,-s0,xx,lk,	k0,ii,s0,xx,kf,	# 기슭
 mm,uu,ll,-k0,oo,-k0,ii,	mm,uu,ll,kk,oo,k0,ii,	# 물고기
@@ -34,7 +37,7 @@ nn,uu,nf,-yo,-k0,ii,	nn,uu,nf,nn,yo,k0,ii,	# 눈요기
 vv,pf,-yo,ng,	vv,mf,nn,yo,ng,	# (영)업용
 s0,ii,kf,-yo,ng,-yu,	s0,ii,k0,yo,ng,nn,yu,	# 식용유
 nf,-yu,nf,-rr,ii,	nf,nn,yu,ll,rr,ii,	# (국민)윤리
-(c0|s0),(aa|oo),ll,-ii,(ph|p0|pf),	\1,\2,ll,rr,ii,pf,	# 잘입다, 솔잎
+(c0|s0),(aa|oo|uu),ll,-ii,(ph|p0|pf),	\1,\2,ll,rr,ii,pf,	# 잘입다, 솔잎, 술잎
 h0,aa,nf,-ii,ll,	h0,aa,nf,nn,ii,ll,	# 한일
 h0,aa,ll,-ii,ll,	h0,aa,ll,rr,ii,ll,	# 할일
 mm,aa,kf,-ii,ll,	mm,aa,ng,nn,ii,ll,	# 막일
@@ -43,7 +46,7 @@ oo,s0,#ii,pf,	oo,nf,nn,ii,pf,	# 옷입(다)
 (nf|ll),-yv,-s0,vv,-s0,	\1,nn,yv,s0,vv,tf,	# (스물/서른)여섯
 (ng|mf|nf),-y([aeoquv]),	\1,nn,y\2,	# 밤윷, 직행열차, 콩엿, 볶은엿
 (wv|ii),ll,-y([aeoquv]),	\1,rr,y\2,	# 일/월요일
-ll,-y([aeoquv]),	ll,rr,y\1,	# 불여우
+ll,-y([aeoquv]),	ll,rr,y\1,	# 불여우, 물약, 서울역, 물엿, 물옆, 굴옆, 휘발유, 유들유들
 ii,ll,-c0,vv,ll,	ii,ll,cc,vv,ll,	# 일절
 (th|tf|s0),-y([aeoquv]),	nf,-nn,y\2,	# 쑥갓요
 (<=^|#)mm,aa,kf,-ii,ll	mm,aa,ng,nn,ii,ll	# 막일
@@ -100,17 +103,6 @@ aa,nf,-k0,oo,	aa,nf,kk,oo,	# 안고
 (?<=kk,yv,-aa,nf,-)(t|c)0,	\1\1,	# 껴안지, 껴안다
 ii,-c0,uu,kf,-ii,-c0,uu,kf,	ii,c0,uu,ng,nn,ii,c0,uu,kf,	# 이죽이죽
 ya,-k0,xx,mf,-ya,-k0,xx,mf,	ya,k0,xx,mf,nn,ya,k0,xx,mf,	# 야금야금
-yo,ll,-rr,aa,ng,-yo,ll,-rr,aa,ng,	yo,ll,rr,aa,ng,nn,yo,ll,rr,aa,ng,	# 욜랑욜랑
-t0,xx,ll,-ii,ll,	t0,xx,ll,rr,ii,ll,	# 들일
-s0,uu,ll,-ii,ph,	s0,uu,ll,rr,ii,pf,	# 술잎
-s0,vv,ll,-ii,kf,-t0,aa,	s0,vv,ll,rr,ii,kf,tt,aa,	# 설익다
-mm,uu,ll,-ya,kf,	mm,uu,ll,rr,ya,kf,	# 물약
-p0,uu,ll,-yv,-uu,	p0,uu,ll,rr,yv,uu,	# 불여우
-s0,vv,-uu,ll,-yv,kf,	s0,vv,uu,ll,rr,yv,kf,	# 서울역
-mm,uu,ll,-yv,s0,	mm,uu,ll,rr,yv,tf,	# 물엿
-(?=[aeqiouyvwx].,)ll,-yv,(?=[ptkshcmnr])	ll,rr,yv,	# 물옆, 굴옆
-h0,wi,-p0,aa,ll,-yu,	h0,wi,p0,aa,ll,rr,yu,	# 휘발유
-yu,-t0,xx,ll,-yu,-t0,xx,ll,	yu,t0,xx,ll,rr,yu,t0,xx,ll,	# 유들유들
 p0,ee,-k0,qq,s0,-ii,s0,	p0,ee,k0,qq,nf,nn,ii,tf,	# 베갯잇
 kk,qq,s0,-ii,ph,	kk,qq,nf,nn,ii,pf,	# 깻잎
 nn,aa,-mm,uu,s0,-ii,ph,	nn,aa,mm,uu,nf,nn,ii,pf,	# 나뭇잎
