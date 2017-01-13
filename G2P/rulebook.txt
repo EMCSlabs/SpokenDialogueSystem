@@ -8,11 +8,11 @@
 ### ----------------------------------------------------------------------------------------
 ### 예외처리
 ii,ll,[#-]y([aeoquv]),	ii,ll,rr,y\1,	# 일 연대, 삼십일여간
-t0,xx,ll,-ii,ll,	t0,xx,ll,rr,ii,ll,	# 들일, 볼일
+(h0,aa|t0,xx),ll,-ii,ll,	\1,ll,rr,ii,ll,	# 들일, 볼일, 할일
 s0,vv,ll,-ii,kf,	s0,vv,ll,rr,ii,kf,	# 설익(다)
+mm,uu,ll,-k0,oo,-k0,ii,	mm,uu,ll,kk,oo,k0,ii,	# 물고기
 s0,ii,ll,-s0,ii,ll	s0,ii,ll,s0,ii,ll	# 실실
 k0,ii,-s0,xx,lk,	k0,ii,s0,xx,kf,	# 기슭
-mm,uu,ll,-k0,oo,-k0,ii,	mm,uu,ll,kk,oo,k0,ii,	# 물고기
 c0,vv,ll,-ya,kf,	c0,vv,rr,ya,kf,	# 절약
 k0,xx,mf,-yo,-ii,ll,	k0,xx,-mm,yo,-ii,ll,	# 금요일
 lt,-ii,	ll,-ch,ii,	# 훑이
@@ -38,9 +38,8 @@ vv,pf,-yo,ng,	vv,mf,nn,yo,ng,	# (영)업용
 s0,ii,kf,-yo,ng,-yu,	s0,ii,k0,yo,ng,nn,yu,	# 식용유
 nf,-yu,nf,-rr,ii,	nf,nn,yu,ll,rr,ii,	# (국민)윤리
 (c0|s0),(aa|oo|uu),ll,-ii,(ph|p0|pf),	\1,\2,ll,rr,ii,pf,	# 잘입다, 솔잎, 술잎
-h0,aa,nf,-ii,ll,	h0,aa,nf,nn,ii,ll,	# 한일
-h0,aa,ll,-ii,ll,	h0,aa,ll,rr,ii,ll,	# 할일
-mm,aa,kf,-ii,ll,	mm,aa,ng,nn,ii,ll,	# 막일
+(?=(^|#))h0,aa,nf,-ii,ll,	h0,aa,nf,nn,ii,ll,	# 한일
+(?=(^|#))mm,aa,kf,-ii,ll,	mm,aa,ng,nn,ii,ll,	# 막일
 mm,oo,ll,-s0,aa,ng,-s0,ii,kf,	mm,oo,ll,ss,aa,ng,s0,ii,kf,	# 몰상식
 oo,s0,#ii,pf,	oo,nf,nn,ii,pf,	# 옷입(다)
 (nf|ll),-yv,-s0,vv,-s0,	\1,nn,yv,s0,vv,tf,	# (스물/서른)여섯
@@ -58,8 +57,7 @@ mm,aa,ll,-s0,aa,ll,	mm,aa,ll,ss,aa,ll,	# 말살
 p0,uu,ll,-s0,	p0,uu,ll,ss,	# 불소/불세출
 ii,ll,-s0,ii,	ii,ll,ss,ii,	# 일시
 p0,aa,ll,-c0,vv,nf,	p0,aa,ll,cc,vv,nf,	# 발전
-(?<=s0,ii,nf,-)(c|k|t)0,	\1\1,	# 신고, 신다, 신자
-(?<=s0,aa,mf,-)(c|k|t)0,	\1\1,	# 삼고, 삼다, 삼자
+(?<=(s0,ii,nf,|s0,aa,mf,)-)(c|k|t)0,	\2\2,	# 신고, 신다, 신자, 삼고, 삼다, 삼자
 (?<=k0,ii,mf,-)p0,	pp,	# 김밥
 (?<=t0,vv,-t0,xx,mf,-)c0,	cc,	# 더듬지
 c0,aa,mf,-c0,aa,-rr,ii,	c0,aa,mf,cc,aa,rr,ii,	# 잠자리
@@ -91,7 +89,7 @@ ch,vv,s0,-ii,nf,	ch,vv,t0,ii,nf,	# 첫인(상)
 k0,ii,ll,-k0,aa,	k0,ii,ll,kk,aa,	# 길가
 mm,uu,ll,-t0,oo,ng,-ii,	mm,uu,ll,tt,oo,ng,ii,	# 물동이
 mm,uu,ll,-c0,	mm,uu,ll,-cc,	# 물증
-(?<=(nf|ll),-)p0,aa,-t0,aa,kf,	pp,aa,t0,aa,kf,	# 발바닥
+(?<=(nf|ll),-)p0,aa,-t0,aa,kf,	pp,aa,t0,aa,kf,	# 발바닥, 손바닥
 (?<=(nf|ll),-)s0,oo,kf,	ss,oo,kf,	# 굴속, 물속
 (?<=s0,uu,ll,-)(c|p|t)0,	\1\1,	# 술잔, 술독, 술병, 술자리
 k0,aa,ng,-k0,aa,	k0,aa,ng,kk,aa,	# 강가
@@ -131,7 +129,6 @@ nh,-(?=[aeqiouyvwx])	-nn,
 lh,-nn,	ll,-rr,
 lh,-(k|t|c)0,	ll,-\1h,
 lh,-s0,	ll,-ss,
-lh,-nn,	ll,-rr,
 lh,-(?=[aeqiouyvwx])	-rr,
 ### 겹받침 규칙 (ㄴㅈ)
 nc,-([ktsc])0,	nf,-\1\1,
@@ -149,7 +146,7 @@ s0,-p0,	tf,-pp,
 l(b|t),-(c|k|s|t|p)0,	ll,-\2\2,
 lp,-(c|k|s|t)0,	pf,-\1\1,
 (c[h0]|s[s0]|t[fh]),-(c|k|s|t)0,	tf,-\2\2,
-k[fhks],-(c|k|s|t)0,	kf,-\1\1,
+k[fhks],-(c|k|p|s|t)0,	kf,-\1\1,
 p[sfh],-(c|k|p|s|t)0,	pf,-\1\1,
 (?<=(kf|kh|ks|ss|c0|ch|tf|th),-)p0,	pp,
 h0,-s0,	-ss,
@@ -200,28 +197,16 @@ h0,-(c|k|t)0,	-\1h,
 nh,-(?=[aeqiouyvwx])	-nn,
 (s0|ss|c0|ch|th),(?=-[ptkshcmnr])	tf,
 h0,-(?=[aeqiouyvwx])	-
-lh,-(?=[aeqiouyvwx])	-rr,
-lh,(?=[aeqiouyvwx])	-rr,
-pf,-(?=[aeqiouyvwx])	-p0,
-pf,(?=[aeqiouyvwx])	-p0,
-tf,-(?=[aeqiouyvwx])	-t0,
-tf,(?=[aeqiouyvwx])	-t0,
-kf,-(?=[aeqiouyvwx])	-k0,
-kf,(?=[aeqiouyvwx])	-k0,
-(m|n)f,-(?=[aeqiouyvwx])	-\1\1,
+lh,-?(?=[aeqiouyvwx])	-rr,
+(p|t|k)f,-?(?=[aeqiouyvwx])	-\g<1>0,
+(m|n)f,-?(?=[aeqiouyvwx])	-\1\1,
 ### 종성규칙
-ph,(?=-|#|$)	pf,
 (s0|ss|c0|ch|th),(?=-|#|$)	tf,
-(kh|kk),(?=-|#|$)	kf,
-lp,(?=-[ptkshcmnr])	pf,
+(kh|kk|ks|lk),(?=-|#|$|[ptkshcmnr])	kf,	# (ks|lk),(?=-[ptkshcmnr])	kf,
+(ph|lp|ps),(?=-|#|$|[ptkshcmnr])	pf,
 (?<=[ptkshcmnr].),-(?=[aeqiouyvwx])	,
-l[bt],(?=-[ptkshcmnr])	ll,
-ps,(?=-[ptkshcmnr])	pf,
-(ks|lk),(?=-[ptkshcmnr])	kf,
-nh,-	nf,-
-nh,(#|$)	nf,
-l[bhstp],-	ll,-
-l[bhstp],(#|$)	ll,
+l[bhstp],(?=-|#|$|[ptkshcmnr])	ll,	# l[bt],(?=-[ptkshcmnr])	ll,
+nh,(?=-|#|$|[ptkshcmnr])	nf,-
 ### 리을 재음절화
 (?<=[aeqiouyvwx].,)ll,-(?=[aeqiouyvwx])	-rr,
 ll,-ll,	ll,-rr,
