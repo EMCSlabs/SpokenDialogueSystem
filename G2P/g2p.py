@@ -9,7 +9,7 @@ This script converts Korean graphemes to romanized phones and then to pronunciat
     (2) phone2prono: convert romanized phones to pronunciation
     (3) graph2phone: convert Korean graphemes to pronunciation
 
-Usage:  $ python g2p.py '여덟째 김밥'
+Usage:  $ python 'g2p.py' '국어는 즐겁다'
         (NB. Please check 'rulebook_path' before usage.)
 
 Yejin Cho (scarletcho@gmail.com)
@@ -19,10 +19,11 @@ Yeonjung Hong (yvonne.yj.hong@gmail.com)
 
 Created: 2016-08-11
 Last updated: 2017-01-10 Yejin Cho
+Modified    : 2017-01-20 Hyungwon Yang - Make this function work in both python 2 and 3.
 
 * Key updates made:
     - No xlrd or excel file required; Rules are imported from 'rulebook.txt'.
-    - Error rate reduced.
+    - Process time reduced (cf. For 491 items: 39 secs -> 0.58 secs)
 
 '''
 
@@ -31,8 +32,15 @@ import re
 import math
 import sys
 
-reload(sys)
-sys.setdefaultencoding('utf-8')
+# Check python version.
+ver_info = sys.version_info
+
+try:
+    # Python 2
+    reload(sys)
+    sys.setdefaultencoding('utf-8')
+except NameError:
+    pass
 
 
 def readfileUTF8(fname):
@@ -58,25 +66,41 @@ def writefile(body, fname):
     out.close()
 
 
-def readRules(rule_book):
-    f = open(rule_book, 'rb')
+def readRules(pver, rule_book):
+    f = open(rule_book, 'r')
 
     rule_in = []
     rule_out = []
 
-    while True:
-        line = f.readline()
-        line = unicode(line.encode("utf-8"))
-        line = re.sub(u'\n', u'', line)
-        if line != u'':
-            if line[0] != u'#':
+    if pver == 2:
+        while True:
+            line = f.readline()
+            line = unicode(line.encode("utf-8"))
+            line = re.sub(u'\n', u'', line)
+
+            if line != u'':
                 IOlist = line.split('\t')
                 rule_in.append(IOlist[0])
                 if IOlist[1]:
                     rule_out.append(IOlist[1])
                 else:   # If output is empty (i.e. deletion rule)
                     rule_out.append(u'')
-        if not line: break
+            if not line: break
+
+    elif pver == 3:
+        while True:
+            line = f.readline()
+            line = re.sub(u'\n', u'', line)
+
+            if line != u'':
+                IOlist = line.split('\t')
+                rule_in.append(IOlist[0])
+                if IOlist[1]:
+                    rule_out.append(IOlist[1])
+                else:   # If output is empty (i.e. deletion rule)
+                    rule_out.append(u'')
+            if not line: break
+
     f.close()
 
     return rule_in, rule_out
@@ -104,8 +128,12 @@ def checkCharType(var_list):
 
 
 def graph2phone(graphs):
-    # Encode graphemes as utf8
-    graphs = graphs.decode('utf8')
+    try:
+        # Encode graphemes as utf8
+        graphs = graphs.decode('utf8')
+    except AttributeError:
+        pass
+
     integers = []
     for i in range(len(graphs)):
         integers.append(ord(graphs[i]))
@@ -113,13 +141,13 @@ def graph2phone(graphs):
     # Romanization (according to Korean Spontaneous Speech corpus; 성인자유발화코퍼스)
     phones = ''
     ONS = ['k0', 'kk', 'nn', 't0', 'tt', 'rr', 'mm', 'p0', 'pp',
-           's0', 'ss', 'oh', 'c0', 'cc', 'ch', 'kh', 'th', 'ph', 'h0']
+           's0', 'ss', 'oh', 'c0', 'cc', 'ch', 'kh', 'th', 'ph', 'hh']
     NUC = ['aa', 'qq', 'ya', 'yq', 'vv', 'ee', 'yv', 'ye', 'oo', 'wa',
            'wq', 'wo', 'yo', 'uu', 'wv', 'we', 'wi', 'yu', 'xx', 'xi', 'ii']
     COD = ['', 'kf', 'kk', 'ks', 'nf', 'nc', 'nh', 'tf',
            'll', 'lk', 'lm', 'lb', 'ls', 'lt', 'lp', 'lh',
            'mf', 'pf', 'ps', 's0', 'ss', 'oh', 'c0', 'ch',
-           'kh', 'th', 'ph', 'h0']
+           'kh', 'th', 'ph', 'hh']
 
     # Pronunciation
     idx = checkCharType(integers)
@@ -143,7 +171,7 @@ def graph2phone(graphs):
             phones = phones + tmp
 
         elif idx[iElement] == 1:  # space character
-            tmp = '#'
+            tmp = ' '
             phones = phones + tmp
 
         phones = re.sub('-(oh)', '-', phones)
@@ -156,7 +184,8 @@ def graph2phone(graphs):
 
     # 받침 이응 'ng'으로 처리 (Velar nasal in coda position)
     phones = re.sub('oh-', 'ng-', phones)
-    phones = re.sub('oh([# ]|$)', 'ng', phones)
+    phones = re.sub('oh$', 'ng', phones)
+    phones = re.sub('oh ', 'ng ', phones)
 
     # Remove all characters except Hangul and syllable delimiter (hyphen; '-')
     phones = re.sub('(\W+)\-', '\\1', phones)
@@ -184,12 +213,13 @@ def addPhoneBoundary(phones):
             ipos += 1
         elif phones[ipos] == u' ':
             ipos += 1
-        elif phones[ipos] == u'#':
-            newphones = newphones + phones[ipos]
-            ipos += 1
-
+            
         newphones = newphones + phones[ipos] + phones[ipos+1] + u','
         ipos += 2
+
+    # Remove final comma
+    if newphones[-1] == u',':
+        newphones = newphones[0:-1]
 
     return newphones
 
@@ -222,73 +252,55 @@ def testG2P(rulebook, testset):
         pred = graph2prono(item_in, rule_in, rule_out)
 
         if pred != ans:
-            print('G2P ERROR:  [result] ' + pred + '\t\t\t[ans] ' + item_in + ' [' + item_out + '] ' + ans)
+            print('G2P ERROR:  [result] ' + pred + '\t[ans] ' + item_in + ' [' + item_out + '] ' + ans)
             cnt += 1
         else:
-            body.append('[result] ' + pred + '\t\t\t[ans] ' + item_in + ' [' + item_out + '] ' + ans)
+            body.append('[result] ' + pred + '\t[ans] ' + item_in + ' [' + item_out + '] ' + ans)
 
     print('Total error item #: ' + str(cnt))
     writefile(body,'good.txt')
 
 
-def graph2prono(graphs, rule_in, rule_out, verbose=False):
-
+def graph2prono(graphs, rule_in, rule_out):
     romanized = graph2phone(graphs)
     romanized_bd = addPhoneBoundary(romanized)
-    prono = phone2prono(romanized_bd, rule_in, rule_out)
+    pronunciation = phone2prono(romanized_bd, rule_in, rule_out)
 
-    prono = re.sub(u',', u' ', prono)
-    prono = re.sub(u' $', u'', prono)
-    prono = re.sub(u'#', u'-', prono)
-    prono = re.sub(u'-+', u'-', prono)
+    pronunciation = re.sub(u',', u' ', pronunciation)
+    pronunciation = re.sub(u' $', u'', pronunciation)
 
-    prono_prev = prono
-    identical = False
-    loop_cnt = 1
+    return pronunciation
 
-    if verbose == 1:
-        print ('=> Romanized: ' + romanized)
-        print ('=> Romanized with boundaries: ' + romanized_bd)
-        print ('=> Initial output: ' + prono)
+# Usage
+def g2p_kor(graph):
 
-    while not identical:
-        prono_new = phone2prono(re.sub(u' ', u',', prono_prev + u','), rule_in, rule_out)
-        prono_new = re.sub(u',', u' ', prono_new)
-        prono_new = re.sub(u' $', u'', prono_new)
-
-        if re.sub(u'-', u'', prono_prev) == re.sub(u'-', u'', prono_new):
-            identical = True
-            prono_new = re.sub(u'-', u'', prono_new)
-            if verbose == True:
-                print('\n=> Exhaustive rule application completed!')
-                print('=> Total loop count: ' + str(loop_cnt))
-                print('=> Output: ' + prono_new)
-        else:
-            if verbose == True:
-                print('\n=> Rule applied for more than once')
-                print('cmp1: ' + re.sub(u'-', u'', prono_prev))
-                print('cmp2: ' + re.sub(u'-', u'', prono_new))
-            loop_cnt += 1
-            prono_prev = prono_new
-
-    return prono_new
-
-if sys.argv[1] == 'test':
-    # ----------------------------------------------------------------------
-    # [ G2P Test ]
-    print('[ G2P Performance Test ]')
-    beg = dt.datetime.now()
-    testG2P('rulebook.txt', 'testset.txt')
-    end = dt.datetime.now()
-
-    print('Total time: ')
-    print(end - beg)
-    # ----------------------------------------------------------------------
-
-else:
-    graph = sys.argv[1]
     rulebook_path = 'rulebook.txt'
+    [rule_in, rule_out] = readRules(ver_info[0],rulebook_path)
+    if ver_info[0] == 2:
+        prono = graph2prono(unicode(graph), rule_in, rule_out)
+    elif ver_info[0] == 3:
+        prono = graph2prono(graph, rule_in, rule_out)
 
-    [rule_in, rule_out] = readRules(rulebook_path)
-    prono = graph2prono(unicode(graph), rule_in, rule_out, verbose=True)
-    print prono
+    print(prono)
+
+
+# ----------------------------------------------------------------------
+# [ G2P Test ]
+# beg = dt.datetime.now()
+
+# [rule_in, rule_out] = readRules('rulebook_reduced.txt')
+# testG2P('rulebook_reduced.txt', 'testset.txt')
+
+# end = dt.datetime.now()
+# print('Total time: ')
+# print(end - beg)
+# ----------------------------------------------------------------------
+
+
+# Usage:
+if __name__ == '__main__':
+
+    graph = sys.argv[1]
+    g2p_kor(graph)
+
+
