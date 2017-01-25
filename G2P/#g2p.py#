@@ -128,7 +128,8 @@ def checkCharType(var_list):
 def graph2phone(graphs):
     # Encode graphemes as utf8
     try:
-        graphs = graphs.decode('utf8')
+
+    graphs = graphs.decode('utf8')
     except AttributeError:
         pass
 
