@@ -31,7 +31,16 @@ import datetime as dt
 import re
 import math
 import sys
+import optparse
 
+
+# Option
+parser = optparse.OptionParser()
+parser.add_option("-v", action="store_true", dest="verbose", default="False",
+                  help="This option prints the detail information of g2p process.")
+
+(options,args) = parser.parse_args()
+verbose = options.verbose
 
 # Check Python version
 ver_info = sys.version_info
@@ -224,7 +233,7 @@ def addSpace(phones):
     return newphones
 
 
-def graph2prono(graphs, rule_in, rule_out, verbose=False):
+def graph2prono(graphs, rule_in, rule_out):
 
     romanized = graph2phone(graphs)
     romanized_bd = addPhoneBoundary(romanized)
@@ -239,7 +248,7 @@ def graph2prono(graphs, rule_in, rule_out, verbose=False):
     identical = False
     loop_cnt = 1
 
-    if verbose == 1:
+    if verbose == True:
         print ('=> Romanized: ' + romanized)
         print ('=> Romanized with boundaries: ' + romanized_bd)
         print ('=> Initial output: ' + prono)
@@ -292,13 +301,13 @@ def testG2P(rulebook, testset):
     writefile(body,'good.txt')
 
 
-def runKoG2P(graph, rulebook, verbosity):
+def runKoG2P(graph, rulebook):
     rulebook = 'rulebook.txt'
     [rule_in, rule_out] = readRules(ver_info[0], rulebook)
     if ver_info[0] == 2:
-        prono = graph2prono(graph, rule_in, rule_out, verbose=verbosity)
+        prono = graph2prono(graph, rule_in, rule_out)
     elif ver_info[0] == 3:
-        prono = graph2prono(graph, rule_in, rule_out, verbose=verbosity)
+        prono = graph2prono(graph, rule_in, rule_out)
 
     print(prono)
 
@@ -318,12 +327,11 @@ def runTest(rulebook, testset):
 # Usage:
 if __name__ == '__main__':
 
-    if sys.argv[1] == 'test':   # G2P Performance Test
+    if args[0] == 'test':   # G2P Performance Test
         runTest('rulebook.txt', 'testset.txt')
 
     else:
-        graph = sys.argv[1]
-        verbosity = True
-        runKoG2P(graph, 'rulebook.txt', verbosity)
+        graph = args[0]
+        runKoG2P(graph, 'rulebook.txt')
 
 
