@@ -59,7 +59,7 @@ def readfileUTF8(fname):
 
     while True:
         line = f.readline()
-        line = unicode(line.encode("utf-8"))
+        line = line.encode("utf-8")
         line = re.sub(u'\n', u'', line)
         if line != u'':
             corpus.append(line)
@@ -76,16 +76,19 @@ def writefile(body, fname):
     out.close()
 
 
-def readRules(pver, rulebook):
-    f = open(rulebook, 'r')
-
+def readRules(pver, rule_book):
+    if pver == 2:
+        f = open(rule_book, 'r')
+    elif pver == 3:
+         f = open(rule_book, 'r',encoding="utf-8")
+         
     rule_in = []
     rule_out = []
 
     while True:
         line = f.readline()
         if pver == 2:
-            line = unicode(line.encode("utf-8"))
+            line = line.encode("utf-8")
             line = re.sub(u'\n', u'', line)
         elif pver == 3:
             line = re.sub('\n', '', line)
@@ -304,7 +307,7 @@ def testG2P(rulebook, testset):
 def runKoG2P(graph, rulebook):
     [rule_in, rule_out] = readRules(ver_info[0], rulebook)
     if ver_info[0] == 2:
-        prono = graph2prono(unicode(graph), rule_in, rule_out)
+        prono = graph2prono(graph, rule_in, rule_out)
     elif ver_info[0] == 3:
         prono = graph2prono(graph, rule_in, rule_out)
 
