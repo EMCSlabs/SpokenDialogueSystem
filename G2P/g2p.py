@@ -9,7 +9,7 @@ This script converts Korean graphemes to romanized phones and then to pronunciat
     (2) phone2prono: convert romanized phones to pronunciation
     (3) graph2phone: convert Korean graphemes to pronunciation
 
-Usage:  $ python g2p.py '열 여덟째 사람'
+Usage:  $ python g2p.py '스물 여덟째 사람'
         (NB. Please check 'rulebook_path' before usage.)
 
 Yejin Cho (scarletcho@gmail.com)
@@ -18,7 +18,7 @@ Hyungwon Yang (hyung8758@gmail.com)
 Yeonjung Hong (yvonne.yj.hong@gmail.com)
 
 Created: 2016-08-11
-Last updated: 2017-01-25 Hyungwon Yang, Yejin Cho
+Last updated: 2017-02-22 Yejin Cho
 
 * Key updates made:
     - Executable in both Python 2 and 3.
@@ -45,12 +45,9 @@ verbose = options.verbose
 # Check Python version
 ver_info = sys.version_info
 
-try:
-    # Python 2
+if ver_info[0] == 2:
     reload(sys)
     sys.setdefaultencoding('utf-8')
-except NameError:
-    pass
 
 
 def readfileUTF8(fname):
@@ -88,7 +85,7 @@ def readRules(pver, rule_book):
     while True:
         line = f.readline()
         if pver == 2:
-            line = line.encode("utf-8")
+            line = unicode(line.encode("utf-8"))
             line = re.sub(u'\n', u'', line)
         elif pver == 3:
             line = re.sub('\n', '', line)
@@ -307,7 +304,7 @@ def testG2P(rulebook, testset):
 def runKoG2P(graph, rulebook):
     [rule_in, rule_out] = readRules(ver_info[0], rulebook)
     if ver_info[0] == 2:
-        prono = graph2prono(graph, rule_in, rule_out)
+        prono = graph2prono(unicode(graph), rule_in, rule_out)
     elif ver_info[0] == 3:
         prono = graph2prono(graph, rule_in, rule_out)
 
